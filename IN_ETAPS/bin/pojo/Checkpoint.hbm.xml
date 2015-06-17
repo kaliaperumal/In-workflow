@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 15 May, 2015 10:26:28 AM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="pojo.Checkpoint" table="Checkpoint" catalog="etaps1">
+        <id name="sno" type="java.lang.Integer">
+            <column name="sno" />
+            <generator class="identity" />
+        </id>
+        <property name="journalId" type="string">
+            <column name="journalId" length="40" />
+        </property>
+        <property name="articleId" type="string">
+            <column name="articleId" length="40" />
+        </property>
+        <property name="dataset" type="string">
+            <column name="dataset" length="40" />
+        </property>
+        <property name="metaXMLName" type="string">
+        	<column name="MetaXMLName" length="30"/>
+        </property>   
+        <property name="zipfileName" type="string">
+            <column name="zipfileName" length="40" />
+        </property>
+        <property name="status" type="int">
+        	<column name="status" not-null="true"/>
+        </property>
+    </class>
+</hibernate-mapping>

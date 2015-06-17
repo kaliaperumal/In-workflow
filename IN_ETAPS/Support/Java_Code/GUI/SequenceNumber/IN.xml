@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "H:/Programme/dtd/journal-publishing-dtd-3.0/publishing/journalpublishing3.dtd">
+<article article-type="rapid-communication" xmlns:mml="http://www.w3.org/1998/Math/MathML" name="OPT_ID_1">
+<front name="OPT_ID_2">
+<journal-meta name="OPT_ID_3">
+<journal-id journal-id-type="publisher-id" name="OPT_ID_4">epl</journal-id>
+<journal-id journal-id-type="coden" name="OPT_ID_5">EULEEJ</journal-id>
+<journal-title-group name="OPT_ID_6">
+<journal-title name="OPT_ID_7">Europhysics Letters</journal-title>
+<abbrev-journal-title abbrev-type="IOP" name="OPT_ID_8">EPL</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher" name="OPT_ID_9">EPL</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub" name="OPT_ID_10">0295-5075</issn>
+<issn pub-type="epub" name="OPT_ID_11">1286-4854</issn>
+<publisher name="OPT_ID_12">
+<publisher-name name="OPT_ID_13">EDP Sciences, IOP Publishing and Societ<span class="unicode-char">&agrave;</span> Italiana di Fisica</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta name="OPT_ID_14">
+<article-id pub-id-type="publisher-id" name="OPT_ID_15">epl16892</article-id>
+<article-id pub-id-type="doi" name="OPT_ID_16">10.1209/0295-5075/109/39002</article-id>
+<article-id pub-id-type="manuscript" name="OPT_ID_17">16892</article-id>
+<article-categories name="OPT_ID_18">
+<subj-group subj-group-type="article-type" name="OPT_ID_19">
+<subject name="OPT_ID_20">Letter</subject>
+</subj-group>
+<subj-group subj-group-type="section" name="OPT_ID_21">
+<subject name="OPT_ID_22">90 Geophysics, astronomy, and astrophysics</subject>
+</subj-group>
+</article-categories>
+<title-group name="OPT_ID_23">
+<article-title name="OPT_ID_24">Directional dependence of the local estimation of H<sub name="OPT_ID_25">0</sub> and the nonperturbative effects of primordial curvature perturbations</article-title>
+<alt-title alt-title-type="ascii" name="OPT_ID_26">Directional dependence of the local estimation of H<sub name="OPT_ID_27">0</sub> and the nonperturbative effects of primordial curvature perturbations</alt-title>
+<alt-title alt-title-type="short" name="OPT_ID_28">Directional dependence of the local estimation of <italic name="OPT_ID_29">H</italic><sub name="OPT_ID_30">0</sub> and the nonperturbative effects etc.</alt-title>
+<alt-title alt-title-type="short-ascii" name="OPT_ID_31">Directional dependence of the local estimation of <italic name="OPT_ID_32">H</italic><sub name="OPT_ID_33">0</sub> and the nonperturbative effects etc.</alt-title>
+</title-group>
+<contrib-group content-type="all" name="OPT_ID_34">
+<contrib contrib-type="author" name="OPT_ID_35">
+<name name="OPT_ID_36"><surname name="OPT_ID_37">Romano</surname><given-names name="OPT_ID_38">Antonio Enea</given-names></name>
+<xref ref-type="aff" rid="epl16892af1" name="OPT_ID_39">1</xref>
+<xref ref-type="aff" rid="epl16892af2" name="OPT_ID_40">2</xref>
+<xref ref-type="aff" rid="epl16892af3" name="OPT_ID_41">3</xref>
+<xref ref-type="aff" rid="epl16892af4" name="OPT_ID_42">4</xref>
+</contrib>
+<contrib contrib-type="author" name="OPT_ID_43">
+<name name="OPT_ID_44"><surname name="OPT_ID_45">Vallejo</surname><given-names name="OPT_ID_46">Sergio Andr<span class="unicode-char">&eacute;</span>s</given-names></name>
+<xref ref-type="aff" rid="epl16892af2" name="OPT_ID_47">2</xref>
+<xref ref-type="aff" rid="epl16892af4" name="OPT_ID_48">4</xref>
+</contrib>
+<aff id="epl16892af1" name="OPT_ID_49"><label name="OPT_ID_50">1</label>Yukawa Institute for Theoretical Physics, <institution name="OPT_ID_51">Kyoto University</institution> - Kyoto 606-8502, <country name="OPT_ID_52">Japan</country></aff>
+<aff id="epl16892af2" name="OPT_ID_53"><label name="OPT_ID_54">2</label>Department of Physics and CCTP, <institution name="OPT_ID_55">University of Crete</institution> - Heraklion 711 10, <country name="OPT_ID_56">Greece</country></aff>
+<aff id="epl16892af3" name="OPT_ID_57"><label name="OPT_ID_58">3</label>Department of Physics, <institution name="OPT_ID_59">McGill University</institution> - Montr<span class="unicode-char">&eacute;</span>al, QC H3A 2T8, <country name="OPT_ID_60">Canada</country></aff>
+<aff id="epl16892af4" name="OPT_ID_61"><label name="OPT_ID_62">4</label>Instituto de Fisica, <institution name="OPT_ID_63">Universidad de Antioquia</institution> - A.A. 1226, Medellin, <country name="OPT_ID_64">Colombia</country></aff>
+<author-comment content-type="short-author-list" name="OPT_ID_65"><p name="OPT_ID_66">Antonio Enea Romano and Sergio Andr<span class="unicode-char">&eacute;</span>s Vallejo</p>
+</author-comment>
+</contrib-group>
+<pub-date pub-type="ppub" name="OPT_ID_67"><month name="OPT_ID_68">2</month><year name="OPT_ID_69">2015</year></pub-date>
+<pub-date pub-type="epub" name="OPT_ID_70"><day name="OPT_ID_71">19</day><month name="OPT_ID_72">2</month><year name="OPT_ID_73">2015</year></pub-date>
+<volume name="OPT_ID_74">109</volume>
+<issue name="OPT_ID_75">3</issue>
+<elocation-id content-type="artnum" name="OPT_ID_76">39002</elocation-id>
+<history name="OPT_ID_77">
+<date date-type="received" name="OPT_ID_78"><day name="OPT_ID_79">16</day><month name="OPT_ID_80">10</month><year name="OPT_ID_81">2014</year></date>
+<date date-type="accepted" name="OPT_ID_82"><day name="OPT_ID_83">30</day><month name="OPT_ID_84">1</month><year name="OPT_ID_85">2015</year></date>
+</history>
+<permissions name="OPT_ID_86">
+<copyright-statement name="OPT_ID_87">Copyright <span class="unicode-char">&copy;</span> EPLA, 2015</copyright-statement>
+<copyright-year name="OPT_ID_88">2015</copyright-year>
+</permissions>
+<self-uri name="OPT_ID_89"/>
+<abstract name="OPT_ID_90">
+<title name="OPT_ID_91">Abstract</title>
+<p name="OPT_ID_92">Recent measurements of the cosmic microwave background (CMB) radiation have shown an apparent tension with the present value of the Hubble parameter inferred from local observations of supernovae, which look closer, <italic name="OPT_ID_93">i.e.</italic> brighter, than what is expected in a homogeneous model with a value of <italic name="OPT_ID_93">H</italic><sub name="OPT_ID_95">0</sub> equal to the one estimated from CMB observations. We examine the possibility that such a discrepancy is the consequence of the presence of a local inhomogeneity seeded by primordial curvature perturbations, finding that a negative peak of the order of less than two standard deviations could allow to fit low-redshift supernovae observations without the need of using a value of the Hubble parameter different from <italic name="OPT_ID_93">H</italic><sub name="OPT_ID_95">0</sub><sup name="OPT_ID_98"><italic name="OPT_ID_93">CMB</italic></sup>. The type of inhomogeneity we consider does not modify the distance to the last scattering, making it compatible with the constraints of the PLANCK mission data. The effect on the luminosity distance is in fact localized around the region in space where the transition between different values of the curvature perturbations occurs, producing a local decrease, while the distance outside the inhomogeneity is not affected. Our calculation is fully relativistic and nonperturbative, and for this reason is shows important effects which were missed in the previous investigations using relativistic perturbations or Newtonian approximations, because the structures seeded by primordial curvature perturbations can be today highly nonlinear, and relativist Doppler terms cannot be neglected. Because of these effects the correction to the luminosity distance necessary to explain observations is associated to a compensated structure which involves both an underdense central region and an overdense outer shell, ensuring that the distance to the last scattering surface is unaffected. Comparison with studies of local structure based on galaxy surveys analysis reveals that the density profile we find could in fact be compatible with the one obtained for the same region of sky where most of the supernovae used for the local <italic name="OPT_ID_93">H</italic><sub name="OPT_ID_95">0</sub> estimation are located, suggesting a possible directional dependence which could be partially attributed to the presence of the Sloan Great Wall and hinting to the need of a more careful investigation, including a wider set of low-redshift supernovae in different regions of the sky.</p>
+</abstract>
+<kwd-group kwd-group-type="author-pacs" name="OPT_ID_102">
+<kwd name="OPT_ID_103">98.80.-k</kwd>
+<kwd name="OPT_ID_104">98.80.Es</kwd>
+</kwd-group>
+<counts name="OPT_ID_105">
+<page-count count="6" name="OPT_ID_106"/>
+</counts>
+<custom-meta-group name="OPT_ID_107">
+<custom-meta name="OPT_ID_108">
+<meta-name name="OPT_ID_109">ccc</meta-name>
+<meta-value name="OPT_ID_110"></meta-value>
+</custom-meta>
+<custom-meta name="OPT_ID_111"><meta-name name="OPT_ID_112">printed</meta-name>
+<meta-value name="OPT_ID_113">Printed in France</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body name="OPT_ID_114">
+<sec id="epl16892s1" name="OPT_ID_115">
+<title name="OPT_ID_116">Introduction</title>
+<p name="OPT_ID_117">Recent observations<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib1" name="OPT_ID_118">1</xref>] of the cosmic microwave background (CMB) have pointed to an apparent discrepancy between the value of the Hubble parameter <italic name="OPT_ID_119">H</italic><sub name="OPT_ID_120">0</sub> deduced from cosmological data and the value inferred from local astrophysical observations<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib1" name="OPT_ID_118">1</xref>&ndash;<xref ref-type="bibr" rid="epl16892bib3" name="OPT_ID_122">3</xref>].</p>
+<p name="OPT_ID_123">Following<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib4" name="OPT_ID_124">4</xref>] we denote with <inline-formula id="epl16892ieqn1" name="OPT_ID_125"><tex-math name="OPT_ID_126"><?CDATA ${H_0}^{\!\!\!\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_127"/>
+</inline-formula> the value of the Hubble constant estimated from observational data ignoring the presence of an inhomogeneity and with <inline-formula id="epl16892ieqn2" name="OPT_ID_128"><tex-math name="OPT_ID_129"><?CDATA $H_0^{\textit{true}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_130"/>
+</inline-formula> the value obtained taking into account the inhomogeneity. According to this notation, since both the above-mentioned estimations were based on the assumption of homogeneity, the apparent tension can be expressed as <inline-formula id="epl16892ieqn3" name="OPT_ID_131"><tex-math name="OPT_ID_132"><?CDATA $H_{0,SN}^{\textit{app}}\approx1.09H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_133"/>
+</inline-formula>, where <inline-formula id="epl16892ieqn4" name="OPT_ID_134"><tex-math name="OPT_ID_135"><?CDATA $H_{0,SN}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_136"/>
+</inline-formula> and <inline-formula id="epl16892ieqn5" name="OPT_ID_137"><tex-math name="OPT_ID_138"><?CDATA $H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_139"/>
+</inline-formula> are the values estimated from fitting respectively low-redshift supernovae and CMB observations. One possible explanation of such a difference could be the effects of local structure on the analysis of cosmological and astrophysical observations, and we will show what kind of inhomogeneity could resolve the tension, <italic name="OPT_ID_140">i.e.</italic> could give <inline-formula id="epl16892ieqn6" name="OPT_ID_141"><tex-math name="OPT_ID_142"><?CDATA $H_{0,SN}^{\textit{true}}=H_{0,\textit{CMB}}^{\textit{true}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_143"/>
+</inline-formula>.</p>
+<p name="OPT_ID_144">The effects of a local inhomogeneity on the estimation of cosmological parameters have been studied already in different contexts such as the estimation of the equation of state of dark energy<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib4" name="OPT_ID_145">4</xref>], where it has been shown that ignoring the presence of local inhomogeneities in data analysis can lead to the wrong conclusion of an apparent evolving dark energy, while only a cosmological constant is in fact present, or to corrections<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib5" name="OPT_ID_146">5</xref>] to the apparent value of the cosmological constant. More recently<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib6" name="OPT_ID_147">6</xref>] it was shown that a present-day local inhomogeneity seeded by a peak of primordial curvature perturbations could in fact not only affect the estimation of the value of the cosmological constant, but also of <italic name="OPT_ID_148">H</italic><sub name="OPT_ID_149">0</sub>. In particular it was shown that the effects of such an inhomogeneity on <italic name="OPT_ID_148">H</italic><sub name="OPT_ID_149">0</sub> depend on the spatial gradient of the inhomogeneity, and could be important independently of the amplitudes of the curvature perturbations. This implies that this kind of inhomogeneities arise naturally from fluctuations of the primordial curvature perturbations, and require a careful investigation. In this letter we will focus on the early-time origin of an inhomogeneity able to solve the apparent tension in the <italic name="OPT_ID_148">H</italic><sub name="OPT_ID_149">0</sub> estimation, showing how the inflationary scenario can easily explain the formation of such a local structure today.</p>
+<p name="OPT_ID_154">Some of the previous studies of the effects of inhomogeneities on the expansion rate, such as, for example,<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib7" name="OPT_ID_155">7</xref>&ndash;<xref ref-type="bibr" rid="epl16892bib9" name="OPT_ID_156">9</xref>], were based on an implicit assumption of the validity of the Hubble law and on the use of a Newtonian approximation to relate the local velocity field to <italic name="OPT_ID_157">H</italic>. Other approaches are based on the Hubble bubble model<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib10" name="OPT_ID_158">10</xref>], which is the basis of the top hat spherical collapse, or on the averaging of the perturbations<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib11" name="OPT_ID_159">11</xref>]. All these different attempts to estimate the effects of inhomogeneities are based on a Newtonian or relativistic linear perturbations approximation, and as such are not able to obtain the nonperturbative relativistic effects that the use of an exact solution of Einstein&apos;s equations allows to calculate. In fact, as shown in<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib12" name="OPT_ID_160">12</xref>], perturbation theory is not able to fully account for the relativistic effects of an inhomogeneities for the luminosity distance, because gradient terms can have important contributions which are normally ignored in the Newtonian or relativistic perturbative calculations.</p>
+<p name="OPT_ID_161">The discrepancy between apparent and true values of cosmological parameters is a consequence of the intrinsic limitation of cosmological or astrophysical observations involving redshift measurements, implying an intrinsic uncertainty<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib13" name="OPT_ID_162">13</xref>] on the estimation of cosmological parameters. Under the assumption of homogeneity the redshift is explained exclusively as a consequence of the expansion of the Universe, while taking into account spatial inhomogeneity additional contributions to the redshift can come from the spatial variation the gravitational potential. While the effects of these variations are normally considered to be small compared to the contribution associated to the Universe expansion, it is possible that the local structure can actually induce some important corrections with respect to the apparent values, <italic name="OPT_ID_163">i.e.</italic> the ones obtained from observation ignoring the space variation of the metric.</p>
+<p name="OPT_ID_164">From the relation between the Hubble parameter and the luminosity distance in a spatially flat FLRW Universe, <disp-formula id="epl16892eqn1" name="OPT_ID_165">
+<label name="OPT_ID_166">1</label><tex-math name="OPT_ID_167"><?CDATA \begin{eqnarray}
+D_L(z)&=(1+z)\int^{z}_0\frac{\text{d} x}{H(x)},\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_168"/>
+</disp-formula>
+<disp-formula id="epl16892eqn2" name="OPT_ID_169">
+<label name="OPT_ID_170">2</label><tex-math name="OPT_ID_171"><?CDATA \begin{eqnarray}
+H^{\Lambda CDM}(z)&=H_0{^{\!\!app}}\sqrt{\Omega_M(1+z)^3+\Omega_{\Lambda}},
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_172"/>
+</disp-formula> we can see that the larger estimated value of <inline-formula id="epl16892ieqn7" name="OPT_ID_173"><tex-math name="OPT_ID_174"><?CDATA $H_{0,SN}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_175"/>
+</inline-formula> compared to <inline-formula id="epl16892ieqn8" name="OPT_ID_176"><tex-math name="OPT_ID_177"><?CDATA $H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_178"/>
+</inline-formula> corresponds to the observation of supernovae closer than what is expected in a <inline-formula id="epl16892ieqn9" name="OPT_ID_179"><tex-math name="OPT_ID_180"><?CDATA $\Lambda \text{CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_181"/>
+</inline-formula> model with the Hubble parameter equal to <inline-formula id="epl16892ieqn10" name="OPT_ID_182"><tex-math name="OPT_ID_183"><?CDATA $H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_184"/>
+</inline-formula>. In the framework of homogenous cosmological models the observed brightness of low-redshift supernovae is interpreted as the result of a faster expansion of the Universe, while if the effects of a local inhomogeneity are properly taken into account there is no need to invoke a value of <italic name="OPT_ID_185">H</italic><sub name="OPT_ID_186">0</sub> different from <inline-formula id="epl16892ieqn11" name="OPT_ID_187"><tex-math name="OPT_ID_188"><?CDATA $H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_189"/>
+</inline-formula>. In the particular case of the set of observations we are interested in in this letter, we have that an appropriate local inhomogeneity does not affect the distance to the last scattering, and consequently the estimation of <italic name="OPT_ID_190">H</italic><sub name="OPT_ID_191">0</sub> from CMB data, so that the assumption of homogeneity in analyzing CMB data does not give a different result with respect to the corresponding data analysis taking into account the inhomogeneity, <italic name="OPT_ID_190">i.e.</italic><span class="unicode-char">&nbsp;</span><inline-formula id="epl16892ieqn12" name="OPT_ID_193"><tex-math name="OPT_ID_194"><?CDATA $H^{\textit{app}}_{0,\textit{CMB}}\!\approx\! H^{\textit{true}}_{0,\textit{CMB}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_195"/>
+</inline-formula>. The presence of a local inhomogeneity could instead affect the local estimation of <italic name="OPT_ID_196">H</italic><sub name="OPT_ID_197">0</sub>, so that <inline-formula id="epl16892ieqn13" name="OPT_ID_198"><tex-math name="OPT_ID_199"><?CDATA $H^{\textit{app}}_{0,SN}\!>\!H^{\textit{true}}_{0,SN}$ ?>
+</tex-math>
+<inline-graphic name="OPT_ID_200"/>
+</inline-formula>, where <inline-formula id="epl16892ieqn14" name="OPT_ID_201"><tex-math name="OPT_ID_202"><?CDATA $H^{\textit{true}}_{0,SN}$ ?></tex-math>
+<inline-graphic name="OPT_ID_203"/>
+</inline-formula> is the value of <italic name="OPT_ID_204">H</italic><sub name="OPT_ID_205">0</sub> which, according to the above definitions, is obtained from the data taking into account the effects of the inhomogeneity. In the presence of an inhomogeneity in fact the determination of <italic name="OPT_ID_204">H</italic><sub name="OPT_ID_205">0</sub> from <inline-formula id="epl16892ieqn15" name="OPT_ID_208"><tex-math name="OPT_ID_209"><?CDATA $D_L^{\textit{obs}}(z_{SN})$ ?></tex-math>
+<inline-graphic name="OPT_ID_210"/>
+</inline-formula>, where <inline-formula id="epl16892ieqn16" name="OPT_ID_211"><tex-math name="OPT_ID_212"><?CDATA $z_{SN}\approx 0.04$ ?></tex-math>
+<inline-graphic name="OPT_ID_213"/>
+</inline-formula> is the mean redshift of the supernovae observations used for the local estimation of <italic name="OPT_ID_214">H</italic><sub name="OPT_ID_215">0</sub><span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib2" name="OPT_ID_216">2</xref>], should not be based on the standard <inline-formula id="epl16892ieqn17" name="OPT_ID_217"><tex-math name="OPT_ID_218"><?CDATA $\Lambda \text{CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_219"/>
+</inline-formula> redshift distance relation, but another one which takes into account the local inhomogeneity, and in this way the discrepancy can be solved, <italic name="OPT_ID_220">i.e.</italic><span class="unicode-char">&nbsp;</span><inline-formula id="epl16892ieqn18" name="OPT_ID_221"><tex-math name="OPT_ID_222"><?CDATA $H^{\textit{app}}_{0,\textit{CMB}}\approx H^{\textit{true}}_{0,\textit{CMB}}=H^{\textit{true}}_{0,SN}$ ?></tex-math>
+<inline-graphic name="OPT_ID_223"/>
+</inline-formula>.</p>
+</sec>
+<sec id="epl16892s2" name="OPT_ID_224">
+<title name="OPT_ID_225">Low-redshift supernovae and the <italic name="OPT_ID_226">H</italic><sub name="OPT_ID_227">0</sub> estimation</title>
+<p name="OPT_ID_228">We will adopt the following notation for the luminosity distance: <inline-formula id="epl16892ieqn19" name="OPT_ID_229"><tex-math name="OPT_ID_230"><?CDATA $D_L^{\textit{mod}}(z,H_0)$ ?></tex-math>
+<inline-graphic name="OPT_ID_231"/>
+</inline-formula>, where we are denoting with a superscript the cosmological model or the observed data, and <italic name="OPT_ID_232">H</italic><sub name="OPT_ID_233">0</sub> is explicitly treated as an argument to avoid confusion. According to the above notation low-redshift supernovae observations are fitted by a homogeneous cosmological model according to <disp-formula id="epl16892eqn3" name="OPT_ID_234">
+<label name="OPT_ID_235">3</label><tex-math name="OPT_ID_236"><?CDATA \begin{equation}
+D_L^{\textit{hom}}(z_{SN},{H_{0,SN}^{\textit{app}}})=D_L^{\textit{obs}}(z_{SN}),
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_237"/>
+</disp-formula> with <inline-formula id="epl16892ieqn20" name="OPT_ID_238"><tex-math name="OPT_ID_239"><?CDATA $H_{0,SN}^{\textit{app}}\approx 1.09 H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_240"/>
+</inline-formula>. We will show that if the effects of primordial curvature perturbations are taken into account, a local inhomogeneity could resolve the apparent discrepancy, <italic name="OPT_ID_241">i.e.</italic>
+<disp-formula id="epl16892eqn4" name="OPT_ID_242">
+<label name="OPT_ID_243">4</label><tex-math name="OPT_ID_244"><?CDATA \begin{equation}
+D_L^{\textit{inh}}(z_{SN},{H_{0^,\textit{CMB}}^{\textit{true}}})=D_L^{obs}(z_{SN}).
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_245"/>
+</disp-formula></p>
+<p name="OPT_ID_246">Such an inhomogeneity can arise naturally from primordial curvature perturbations as predicted by inflation and constrained by CMB observations to have a standard deviation of about <inline-formula id="epl16892ieqn21" name="OPT_ID_247"><tex-math name="OPT_ID_248"><?CDATA $5 \times 10^{-5}$ ?></tex-math>
+<inline-graphic name="OPT_ID_249"/>
+</inline-formula>, providing a simple mechanism for its origin.</p>
+</sec>
+<sec id="epl16892s3" name="OPT_ID_250">
+<title name="OPT_ID_251">Modeling the local Universe</title>
+<p name="OPT_ID_252">We will model the local structure with a LTB solution of Einstein<span class="unicode-char">&apos;</span>s equation with a cosmological constant term, assuming to be located around its center. This is a pressureless spherically symmetric solution which allows to take into account the nonperturbative effects due to the inhomogeneity. The central location assumption can be interpreted&nbsp;[<xref ref-type="bibr" rid="epl16892bib14" name="OPT_ID_253">14</xref>] as calculating the monopole contribution to the corrections coming from local structure. Since we are considering inhomogeneities which can be seeded by not very large fluctuations of primordial curvature perturbations, these structures can arise very naturally. Only the use of an exact solution allows to study their formation, since today they can become highly nonlinear, and the standard theory of structure formation based on a perturbative approach cannot be applied to study their full evolution.</p>
+<p name="OPT_ID_254">The LTB solution is given by<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib15" name="OPT_ID_255">15</xref>&ndash;<xref ref-type="bibr" rid="epl16892bib17" name="OPT_ID_256">17</xref>]
+<disp-formula id="epl16892eqn5" name="OPT_ID_257">
+<label name="OPT_ID_258">5</label><tex-math name="OPT_ID_259"><?CDATA \begin{eqnarray}
+\text{d}s^2 = -\text{d}t^2 + \frac{\left(R,_{r}\right)^2 \text{d}r^2}{1 + 2\,E(r)}+R^2
+\text{d}\Omega^2,
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_260"/>
+</disp-formula> where <italic name="OPT_ID_261">R</italic> is a function of the time coordinate <italic name="OPT_ID_261">t</italic> and the radial coordinate <italic name="OPT_ID_261">r</italic>, <italic name="OPT_ID_261">E</italic>(<italic name="OPT_ID_261">r</italic>) is an arbitrary function of <italic name="OPT_ID_261">r</italic>, and <inline-formula id="epl16892ieqn22" name="OPT_ID_267"><tex-math name="OPT_ID_268"><?CDATA $R_{,r}=\partial_rR(t,r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_269"/>
+</inline-formula>. The Einstein<span class="unicode-char">&apos;</span>s equations with a cosmological constant give <disp-formula id="epl16892eqn6" name="OPT_ID_270">
+<label name="OPT_ID_271">6</label><tex-math name="OPT_ID_272"><?CDATA \begin{eqnarray}
+\left({\frac{\dot{R}}{R}}\right)^2&=\frac{2 E(r)}{R^2}+\frac{2M(r)}{R^3}+\frac{\Lambda}{3},\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_273"/>
+</disp-formula>
+<disp-formula id="epl16892eqn7" name="OPT_ID_274">
+<label name="OPT_ID_275">7</label><tex-math name="OPT_ID_276"><?CDATA \begin{eqnarray}
+\rho(t,r)&=\frac{2M,_{r}}{R^2 R,_{r}},\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_277"/>
+</disp-formula> where <italic name="OPT_ID_278">M</italic>(<italic name="OPT_ID_278">r</italic>) is an arbitrary function of <italic name="OPT_ID_278">r</italic>, <inline-formula id="epl16892ieqn23" name="OPT_ID_281"><tex-math name="OPT_ID_282"><?CDATA $\dot{R}=\partial_t R(t,r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_283"/>
+</inline-formula> and <inline-formula id="epl16892ieqn24" name="OPT_ID_284"><tex-math name="OPT_ID_285"><?CDATA $c=8\pi G=1$ ?></tex-math>
+<inline-graphic name="OPT_ID_286"/>
+</inline-formula> and is assumed in the rest of the paper. We will also adopt, without loss of generality, the coordinate system in which <inline-formula id="epl16892ieqn25" name="OPT_ID_287"><tex-math name="OPT_ID_288"><?CDATA $M(r)\propto r^3$ ?></tex-math>
+<inline-graphic name="OPT_ID_289"/>
+</inline-formula>, fix the geometry of the solution by using a function <italic name="OPT_ID_290">k</italic>(<italic name="OPT_ID_290">r</italic>) according to <inline-formula id="epl16892ieqn26" name="OPT_ID_292"><tex-math name="OPT_ID_293"><?CDATA $2E(r)=-k(r)r^2$ ?></tex-math>
+<inline-graphic name="OPT_ID_294"/>
+</inline-formula>, and consider models with a vanishing bang function, <italic name="OPT_ID_295">i.e.</italic><span class="unicode-char">&nbsp;</span><inline-formula id="epl16892ieqn27" name="OPT_ID_296"><tex-math name="OPT_ID_297"><?CDATA $t_b(r)=0$ ?></tex-math>
+<inline-graphic name="OPT_ID_298"/>
+</inline-formula>.</p>
+</sec>
+<sec id="epl16892s4" name="OPT_ID_299">
+<title name="OPT_ID_300">The effects of primordial curvature perturbations</title>
+<p name="OPT_ID_301">The metric after inflation near a peak of the primordial curvature perturbation<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib4" name="OPT_ID_302">4</xref>,<xref ref-type="bibr" rid="epl16892bib6" name="OPT_ID_303">6</xref>] can be written as <disp-formula id="epl16892eqn8" name="OPT_ID_304">
+<label name="OPT_ID_305">8</label><tex-math name="OPT_ID_306"><?CDATA \begin{equation}
+\text{d}s^2=-\text{d}t^2 + a_F^2(t)e^{2\zeta({ r})}(\text{d}r^2+r^2\text{d}\Omega^2),
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_307"/>
+</disp-formula> where <inline-formula id="epl16892ieqn28" name="OPT_ID_308"><tex-math name="OPT_ID_309"><?CDATA $\zeta(r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_310"/>
+</inline-formula> is the primordial curvature perturbation. The spherical symmetry approximation is justified by the property of a Gaussian random field<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib18" name="OPT_ID_311">18</xref>] according to which large peaks of a stochastic function tend to have a spherical shape. At a sufficiently early time when both the LTB and the metric in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl16892eqn8" name="OPT_ID_312">8</xref>) are valid, they can be matched<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib4" name="OPT_ID_313">4</xref>] leading to the following relation: <disp-formula id="epl16892eqn9" name="OPT_ID_314">
+<label name="OPT_ID_315">9</label><tex-math name="OPT_ID_316"><?CDATA \begin{equation}
+k(r)=-\frac{1}{ r^2}[(1+r\zeta')^2-1].
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_317"/>
+</disp-formula> The use of the LTB solution allows to study exactly the formation of the structure seeded by <inline-formula id="epl16892ieqn29" name="OPT_ID_318"><tex-math name="OPT_ID_319"><?CDATA $\zeta(r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_320"/>
+</inline-formula>, and in particular to go beyond the limitations of the perturbation theory. It turns out in fact that such early-time tiny curvature perturbations of the order of <inline-formula id="epl16892ieqn30" name="OPT_ID_321"><tex-math name="OPT_ID_322"><?CDATA $10^{-5}$ ?></tex-math>
+<inline-graphic name="OPT_ID_323"/>
+</inline-formula> can lead to a highly nonlinear structure today whose effects cannot be neglected.</p>
+<p name="OPT_ID_324">Equation<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl16892eqn9" name="OPT_ID_325">9</xref>) is very important because it gives the connection between the early and the present Universe, and it can be used in two ways: given an early-Universe curvature perturbations it allows to find the present-day structure seeded by it, or vice versa, given a present-day structure, it can be used to find what primordial curvature perturbation could have originated it. Normally the first approach is adopted<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib4" name="OPT_ID_326">4</xref>,<xref ref-type="bibr" rid="epl16892bib6" name="OPT_ID_327">6</xref>], but in this letter we will adopt the second one, since it is more convenient to define the model of the inhomogeneity in terms of <italic name="OPT_ID_328">k</italic>(<italic name="OPT_ID_328">r</italic>). In this way we can find a natural explanation for the origin of the present-day highly nonlinear structure whose effect cannot be captured by the perturbations theory, while the use of the LTB solution gives the nonperturbative evolution of the structure.</p>
+</sec>
+<sec id="epl16892s5" name="OPT_ID_330">
+<title name="OPT_ID_331">Effects on the luminosity distance</title>
+<p name="OPT_ID_332">To compute <inline-formula id="epl16892ieqn38" name="OPT_ID_333"><tex-math name="OPT_ID_334"><?CDATA $D_L^{\Lambda LTB}(z)$ ?></tex-math>
+<inline-graphic name="OPT_ID_335"/>
+</inline-formula> we need to solve the radial null geodesics <disp-formula id="epl16892eqn10" name="OPT_ID_336">
+<label name="OPT_ID_337">10</label><tex-math name="OPT_ID_338"><?CDATA \begin{eqnarray}
+\frac{\text{d}r}{\text{d}z}&=\frac{\sqrt{1+2E(r(z))}}{{(1+z)\dot {R'}[T(r(z)),r(z)]}},\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_339"/>
+</disp-formula>
+<disp-formula id="epl16892eqn11" name="OPT_ID_340">
+<label name="OPT_ID_341">11</label><tex-math name="OPT_ID_342"><?CDATA \begin{eqnarray}
+\frac{\text{d}t}{\text{d}z}&=-\,\frac{R'[T(r(z),r(z))]}{{(1+z)\dot {R'}[T(r(z)),r(z)]}},
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_343"/>
+</disp-formula> and then we substitute in the formula for the luminosity distance in a LTB space, <disp-formula id="epl16892eqn12" name="OPT_ID_344">
+<label name="OPT_ID_345">12</label><tex-math name="OPT_ID_346"><?CDATA \begin{equation}
+D_L^{\textit{inh}}(z,H_{0}^{\textit{true}})=D^{\Lambda LTB}(z)=(1+z)^2 R(t(z),r(z)),
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_347"/>
+</disp-formula> where we set the parameters of the LTB solution so that <disp-formula id="epl16892eqn13" name="OPT_ID_348">
+<label name="OPT_ID_349">13</label><tex-math name="OPT_ID_350"><?CDATA \begin{equation}
+H_0^{\textit{LTB}}=\frac{2}{3}\frac{\dot{R}(t_0,0)}{R(t_0,0)}+\frac{1}{3}\frac{\dot{R}'(t_0,0)}{R'(t_0,0)}=H_{0}^{\textit{true}}.
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_351"/>
+</disp-formula> For homogeneous cosmological models we assume a flat <inline-formula id="epl16892ieqn39" name="OPT_ID_352"><tex-math name="OPT_ID_353"><?CDATA $\Lambda \text{CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_354"/>
+</inline-formula> solution according to <disp-formula id="epl16892eqn14" name="OPT_ID_355">
+<label name="OPT_ID_356">14</label><tex-math name="OPT_ID_357"><?CDATA \begin{eqnarray}
+H(z)&=H_0^{\textit{app}}\sqrt{\Omega_M(1+z)^3+\Omega_{\Lambda}},\nonumber\\
+D_L^{\textit{hom}}(z,H_0^{\textit{app}})&=(1+z)\int^{z}_0\frac{\text{d} x}{H(x)}.
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_358"/>
+</disp-formula> The above definitions are very important since they give an explicit mathematical definition of <inline-formula id="epl16892ieqn40" name="OPT_ID_359"><tex-math name="OPT_ID_360"><?CDATA $H_0^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_361"/>
+</inline-formula> and <inline-formula id="epl16892ieqn41" name="OPT_ID_362"><tex-math name="OPT_ID_363"><?CDATA $H_0^{\textit{true}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_364"/>
+</inline-formula>, which is coherent with the notion of apparent observable adopted in this paper and which can be expressed as <disp-formula id="epl16892eqn15" name="OPT_ID_365">
+<label name="OPT_ID_366">15</label><tex-math name="OPT_ID_367"><?CDATA \begin{eqnarray}
+D_L^{\textit{hom}}(z,H_0^{\textit{app}})=D_L^{\textit{inh}}(z,H_0^{\textit{true}})=D_L^{\textit{obs}}(z).
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_368"/>
+</disp-formula> We consider solutions with the function <italic name="OPT_ID_369">k</italic>(<italic name="OPT_ID_369">r</italic>) given by a Gaussian <disp-formula id="epl16892eqn16" name="OPT_ID_371">
+<label name="OPT_ID_372">16</label><tex-math name="OPT_ID_373"><?CDATA \begin{eqnarray}
+k(r)=A e^{-\left(\frac{r-r_0}{\sigma}\right)^2},
+\end{eqnarray} ?></tex-math>
+<graphic name="OPT_ID_374"/>
+</disp-formula> centered approximately at the radial comoving coordinate of low-redshift supernovae used for the local estimation of <italic name="OPT_ID_375">H</italic><sub name="OPT_ID_376">0</sub>. Different values of <italic name="OPT_ID_375">r</italic><sub name="OPT_ID_376">0</sub> can be chosen to control the shape of the inhomogeneity. This solution corresponds to a compensated inhomogeneity which is asymptotically homogeneous and, if the width of the Gaussian is sufficiently small, there is no important difference between the central and the asymptotic value of <italic name="OPT_ID_375">k</italic>(<italic name="OPT_ID_375">r</italic>). This property is quite important because it ensures that the Universe is effectively a flat <inline-formula id="epl16892ieqn42" name="OPT_ID_381"><tex-math name="OPT_ID_382"><?CDATA $\Lambda \text{CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_383"/>
+</inline-formula> at the center and sufficiently far from it, making sure that the effect on the luminosity distance at the last scattering is very small.</p>
+<p name="OPT_ID_384">We will adopt a system of units in which <inline-formula id="epl16892ieqn43" name="OPT_ID_385"><tex-math name="OPT_ID_386"><?CDATA $H_{0,\textit{CMB}}^{\textit{true}}=1$ ?></tex-math>
+<inline-graphic name="OPT_ID_387"/>
+</inline-formula>, and use the fiducial value <inline-formula id="epl16892ieqn44" name="OPT_ID_388"><tex-math name="OPT_ID_389"><?CDATA $\Omega_{\Lambda}=0.692$ ?></tex-math>
+<inline-graphic name="OPT_ID_390"/>
+</inline-formula>. The time used as initial condition at the center for the geodesics equations is obtained by integrating the Einstein equation in the scale factor from the Big Bang till today.</p>
+<p name="OPT_ID_391">As shown in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig1" name="OPT_ID_392">1</xref>, since the type of inhomogeneity we have considered is compensated, it has no effect on the luminosity distance outside it, <italic name="OPT_ID_393">i.e.</italic>
+<disp-formula id="epl16892eqn17" name="OPT_ID_394">
+<label name="OPT_ID_395">17</label><tex-math name="OPT_ID_396"><?CDATA \begin{equation}
+D^{\textit{hom}}(H_{0,\textit{CMB}}^{\textit{true}},z_{LS})\approx D^{\textit{inh}}(H_{0,\textit{CMB}}^{\textit{true}},z_{LS}),
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_397"/>
+</disp-formula> where <italic name="OPT_ID_398">z</italic><sub name="OPT_ID_399"><italic name="OPT_ID_398">LS</italic></sub> is the redshift of the last scattering surface, or any redshift sufficiently larger than <italic name="OPT_ID_398">z</italic><sub name="OPT_ID_399"><italic name="OPT_ID_398">SN</italic></sub>. This is due to the fact that the central and the asymptotic value of the curvature function are approximately the same. According to our definitions of apparent observable, fitting CMB data with a homogeneous or inhomogeneous model is consequently giving the same estimate for <inline-formula id="epl16892ieqn45" name="OPT_ID_404"><tex-math name="OPT_ID_405"><?CDATA $H_{0,\textit{CMB}}^{\textit{app}}\approx H_{0,\textit{CMB}}^{\textit{true}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_406"/>
+</inline-formula>.</p>
+<fig id="epl16892fig1" position="float" fig-type="figure" name="OPT_ID_407">
+<label name="OPT_ID_408">Fig. 1:</label>
+<caption id="epl16892fc1" name="OPT_ID_409">
+<p name="OPT_ID_410">(Colour on-line) Top: the percentage density contrast <inline-formula id="epl16892ieqn31" name="OPT_ID_411"><tex-math name="OPT_ID_412"><?CDATA $\frac{\delta\rho}{\rho}=100(1-\frac{\rho^{\textit{LTB}}(z)}{\rho^{\Lambda CDM}(z)})$ ?></tex-math>
+<inline-graphic name="OPT_ID_413"/>
+</inline-formula> is plotted as a function of the redshift, showing how, contrary to the linear theory approximation, when nonperturbative effects are taken into account, not only underdense regions but also overdense regions can be associated to the decrease of the luminosity distance necessary to explain observations. Bottom: we plot in units of <inline-formula id="epl16892ieqn32" name="OPT_ID_414"><tex-math name="OPT_ID_415"><?CDATA $(H_{0,\textit{CMB}}^{\textit{true}})^{-1}$ ?></tex-math>
+<inline-graphic name="OPT_ID_416"/>
+</inline-formula> the luminosity distance for a <inline-formula id="epl16892ieqn33" name="OPT_ID_417"><tex-math name="OPT_ID_418"><?CDATA $\Lambda \text{CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_419"/>
+</inline-formula> model and an inhomogeneous model. In both the top and bottom plot the value of the Hubble parameter is the same for the homogeneous and inhomogeneous models, <inline-formula id="epl16892ieqn34" name="OPT_ID_420"><tex-math name="OPT_ID_421"><?CDATA $H_0=H_{0,\textit{CMB}}^{\textit{true}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_422"/>
+</inline-formula>. The dashed line is the plot of <inline-formula id="epl16892ieqn35" name="OPT_ID_423"><tex-math name="OPT_ID_424"><?CDATA $D^{\textit{hom}}(H_{0,\textit{CMB}}^{\textit{true}},z)$ ?></tex-math>
+<inline-graphic name="OPT_ID_425"/>
+</inline-formula> while the solid line is for <inline-formula id="epl16892ieqn36" name="OPT_ID_426"><tex-math name="OPT_ID_427"><?CDATA $D^{\textit{inh}}(H_{0,\textit{CMB}}^{\textit{true}},z)$ ?></tex-math>
+<inline-graphic name="OPT_ID_428"/>
+</inline-formula>. The luminosity distance is approximately the same outside the inhomogeneity, for <italic name="OPT_ID_429">z</italic><span class="unicode-char">&nbsp;</span>&gt;<span class="unicode-char">&nbsp;</span><italic name="OPT_ID_429">z</italic><sub name="OPT_ID_431"><italic name="OPT_ID_429">SN</italic></sub>, implying that the distance to the last scattering is not affected by the inhomogeneity, and, consequently, <inline-formula id="epl16892ieqn37" name="OPT_ID_433"><tex-math name="OPT_ID_434"><?CDATA $H_{0,\textit{CMB}}^{\textit{true}}\approx H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_435"/>
+</inline-formula>. This shows that the analysis of the CMB data performed under the assumption of homogeneity is not introducing any misestimation for <italic name="OPT_ID_436">H</italic><sub name="OPT_ID_437">0</sub>, contrary to its local estimation, which is based on luminosity distance observations affected by it as shown in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig2" name="OPT_ID_438">2</xref>.</p>
+</caption>
+<graphic id="epl16892f1_eps" content-type="print" name="OPT_ID_439"/>
+<graphic id="epl16892f1_online" content-type="online" name="OPT_ID_440"/>
+</fig>
+<p name="OPT_ID_441">For the case of low-redshift supernovae instead it can be seen in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig2" name="OPT_ID_442">2</xref> that <disp-formula id="epl16892eqn18" name="OPT_ID_443">
+<label name="OPT_ID_444">18</label><tex-math name="OPT_ID_445"><?CDATA \begin{equation} 
+D^{\textit{inh}}(H_{0,\textit{CMB}}^{\textit{true}},z_{SN})\approx D^{\textit{hom}}(H_{0,SN}^{\textit{app}},z_{SN})=D^{\textit{obs}}_{z_{SN}},
+\end{equation} ?></tex-math>
+<graphic name="OPT_ID_446"/>
+</disp-formula> which implies that <disp-formula id="epl16892eqn19" name="OPT_ID_447">
+<label name="OPT_ID_448">19</label><tex-math name="OPT_ID_449"><?CDATA \begin{equation}
+H_{0,SN}^{\textit{app}}>H_{0,SN}^{\textit{true}}=H_{0,\textit{CMB}}^{\textit{true}}.
+\end{equation} ?>
+</tex-math>
+<graphic name="OPT_ID_450"/>
+</disp-formula> This shows how the effects of the inhomogeneity are able to resolve the apparent disagreement between cosmological and local estimations of <italic name="OPT_ID_451">H</italic><sub name="OPT_ID_452">0</sub>, since the luminosity distance is modified only around <italic name="OPT_ID_451">z</italic><sub name="OPT_ID_452"><italic name="OPT_ID_451">SN</italic></sub>.</p>
+<fig id="epl16892fig2" position="float" fig-type="figure" name="OPT_ID_456">
+<label name="OPT_ID_457">Fig. 2:</label>
+<caption id="epl16892fc2" name="OPT_ID_458">
+<p name="OPT_ID_459">(Colour on-line) According to the definition in eqs.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl16892eqn12" name="OPT_ID_460">12</xref>)&ndash;(<xref ref-type="disp-formula" rid="epl16892eqn14" name="OPT_ID_461">14</xref>), the luminosity distance <inline-formula id="epl16892ieqn46" name="OPT_ID_462"><tex-math name="OPT_ID_463"><?CDATA $D^{\textit{hom}}(H_{0,SN}^{\textit{app}},z)$ ?></tex-math>
+<inline-graphic name="OPT_ID_464"/>
+</inline-formula> for a homogeneous model and the luminosity distance <inline-formula id="epl16892ieqn47" name="OPT_ID_465"><tex-math name="OPT_ID_466"><?CDATA $D^{\textit{inh}}(H_{0,\textit{CMB}}^{\textit{true}},z)$ ?></tex-math>
+<inline-graphic name="OPT_ID_467"/>
+</inline-formula> for an inhomogeneous model are plotted in units of <inline-formula id="epl16892ieqn48" name="OPT_ID_468"><tex-math name="OPT_ID_469"><?CDATA $(H_{0,\textit{CMB}}^{\textit{app}})^{-1}$ ?></tex-math>
+<inline-graphic name="OPT_ID_470"/>
+</inline-formula>, respectively with a dashed and a solid line. Despite the difference in the value of <italic name="OPT_ID_471">H</italic><sub name="OPT_ID_472">0</sub> for the two models, <inline-formula id="epl16892ieqn49" name="OPT_ID_473"><tex-math name="OPT_ID_474"><?CDATA $D^{\textit{inh}}(H_{0,\textit{CMB}}^{\textit{true}},z_{SN})\approx D^{\textit{hom}}(H_{0,SN}^{\textit{app}},z_{SN})$ ?></tex-math>
+<inline-graphic name="OPT_ID_475"/>
+</inline-formula>, implying that the observed luminosity distance <inline-formula id="epl16892ieqn50" name="OPT_ID_476"><tex-math name="OPT_ID_477"><?CDATA $D^{\textit{obs}}_L(z_{SN})$ ?></tex-math>
+<inline-graphic name="OPT_ID_478"/>
+</inline-formula> can be fitted using <inline-formula id="epl16892ieqn51" name="OPT_ID_479"><tex-math name="OPT_ID_480"><?CDATA $H_{0,\textit{CMB}}^{\textit{true}}\approx H_{0,\textit{CMB}}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_481"/>
+</inline-formula> instead of <inline-formula id="epl16892ieqn52" name="OPT_ID_482"><tex-math name="OPT_ID_483"><?CDATA $H_{0,SN}^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_484"/>
+</inline-formula> if the effect of the inhomogeneity is taken into account by using <inline-formula id="epl16892ieqn53" name="OPT_ID_485"><tex-math name="OPT_ID_486"><?CDATA $D^{\textit{inh}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_487"/>
+</inline-formula> instead of <inline-formula id="epl16892ieqn54" name="OPT_ID_488"><tex-math name="OPT_ID_489"><?CDATA $D^{\textit{hom}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_490"/>
+</inline-formula>, resolving the apparent discrepancy between local and cosmological observations.</p>
+</caption>
+<graphic id="epl16892f2_eps" content-type="print" name="OPT_ID_491"/>
+<graphic id="epl16892f2_online" content-type="online" name="OPT_ID_492"/>
+</fig>
+<p name="OPT_ID_493">As seen in figs.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig1" name="OPT_ID_494">1</xref>, <xref ref-type="fig" rid="epl16892fig2" name="OPT_ID_495">2</xref> the effect of the structure seeded by this primordial curvature perturbation profile corresponds to an underdense central region followed by an overdense shell, which is what we expect for a compensated inhomogeneity, due to the fact that the function <italic name="OPT_ID_496">k</italic>(<italic name="OPT_ID_496">r</italic>) is asymptotically zero. The luminosity distance is decreased with respect to the homogeneous case both in the under- and overdense regions, a relativistic effect associated to large gradient terms which are normally neglected in Newtonian or perturbative calculations as shown, for example, in<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib12" name="OPT_ID_498">12</xref>]. This inhomogeneity is seeded by a curvature perturbation of less than two standard deviations as shown in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig3" name="OPT_ID_499">3</xref>, and the effect on the luminosity distance is associated to the region of transition between different values of <inline-formula id="epl16892ieqn60" name="OPT_ID_500"><tex-math name="OPT_ID_501"><?CDATA $\zeta(r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_502"/>
+</inline-formula>. Such a perturbation can occur quite naturally according the inflationary scenario, and smaller amplitude perturbations could still induce some important effects.</p>
+<fig id="epl16892fig3" position="float" fig-type="figure" name="OPT_ID_503">
+<label name="OPT_ID_504">Fig. 3:</label>
+<caption id="epl16892fc3" name="OPT_ID_505">
+<p name="OPT_ID_506">(Colour on-line) The primordial curvature perturbation <inline-formula id="epl16892ieqn55" name="OPT_ID_507"><tex-math name="OPT_ID_508"><?CDATA $\zeta(r)$ ?></tex-math>
+<inline-graphic name="OPT_ID_509"/>
+</inline-formula> and the function <italic name="OPT_ID_510">k</italic>(<italic name="OPT_ID_510">r</italic>) are plotted for <inline-formula id="epl16892ieqn56" name="OPT_ID_512"><tex-math name="OPT_ID_513"><?CDATA $A=-0.5,r_0=r_{SN}*0.8,\sigma=r_0/2.5$ ?></tex-math>
+<inline-graphic name="OPT_ID_514"/>
+</inline-formula>, and <inline-formula id="epl16892ieqn57" name="OPT_ID_515"><tex-math name="OPT_ID_516"><?CDATA $r_{SN}=r^{\Lambda CDM}$ ?></tex-math>
+<inline-graphic name="OPT_ID_517"/>
+</inline-formula>. The quantities <italic name="OPT_ID_518">A</italic> and <italic name="OPT_ID_518">k</italic>(<italic name="OPT_ID_518">r</italic>) are in units of <inline-formula id="epl16892ieqn58" name="OPT_ID_521"><tex-math name="OPT_ID_522"><?CDATA $(H_{0,\textit{CMB}}^{\textit{true}})^2$ ?></tex-math>
+<inline-graphic name="OPT_ID_523"/>
+</inline-formula>, while <italic name="OPT_ID_524">r</italic><sub name="OPT_ID_525">0</sub> is in units of <inline-formula id="epl16892ieqn59" name="OPT_ID_526"><tex-math name="OPT_ID_527"><?CDATA $(H_{0,\textit{CMB}}^{\textit{true}})^{-1}$ ?></tex-math>
+<inline-graphic name="OPT_ID_528"/>
+</inline-formula>. The effect on the luminosity distance corresponds to the region of transition between different values of the curvature perturbation.</p>
+</caption>
+<graphic id="epl16892f3_eps" content-type="print" name="OPT_ID_529"/>
+<graphic id="epl16892f3_online" content-type="online" name="OPT_ID_530"/>
+</fig>
+<p name="OPT_ID_531">The density profile shown in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl16892fig1" name="OPT_ID_532">1</xref> is compatible with the results of the analysis of galaxy surveys<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib19" name="OPT_ID_533">19</xref>]. Quite remarkably the supernovae used for the local estimation of <italic name="OPT_ID_534">H</italic><sub name="OPT_ID_535">0</sub> in<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib2" name="OPT_ID_536">2</xref>] are inside the region with the largest overdensity (Subregion 2 in<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib19" name="OPT_ID_533">19</xref>]) with a density profile compatible with our model in the region of available data, suggesting a possible directional dependence<xref ref-type="fn" rid="epl16892fn1" name="OPT_ID_538"><sup name="OPT_ID_539">1</sup></xref>
+<fn id="epl16892fn1" name="OPT_ID_540"><label name="OPT_ID_541">1</label>
+<p name="OPT_ID_542">Supernovae are in the same right ascension range of Subregion 2, but span a wider declination range, so here we are assuming that a similar density profile would be obtained if the galaxy survey analysis was extended to the same declination range of the supernovae, or alternatively if <italic name="OPT_ID_543">H</italic><sub name="OPT_ID_544">0</sub> was estimated only using the supernovae within the same declination range of Subregion 2.</p>
+</fn> of the local structure effects on the <italic name="OPT_ID_545">H</italic><sub name="OPT_ID_546">0</sub> estimation which could be partially attributed to the presence in the region of the Sloan Great Wall<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib20" name="OPT_ID_547">20</xref>].</p>
+<p name="OPT_ID_548">A careful investigation of such a directional dependence goes beyond the scope of this paper, so we will not pursue it here, but we expect our calculations to provide a good estimation of the effects due to the density profile along that particular direction. It would be interesting though to check carefully if using supernovae in different directions away from the Sloan Great Wall the <italic name="OPT_ID_549">H</italic><sub name="OPT_ID_550">0</sub> estimation could change significantly from the one obtained by<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl16892bib2" name="OPT_ID_551">2</xref>].</p>
+</sec>
+<sec id="epl16892s6" name="OPT_ID_552">
+<title name="OPT_ID_553">Conclusions</title>
+<p name="OPT_ID_554">We have shown how the apparent value of <inline-formula id="epl16892ieqn61a" name="OPT_ID_555"><tex-math name="OPT_ID_556"><?CDATA $H_{0,SN}^{app}$ ?></tex-math>
+<inline-graphic name="OPT_ID_557"/>
+</inline-formula> obtained from analyzing the supernovae low-redshift luminosity distance data under the assumption of homogeneity can receive an important correction when the local structure is taken into proper account. The apparent disagreement is due to the different way in which the <italic name="OPT_ID_558">H</italic><sub name="OPT_ID_559">0</sub> estimation is affected by the presence of the local inhomogeneity we have considered. In the case of CMB, the inhomogeneity does not affect the distance to the last scattering surface, implying that analyzing CMB data under the assumption of homogeneity does not introduce any misestimations. For low-redshift luminosity distance instead there can be an important impact which could resolve the discrepancy, or at least could be able to account for part of the difference. The type of inhomogeneity able to explain the difference can be seeded by a primordial curvature perturbation of the order of less than two standard deviations, and, as such, can arise quite naturally according to the inflationary scenario. This shows the importance of nonpertubative effects for any local observation in order to avoid this kind of apparent tension with other measurements less affected by local structure.</p>
+<p name="OPT_ID_560">Quite remarkably the comparison with galaxies redshifts surveys suggests that the supernovae used for local estimation of <italic name="OPT_ID_561">H</italic><sub name="OPT_ID_562">0</sub> are in a region of sky associated to a particularly high overdensity and with an inhomogeneity profile compatible with the one we have studied, which could be partially attributed to the presence in that region of the Sloan Great Wall. It would be interesting in the future to go beyond the monopole contribution and extend the study to the possible directional dependence of the local <italic name="OPT_ID_561">H</italic><sub name="OPT_ID_562">0</sub> estimation. In this way it would be possible to determine indirectly the higher multipoles of the local structure which causes the apparent angular dependence of <inline-formula id="epl16892ieqn61" name="OPT_ID_565"><tex-math name="OPT_ID_566"><?CDATA $H_0^{\textit{app}}$ ?></tex-math>
+<inline-graphic name="OPT_ID_567"/>
+</inline-formula>. The same type of analysis could be extended to other cosmological parameters, such as, for example, the effective equation of state of dark energy, which have already been shown to be affected by local inhomogeneities, but are normally analyzed under the assumption of isotropy.</p>
+</sec>
+</body>
+<back name="OPT_ID_568">
+<ack name="OPT_ID_569">
+<title name="OPT_ID_570">Acknowledgments</title>
+<p name="OPT_ID_571">AER thanks <sc name="OPT_ID_572">Ryan Keenan</sc> and <sc name="OPT_ID_572">Licia Verde</sc> for useful comments and discussions, the Department of Physics of Heidelberg University for the kind hospitality, and <sc name="OPT_ID_572">Luca Amendola, Valeria Pettorino</sc> and <sc name="OPT_ID_572">Miguel Zumalacarregui</sc> for insightful discussions. This work was supported by the European Union (European Social Fund, ESF) and Greek national funds under the <span class="unicode-char">&ldquo;</span>ARISTEIA II&rdquo; Action, the Dedicacion exclusiva and Sostenibilidad programs at UDEA, the UDEA CODI project IN10219CE. The authors thank the anonymous referee for useful comments to improve the manuscript.</p>
+</ack>
+<ref-list content-type="numerical" name="OPT_ID_576">
+<title name="OPT_ID_577">References</title>
+<ref id="epl16892bib1" name="OPT_ID_578">
+<label name="OPT_ID_579">1</label>
+<element-citation publication-type="preprint" name="OPT_ID_580">
+<person-group person-group-type="author" name="OPT_ID_581">
+<collab name="OPT_ID_582">Planck Collaboration</collab>
+<name name="OPT_ID_583"><surname name="OPT_ID_584">Ade</surname><given-names name="OPT_ID_585">P.</given-names></name><etal name="OPT_ID_586"/>
+</person-group>
+<year name="OPT_ID_587">2013</year>
+<comment name="OPT_ID_588">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_589">1303.5076</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib2" name="OPT_ID_590">
+<label name="OPT_ID_591">2</label>
+<element-citation publication-type="journal" name="OPT_ID_592">
+<person-group person-group-type="author" name="OPT_ID_593">
+<name name="OPT_ID_594"><surname name="OPT_ID_595">Riess</surname><given-names name="OPT_ID_596">A. G.</given-names></name><etal name="OPT_ID_597"/>
+</person-group>
+<year name="OPT_ID_598">2011</year>
+<source name="OPT_ID_599">Astrophys. J.</source>
+<volume name="OPT_ID_600">730</volume>
+<fpage name="OPT_ID_601">119</fpage>
+<comment name="OPT_ID_602">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_603">1103.2976</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib3" name="OPT_ID_604">
+<label name="OPT_ID_605">3</label>
+<element-citation publication-type="journal" name="OPT_ID_606">
+<person-group person-group-type="author" name="OPT_ID_607">
+<name name="OPT_ID_608"><surname name="OPT_ID_609">Verde</surname><given-names name="OPT_ID_610">L.</given-names></name>
+<name name="OPT_ID_611"><surname name="OPT_ID_612">Protopapas</surname><given-names name="OPT_ID_613">P.</given-names></name>
+<name name="OPT_ID_614"><surname name="OPT_ID_615">Jimenez</surname><given-names name="OPT_ID_616">R.</given-names></name>
+</person-group>
+<year name="OPT_ID_617">2013</year>
+<source name="OPT_ID_618">Phys. Dark Univ.</source>
+<volume name="OPT_ID_619">2</volume>
+<fpage name="OPT_ID_620">166</fpage>
+<comment name="OPT_ID_621">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_622">1306.6766</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib4" name="OPT_ID_623">
+<label name="OPT_ID_624">4</label>
+<element-citation publication-type="journal" name="OPT_ID_625">
+<person-group person-group-type="author" name="OPT_ID_626">
+<name name="OPT_ID_627"><surname name="OPT_ID_628">Romano</surname><given-names name="OPT_ID_629">A. E.</given-names></name>
+<name name="OPT_ID_630"><surname name="OPT_ID_631">Sasaki</surname><given-names name="OPT_ID_632">M.</given-names></name>
+<name name="OPT_ID_633"><surname name="OPT_ID_634">Starobinsky</surname><given-names name="OPT_ID_635">A. A.</given-names></name>
+</person-group>
+<year name="OPT_ID_636">2012</year>
+<source name="OPT_ID_637">Eur. Phys. J. C</source>
+<volume name="OPT_ID_638">72</volume>
+<fpage name="OPT_ID_639">2242</fpage>
+<comment name="OPT_ID_640">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_641">1006.4735</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib5" name="OPT_ID_642">
+<label name="OPT_ID_643">5</label>
+<element-citation publication-type="preprint" name="OPT_ID_644">
+<person-group person-group-type="author" name="OPT_ID_645">
+<name name="OPT_ID_646"><surname name="OPT_ID_647">Romano</surname><given-names name="OPT_ID_648">A. E.</given-names></name>
+<name name="OPT_ID_649"><surname name="OPT_ID_650">Chen</surname><given-names name="OPT_ID_651">P.</given-names></name>
+</person-group>
+<year name="OPT_ID_652">2012</year>
+<comment name="OPT_ID_653">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_654">1207.5572</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib6" name="OPT_ID_655">
+<label name="OPT_ID_656">6</label>
+<element-citation publication-type="preprint" name="OPT_ID_657">
+<person-group person-group-type="author" name="OPT_ID_658">
+<name name="OPT_ID_659"><surname name="OPT_ID_660">Romano</surname><given-names name="OPT_ID_661">A. E.</given-names></name>
+<name name="OPT_ID_662"><surname name="OPT_ID_663">Sanes</surname><given-names name="OPT_ID_664">S.</given-names></name>
+<name name="OPT_ID_665"><surname name="OPT_ID_666">Sasaki</surname><given-names name="OPT_ID_667">M.</given-names></name>
+</person-group>
+<year name="OPT_ID_668">2013</year>
+<comment name="OPT_ID_669">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_670">1311.1476</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib7" name="OPT_ID_671">
+<label name="OPT_ID_672">7</label>
+<element-citation publication-type="preprint" name="OPT_ID_673">
+<person-group person-group-type="author" name="OPT_ID_674">
+<name name="OPT_ID_675"><surname name="OPT_ID_676">Wojtak</surname><given-names name="OPT_ID_677">R.</given-names></name><etal name="OPT_ID_678"/>
+</person-group>
+<year name="OPT_ID_679">2013</year>
+<comment name="OPT_ID_680">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_681">1312.0276</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib8" name="OPT_ID_682">
+<label name="OPT_ID_683">8</label>
+<element-citation publication-type="journal" name="OPT_ID_684">
+<person-group person-group-type="author" name="OPT_ID_685">
+<name name="OPT_ID_686"><surname name="OPT_ID_687">Wang</surname><given-names name="OPT_ID_688">Y.</given-names></name>
+<name name="OPT_ID_689"><surname name="OPT_ID_690">Spergel</surname><given-names name="OPT_ID_691">D. N.</given-names></name>
+<name name="OPT_ID_692"><surname name="OPT_ID_693">Turner</surname><given-names name="OPT_ID_694">E. L.</given-names></name>
+</person-group>
+<year name="OPT_ID_695">1998</year>
+<source name="OPT_ID_696">Astrophys. J.</source>
+<volume name="OPT_ID_697">498</volume>
+<fpage name="OPT_ID_698">1</fpage>
+<comment name="OPT_ID_699">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_700">astro<span class="unicode-char">&hyphen;</span>ph/9708014</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib9" name="OPT_ID_701">
+<label name="OPT_ID_702">9</label>
+<element-citation publication-type="journal" name="OPT_ID_703">
+<person-group person-group-type="author" name="OPT_ID_704">
+<name name="OPT_ID_705"><surname name="OPT_ID_706">Shi</surname><given-names name="OPT_ID_707">X.<span class="unicode-char">&hyphen;</span>D.</given-names></name>
+<name name="OPT_ID_708"><surname name="OPT_ID_709">Turner</surname><given-names name="OPT_ID_710">M. S.</given-names></name>
+</person-group>
+<year name="OPT_ID_711">1998</year>
+<source name="OPT_ID_712">Astrophys. J.</source>
+<volume name="OPT_ID_713">493</volume>
+<fpage name="OPT_ID_714">519</fpage>
+<comment name="OPT_ID_715">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_716">astro<span class="unicode-char">&hyphen;</span>ph/9707101</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib10" name="OPT_ID_717">
+<label name="OPT_ID_718">10</label>
+<element-citation publication-type="journal" name="OPT_ID_719">
+<person-group person-group-type="author" name="OPT_ID_720">
+<name name="OPT_ID_721"><surname name="OPT_ID_722">Marra</surname><given-names name="OPT_ID_723">V.</given-names></name>
+<name name="OPT_ID_724"><surname name="OPT_ID_725">Amendola</surname><given-names name="OPT_ID_726">L.</given-names></name>
+<name name="OPT_ID_727"><surname name="OPT_ID_728">Sawicki</surname><given-names name="OPT_ID_729">I.</given-names></name>
+<name name="OPT_ID_730"><surname name="OPT_ID_731">Valkenburg</surname><given-names name="OPT_ID_732">W.</given-names></name>
+</person-group>
+<year name="OPT_ID_733">2013</year>
+<source name="OPT_ID_734">Phys. Rev. Lett.</source>
+<volume name="OPT_ID_735">110</volume>
+<elocation-id content-type="artnum" name="OPT_ID_736">241305</elocation-id>
+<comment name="OPT_ID_737">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_738">1303.3121</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib11" name="OPT_ID_739">
+<label name="OPT_ID_740">11</label>
+<element-citation publication-type="journal" name="OPT_ID_741">
+<person-group person-group-type="author" name="OPT_ID_742">
+<name name="OPT_ID_743"><surname name="OPT_ID_744">Ben<span class="unicode-char">&hyphen;</span>Dayan</surname><given-names name="OPT_ID_745">I.</given-names></name>
+<name name="OPT_ID_746"><surname name="OPT_ID_747">Durrer</surname><given-names name="OPT_ID_748">R.</given-names></name>
+<name name="OPT_ID_749"><surname name="OPT_ID_750">Marozzi</surname><given-names name="OPT_ID_751">G.</given-names></name>
+<name name="OPT_ID_752"><surname name="OPT_ID_753">Schwarz</surname><given-names name="OPT_ID_754">D. J.</given-names></name>
+</person-group>
+<year name="OPT_ID_755">2014</year>
+<source name="OPT_ID_756">Phys. Rev. Lett.</source>
+<volume name="OPT_ID_757">112</volume>
+<elocation-id content-type="artnum" name="OPT_ID_758">221301</elocation-id>
+<comment name="OPT_ID_759">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_760">1401.7973</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib12" name="OPT_ID_761">
+<label name="OPT_ID_762">12</label>
+<element-citation publication-type="journal" name="OPT_ID_763">
+<person-group person-group-type="author" name="OPT_ID_764">
+<name name="OPT_ID_765"><surname name="OPT_ID_766">Bolejko</surname><given-names name="OPT_ID_767">K.</given-names></name><etal name="OPT_ID_768"/>
+</person-group>
+<year name="OPT_ID_769">2013</year>
+<source name="OPT_ID_770">Phys. Rev. Lett.</source>
+<volume name="OPT_ID_771">110</volume>
+<elocation-id content-type="artnum" name="OPT_ID_772">021302</elocation-id>
+<comment name="OPT_ID_773">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_774">1209.3142</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib13" name="OPT_ID_775">
+<label name="OPT_ID_776">13</label>
+<element-citation publication-type="preprint" name="OPT_ID_777">
+<person-group person-group-type="author" name="OPT_ID_778">
+<name name="OPT_ID_779"><surname name="OPT_ID_780">Romano</surname><given-names name="OPT_ID_781">A. E.</given-names></name>
+</person-group>
+<year name="OPT_ID_782">2012</year>
+<comment name="OPT_ID_783">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_784">1204.0866</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib14" name="OPT_ID_785">
+<label name="OPT_ID_786">14</label>
+<element-citation publication-type="journal" name="OPT_ID_787">
+<person-group person-group-type="author" name="OPT_ID_788">
+<name name="OPT_ID_789"><surname name="OPT_ID_790">Romano</surname><given-names name="OPT_ID_791">A. E.</given-names></name>
+<name name="OPT_ID_792"><surname name="OPT_ID_793">Chen</surname><given-names name="OPT_ID_794">P.</given-names></name>
+</person-group>
+<year name="OPT_ID_795">2011</year>
+<source name="OPT_ID_796">JCAP</source>
+<volume name="OPT_ID_797">10</volume>
+<fpage name="OPT_ID_798">016</fpage>
+<comment name="OPT_ID_799">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_800">1104.0730</ext-link></comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib15" name="OPT_ID_801">
+<label name="OPT_ID_802">15</label>
+<element-citation publication-type="journal" name="OPT_ID_803">
+<person-group person-group-type="author" name="OPT_ID_804">
+<name name="OPT_ID_805"><surname name="OPT_ID_806">Lemaitre</surname><given-names name="OPT_ID_807">G.</given-names></name>
+</person-group>
+<year name="OPT_ID_808">1997</year>
+<source name="OPT_ID_809">Gen. Relativ. Gravit.</source>
+<volume name="OPT_ID_810">29</volume>
+<fpage name="OPT_ID_811">641</fpage>
+</element-citation>
+</ref>
+<ref id="epl16892bib16" name="OPT_ID_812">
+<label name="OPT_ID_813">16</label>
+<element-citation publication-type="journal" name="OPT_ID_814">
+<person-group person-group-type="author" name="OPT_ID_815">
+<name name="OPT_ID_816"><surname name="OPT_ID_817">Tolman</surname><given-names name="OPT_ID_818">R. C.</given-names></name>
+</person-group>
+<year name="OPT_ID_819">1934</year>
+<source name="OPT_ID_820">Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume name="OPT_ID_821">20</volume>
+<fpage name="OPT_ID_822">169</fpage>
+</element-citation>
+</ref>
+<ref id="epl16892bib17" name="OPT_ID_823">
+<label name="OPT_ID_824">17</label>
+<element-citation publication-type="journal" name="OPT_ID_825">
+<person-group person-group-type="author" name="OPT_ID_826">
+<name name="OPT_ID_827"><surname name="OPT_ID_828">Bondi</surname><given-names name="OPT_ID_829">H.</given-names></name>
+</person-group>
+<year name="OPT_ID_830">1947</year>
+<source name="OPT_ID_831">Mon. Not. Roy. Astron. Soc.</source>
+<volume name="OPT_ID_832">107</volume>
+<fpage name="OPT_ID_833">410</fpage>
+</element-citation>
+</ref>
+<ref id="epl16892bib18" name="OPT_ID_834">
+<label name="OPT_ID_835">18</label>
+<element-citation publication-type="journal" name="OPT_ID_836">
+<person-group person-group-type="author" name="OPT_ID_837">
+<name name="OPT_ID_838"><surname name="OPT_ID_839">Bardeen</surname><given-names name="OPT_ID_840">J. M.</given-names></name>
+<name name="OPT_ID_841"><surname name="OPT_ID_842">Bond</surname><given-names name="OPT_ID_843">J. R.</given-names></name>
+<name name="OPT_ID_844"><surname name="OPT_ID_845">Kaiser</surname><given-names name="OPT_ID_846">N.</given-names></name>
+<name name="OPT_ID_847"><surname name="OPT_ID_848">Szalay</surname><given-names name="OPT_ID_849">A. S.</given-names></name>
+</person-group>
+<year name="OPT_ID_850">1986</year>
+<source name="OPT_ID_851">Astrophys. J.</source>
+<volume name="OPT_ID_852">304</volume>
+<fpage name="OPT_ID_853">15</fpage>
+</element-citation>
+</ref>
+<ref id="epl16892bib19" name="OPT_ID_854">
+<label name="OPT_ID_855">19</label>
+<element-citation publication-type="journal" name="OPT_ID_856">
+<person-group person-group-type="author" name="OPT_ID_857">
+<name name="OPT_ID_858"><surname name="OPT_ID_859">Keenan</surname><given-names name="OPT_ID_860">R. C.</given-names></name>
+<name name="OPT_ID_861"><surname name="OPT_ID_862">Barger</surname><given-names name="OPT_ID_863">A. J.</given-names></name>
+<name name="OPT_ID_864"><surname name="OPT_ID_865">Cowie</surname><given-names name="OPT_ID_866">L. L.</given-names></name>
+</person-group>
+<year name="OPT_ID_867">2013</year>
+<source name="OPT_ID_868">Astrophys. J.</source>
+<volume name="OPT_ID_869">775</volume>
+<fpage name="OPT_ID_870">62</fpage>
+<comment name="OPT_ID_871">arXiv:<ext-link ext-link-type="arxiv" name="OPT_ID_872">1304.2884</ext-link><span class="unicode-char">&nbsp;</span>&lsqb;astro&hyphen;ph.CO&rsqb;</comment>
+</element-citation>
+</ref>
+<ref id="epl16892bib20" name="OPT_ID_873">
+<label name="OPT_ID_874">20</label>
+<element-citation publication-type="journal" name="OPT_ID_875">
+<person-group person-group-type="author" name="OPT_ID_876">
+<name name="OPT_ID_877"><surname name="OPT_ID_878">Gott</surname><given-names name="OPT_ID_879">J. R.</given-names><suffix name="OPT_ID_880">III</suffix></name>
+<name name="OPT_ID_881"><surname name="OPT_ID_882">Juric</surname><given-names name="OPT_ID_883">M.</given-names></name>
+<name name="OPT_ID_884"><surname name="OPT_ID_885">Schlegel</surname><given-names name="OPT_ID_886">D.</given-names></name>
+<name name="OPT_ID_887"><surname name="OPT_ID_888">Hoyle</surname><given-names name="OPT_ID_889">F.</given-names></name>
+<name name="OPT_ID_890"><surname name="OPT_ID_891">Vogeley</surname><given-names name="OPT_ID_892">M.</given-names></name>
+<name name="OPT_ID_893"><surname name="OPT_ID_894">Tegmark</surname><given-names name="OPT_ID_895">M.</given-names></name>
+<name name="OPT_ID_896"><surname name="OPT_ID_897">Bahcall</surname><given-names name="OPT_ID_898">N. A.</given-names></name>
+<name name="OPT_ID_899"><surname name="OPT_ID_900">Brinkmann</surname><given-names name="OPT_ID_901">J.</given-names></name>
+</person-group>
+<year name="OPT_ID_902">2005</year>
+<source name="OPT_ID_903">Astrophys. J.</source>
+<volume name="OPT_ID_904">624</volume>
+<fpage name="OPT_ID_905">463</fpage>
+<comment name="OPT_ID_906"><ext-link ext-link-type="arxiv" name="OPT_ID_907">astro<span class="unicode-char">&hyphen;</span>ph/0310571</ext-link></comment>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

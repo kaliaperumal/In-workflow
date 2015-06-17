@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	<class name="pojo.Article" table="article">		
+		<id name="ArticleKey" type="java.lang.Integer">
+			<column name="ArticleKey"/>
+			<generator class="identity"/>
+		</id>		
+		<property name="aid" type="string">
+			<column name="aid" not-null="true"/>
+		</property>		
+		<property name="jid" type="string">
+			<column name="jid" not-null="true"/>
+		</property>		
+		<property name="StatusId" type="int">
+			<column name="StatusId" not-null="false"/>
+		</property>
+		<property name="Site" type="string">
+			<column name="Site" not-null="false"/>
+		</property>
+		<property name="Title" type="string">
+			<column name="Title" not-null="false"/>
+		</property>
+		<property name="CorrespondingAuthorName" type="string">
+			<column name="CorrespondingAuthorName" not-null="false"/>
+		</property>
+		<property name="CorrespondingAuthorEmail" type="string">
+			<column name="CorrespondingAuthorEmail" not-null="false"/>
+		</property>
+		<property name="DateArticlePosted" type="timestamp">
+			<column name="DateArticlePosted" not-null="false"/>
+		</property>
+		<property name="OPTURL" type="string">
+			<column name="OPTURL" not-null="false"/>
+		</property>
+		<property name="ExpiredForExternalAccess" type="int">
+			<column name="ExpiredForExternalAccess" not-null="false"/>
+		</property>
+		<property name="Stage" type="string">
+			<column name="Stage" not-null="false"/>
+		</property>
+		<property name="DatasetStatusID" type="int">
+			<column name="DatasetStatusID" not-null="false"/>
+		</property>
+		<property name="IsDowngradeAccess" type="int">
+			<column name="IsDowngradeAccess" not-null="false"/>
+		</property>
+		<property name="OfflineStatus" type="int">
+			<column name="OfflineStatus" not-null="false"/>
+		</property>
+		<property name="OUTXMLStatus" type="string">
+			<column name="OUTXMLStatus" not-null="false"/>
+		</property>
+		
+		<property name="Edited" column="Edited">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">pojo.ArticleEnum</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>
+		
+		<property name="Purpose" column="Purpose">
+			<type name="org.hibernate.type.EnumType">
+				<param name="enumClass">pojo.ArticleEnum</param>
+				<param name="useNamed">true</param>
+			</type>
+		</property>		
+	</class>
+</hibernate-mapping>

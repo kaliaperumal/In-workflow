@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "/home/likewise-open/TRANS/tec0157/workspace/IN_ETAPS/Support/dtd/epl/journalpublishing3.dtd">
+<article article-type="rapid-communication" xmlns:mml="http://www.w3.org/1998/Math/MathML" name="TRS_ID_1">
+<front name="TRS_ID_2">
+<journal-meta name="TRS_ID_3">
+<journal-id journal-id-type="publisher-id" name="TRS_ID_4">epl</journal-id>
+<journal-id journal-id-type="coden" name="TRS_ID_5">EULEEJ</journal-id>
+<journal-title-group name="TRS_ID_6">
+<journal-title name="TRS_ID_7">Europhysics Letters</journal-title>
+<abbrev-journal-title abbrev-type="IOP" name="TRS_ID_8">EPL</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher" name="TRS_ID_9">EPL</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub" name="TRS_ID_10">0295-5075</issn>
+<issn pub-type="epub" name="TRS_ID_11">1286-4854</issn>
+<publisher name="TRS_ID_12">
+<publisher-name name="TRS_ID_13">EDP Sciences, IOP Publishing and Societ<span class="unicode-char">&agrave;</span> Italiana di Fisica</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta name="TRS_ID_14">
+<article-id pub-id-type="publisher-id" name="TRS_ID_15">epl17030</article-id>
+<article-id pub-id-type="doi" name="TRS_ID_16">10.1209/0295-5075/110/20002</article-id>
+<article-id pub-id-type="manuscript" name="TRS_ID_17">17030</article-id>
+<article-categories name="TRS_ID_18">
+<subj-group subj-group-type="article-type" name="TRS_ID_19">
+<subject name="TRS_ID_20">Letter</subject>
+</subj-group>
+<subj-group subj-group-type="section" name="TRS_ID_21">
+<subject name="TRS_ID_22">00 General</subject>
+</subj-group>
+</article-categories>
+<title-group name="TRS_ID_23">
+<article-title name="TRS_ID_24">Network topology with broken Onsager symmetry allows directional and highly efficient energy transfer</article-title>
+<alt-title alt-title-type="ascii" name="TRS_ID_25">Network topology with broken Onsager symmetry allows directional and highly efficient energy transfer</alt-title>
+<alt-title alt-title-type="short" name="TRS_ID_26">Network topology Onsager symmetry and energy transfer</alt-title>
+<alt-title alt-title-type="short-ascii" name="TRS_ID_27">Network topology Onsager symmetry and energy transfer</alt-title>
+</title-group>
+<contrib-group content-type="all" name="TRS_ID_28">
+<contrib contrib-type="author" name="TRS_ID_29">
+<name name="TRS_ID_30"><surname name="TRS_ID_31">Sabass</surname><given-names name="TRS_ID_32">B.</given-names></name>
+<xref ref-type="aff" rid="epl17030af1" name="TRS_ID_33"/>
+</contrib>
+<aff id="epl17030af1" name="TRS_ID_34">Mechanical and Aerospace Engineering, <institution name="TRS_ID_35">Princeton University</institution> - Princeton, NJ, <country name="TRS_ID_36">USA</country></aff>
+<author-comment content-type="short-author-list" name="TRS_ID_37"><p name="TRS_ID_38">B. Sabass</p>
+</author-comment>
+</contrib-group>
+<pub-date pub-type="ppub" name="TRS_ID_39"><month name="TRS_ID_40">4</month><year name="TRS_ID_41">2015</year></pub-date>
+<pub-date pub-type="epub" name="TRS_ID_42"><day name="TRS_ID_43">29</day><month name="TRS_ID_44">4</month><year name="TRS_ID_45">2015</year></pub-date>
+<volume name="TRS_ID_46">110</volume>
+<issue name="TRS_ID_47">2</issue>
+<elocation-id content-type="artnum" name="TRS_ID_48">20002</elocation-id>
+<history name="TRS_ID_49">
+<date date-type="received" name="TRS_ID_50"><day name="TRS_ID_51">10</day><month name="TRS_ID_52">1</month><year name="TRS_ID_53">2015</year></date>
+<date date-type="accepted" name="TRS_ID_54"><day name="TRS_ID_55">7</day><month name="TRS_ID_56">4</month><year name="TRS_ID_57">2015</year></date>
+</history>
+<permissions name="TRS_ID_58">
+<copyright-statement name="TRS_ID_59">Copyright <span class="unicode-char">&copy;</span> EPLA, 2015</copyright-statement>
+<copyright-year name="TRS_ID_60">2015</copyright-year>
+<license license-type="editors-choice" name="TRS_ID_61"><license-p name="TRS_ID_62"></license-p></license>
+</permissions>
+<self-uri xlink:href="http://stacks.iop.org/EPL/110/20002" name="TRS_ID_63"/>
+<abstract name="TRS_ID_64">
+<title name="TRS_ID_65">Abstract</title>
+<p name="TRS_ID_66">Time-reversal symmetry of most conservative forces constrains the properties of linear transport in physical systems. Here, we study the efficiency of energy transfer in dissipative oscillator networks where time-reversal symmetry is broken locally by Lorentz-force<span class="unicode-char">&ndash;</span>like couplings. Despite their linearity, such networks can exhibit mono-directional transport and allow isolation of energy transfer in subsystems. New mechanisms and general rules for mono-directional transport are discussed. Combining network topology with Lorentz-force<span class="unicode-char">&ndash;</span>like coupling, we show how efficiency at maximum power can surpass the common bound of 1/2 and may even approach unity.</p>
+</abstract>
+<kwd-group kwd-group-type="author-pacs" name="TRS_ID_67">
+<kwd name="TRS_ID_68">05.70.Ln</kwd>
+<kwd name="TRS_ID_69">05.60.Cd</kwd>
+<kwd name="TRS_ID_70">05.45.Xt</kwd>
+</kwd-group>
+<counts name="TRS_ID_71">
+<page-count count="6" name="TRS_ID_72"/>
+</counts>
+<custom-meta-group name="TRS_ID_73">
+<custom-meta name="TRS_ID_74">
+<meta-name name="TRS_ID_75">ccc</meta-name>
+<meta-value name="TRS_ID_76"></meta-value>
+</custom-meta>
+<custom-meta name="TRS_ID_77"><meta-name name="TRS_ID_78">printed</meta-name>
+<meta-value name="TRS_ID_79">Printed in France</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body name="TRS_ID_80">
+<sec id="epl17030s1" name="TRS_ID_81">
+<title name="TRS_ID_82">Introduction</title>
+<p name="TRS_ID_83">Onsager symmetry holds for the vast majority of coupled linear phenomena on the mesoscopic and macroscopic scale. However, the symmetry of transport coefficients is generally lost when time-reversal symmetry is broken through a magnetic field. Recently, it has been suggested that magnetic breaking of Onsager symmetry may allow for the existence of finite-time heat engines with vanishing entropy production and also allow an efficiency at maximum power that exceeds the Curzon-Ahlborn limit<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib1" name="TRS_ID_84">1</xref>]. Although subsequent studies established a number of positive lower bounds for entropy production in concrete quantum-mechanical systems<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib2" name="TRS_ID_85">2</xref>&ndash;<xref ref-type="bibr" rid="epl17030bib5" name="TRS_ID_86">5</xref>], and classical heat engines<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib6" name="TRS_ID_87">6</xref>,<xref ref-type="bibr" rid="epl17030bib7" name="TRS_ID_88">7</xref>], the results highlight the non-trivial nature of coupled transport in the presence of a magnetic field. A logical next step is to combine the properties of magnetic couplings with topological features of a network.</p>
+<p name="TRS_ID_89">Networks with classical oscillators, such as vibrating spring-damper collections, electric power grids<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib8" name="TRS_ID_90">8</xref>,<xref ref-type="bibr" rid="epl17030bib9" name="TRS_ID_91">9</xref>], or electronic circuits are omnipresent in daily life. Desired system properties, <italic name="TRS_ID_92">e.g.</italic>, in terms of frequency response or current rectification, often require active or non-linear elements, such as amplifiers or diodes. We hypothesize here that linear elements that break Onsager symmetry could be a possible alternative. Such elements can be built in a variety of ways: mechanically, a coupling via Lorentz forces can be realized with a charge on a forced, two-dimensional pendulum in a magnetic field. Alternatively, electrical circuits can be connected via perpendicular sides of a Hall element, which is called a gyrator<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib10" name="TRS_ID_93">10</xref>&ndash;<xref ref-type="bibr" rid="epl17030bib12" name="TRS_ID_94">12</xref>]. Also, similar devices with microwaves are based on the Faraday effect<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib13" name="TRS_ID_95">13</xref>]. In principle, even Coriolis forces can be employed as a time-reversal symmetry-breaking coupling.</p>
+<p name="TRS_ID_96">In this letter, systems of linear oscillator equations are studied as a generic model for the above examples. Oscillators interact by time-reversal symmetric forces as well as through Lorentz-force<span class="unicode-char">&ndash;</span>like couplings. In spite of the simplicity, these systems are found to exhibit a rich linear response and unusual energetics. Two aspects are particularly notable. Namely the possibility of fixing a transport direction through network properties and a highly efficient energy transfer. While details of the system matter for mono-directional transport, network topology imposes very general and easily perceivable constraints. Corresponding rules are provided. Next, general limits for the efficiency are assessed. It is shown that both network loops and breaking of Onsager symmetry are necessary to remove technically important constraints on linear energy transfer. Finally, the system behavior in the presence of additive and multiplicative noise is discussed briefly.</p>
+</sec>
+<sec id="epl17030s2" name="TRS_ID_97">
+<title name="TRS_ID_98">Framework</title>
+<p name="TRS_ID_99">Our networks consist of coupled real variables <inline-formula id="epl17030ieqn1" name="TRS_ID_100"><tex-math name="TRS_ID_101"><?CDATA $x_j(t)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn1.gif" name="TRS_ID_102"/>
+</inline-formula> that obey a Langevin equation as
+<disp-formula id="epl17030eqn1" name="TRS_ID_103">
+<label name="TRS_ID_104">1</label><tex-math name="TRS_ID_105"><?CDATA \begin{equation}
+\ddot{x}_j = -\sum_l\left(\kappa_{jl}\,x_l + b_{jl}\,\dot{x}_l\right)-\gamma_j\,\dot{x}_j + \xi_j + f_j.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn1.gif" name="TRS_ID_106"/>
+</disp-formula>
+The symmetric matrix <inline-formula id="epl17030ieqn2" name="TRS_ID_107"><tex-math name="TRS_ID_108"><?CDATA $\bm{\kappa}=\bm{\kappa}^{T}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn2.gif" name="TRS_ID_109"/>
+</inline-formula> represents, <italic name="TRS_ID_110">e.g.</italic>, elastic constants for a mechanical system or capacitance for an electric network. <bold name="TRS_ID_111"><italic name="TRS_ID_110"><span class="unicode-char">&kappa;</span></italic></bold> must be positive definite for stability&nbsp;[<xref ref-type="bibr" rid="epl17030bib14" name="TRS_ID_113">14</xref>]. The antisymmetric matrix <inline-formula id="epl17030ieqn4" name="TRS_ID_114"><tex-math name="TRS_ID_115"><?CDATA $\mathbf{b} = -\mathbf{b}^{T}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn4.gif" name="TRS_ID_116"/>
+</inline-formula> represents Lorenz-force<span class="unicode-char">&ndash;</span>like couplings. <inline-formula id="epl17030ieqn5" name="TRS_ID_117"><tex-math name="TRS_ID_118"><?CDATA $\gamma_j$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn5.gif" name="TRS_ID_119"/>
+</inline-formula> are positive friction constants. The noise <inline-formula id="epl17030ieqn6" name="TRS_ID_120"><tex-math name="TRS_ID_121"><?CDATA $\xi_j$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn6.gif" name="TRS_ID_122"/>
+</inline-formula> obeys <inline-formula id="epl17030ieqn7" name="TRS_ID_123"><tex-math name="TRS_ID_124"><?CDATA $\langle\xi_j(t)\rangle = 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn7.gif" name="TRS_ID_125"/>
+</inline-formula> and <inline-formula id="epl17030ieqn8" name="TRS_ID_126"><tex-math name="TRS_ID_127"><?CDATA $\langle \xi_j(t) \xi_l(t')\rangle = \delta_{jl} 2 \gamma_j k_{\text{B}}T \delta(t-t')$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn8.gif" name="TRS_ID_128"/>
+</inline-formula> with the thermal energy <inline-formula id="epl17030ieqn9" name="TRS_ID_129"><tex-math name="TRS_ID_130"><?CDATA $k_{\text{B}}T$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn9.gif" name="TRS_ID_131"/>
+</inline-formula>. We assume that the two of the oscillators with indices <italic name="TRS_ID_132">a</italic> and <italic name="TRS_ID_132">b</italic> are driven as
+<disp-formula id="epl17030eqn2" name="TRS_ID_134">
+<label name="TRS_ID_135">2</label><tex-math name="TRS_ID_136"><?CDATA \begin{equation}
+f_{\{a,b\}} = 2\,F_{\{a,b\}} \cos(\omega t + \varphi_{\{a,b\}}), \quad f_{j\,\notin \{a,b\}} = 0,
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn2.gif" name="TRS_ID_137"/>
+</disp-formula>
+where <italic name="TRS_ID_138"><span class="unicode-char">&omega;</span></italic> is a fixed angular frequency. Phase differences will be written as <inline-formula id="epl17030ieqn10" name="TRS_ID_139"><tex-math name="TRS_ID_140"><?CDATA $\varphi_{jl}\equiv\varphi_{j}-\varphi_{l}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn10.gif" name="TRS_ID_141"/>
+</inline-formula>. Non-dimensional units<xref ref-type="fn" rid="epl17030fn1" name="TRS_ID_142"><sup name="TRS_ID_143">1</sup></xref>
+<fn id="epl17030fn1" name="TRS_ID_144"><label name="TRS_ID_145">1</label>
+<p name="TRS_ID_146">We fix a force scale <inline-formula id="epl17030ieqn11" name="TRS_ID_147"><tex-math name="TRS_ID_148"><?CDATA $\hat{F}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn11.gif" name="TRS_ID_149"/>
+</inline-formula> and a typical coupling constant <inline-formula id="epl17030ieqn12" name="TRS_ID_150"><tex-math name="TRS_ID_151"><?CDATA $\hat{\kappa}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn12.gif" name="TRS_ID_152"/>
+</inline-formula>. Time is non-dimensionalized by <inline-formula id="epl17030ieqn13" name="TRS_ID_153"><tex-math name="TRS_ID_154"><?CDATA $\hat{\tau} \equiv 1/\sqrt{\hat{\kappa}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn13.gif" name="TRS_ID_155"/>
+</inline-formula>. Since eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_156">1</xref>) is non-dimensionalized by <inline-formula id="epl17030ieqn14" name="TRS_ID_157"><tex-math name="TRS_ID_158"><?CDATA $\hat{F}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn14.gif" name="TRS_ID_159"/>
+</inline-formula>, <italic name="TRS_ID_160">x</italic> is scaled by <inline-formula id="epl17030ieqn15" name="TRS_ID_161"><tex-math name="TRS_ID_162"><?CDATA $\hat{x} \equiv \hat{F}/\hat{\kappa}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn15.gif" name="TRS_ID_163"/>
+</inline-formula>. Accordingly, <italic name="TRS_ID_164">b</italic><sub name="TRS_ID_165"><italic name="TRS_ID_164">ij</italic></sub> and <inline-formula id="epl17030ieqn16" name="TRS_ID_167"><tex-math name="TRS_ID_168"><?CDATA $\gamma_{ij}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn16.gif" name="TRS_ID_169"/>
+</inline-formula> are non-dimensionalized by <inline-formula id="epl17030ieqn17" name="TRS_ID_170"><tex-math name="TRS_ID_171"><?CDATA $\sqrt{\hat{\kappa}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn17.gif" name="TRS_ID_172"/>
+</inline-formula>. All energies are scaled by <inline-formula id="epl17030ieqn18" name="TRS_ID_173"><tex-math name="TRS_ID_174"><?CDATA $\hat{F} \hat{x}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn18.gif" name="TRS_ID_175"/>
+</inline-formula> and power with <inline-formula id="epl17030ieqn19" name="TRS_ID_176"><tex-math name="TRS_ID_177"><?CDATA $\hat{F} \hat{x} /\hat{\tau}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn19.gif" name="TRS_ID_178"/>
+</inline-formula>.</p></fn> are used throughout the article.</p>
+<p name="TRS_ID_179">Since the system is driven with frequency <italic name="TRS_ID_180"><span class="unicode-char">&omega;</span></italic> we can write for the expectation value <inline-formula id="epl17030ieqn20" name="TRS_ID_181"><tex-math name="TRS_ID_182"><?CDATA $\langle x_j(t)\rangle= \langle\tilde{x}^{*}_j\rangle e^{-i \omega t}+\langle\tilde{x}^{}_j\rangle e^{i \omega t}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn20.gif" name="TRS_ID_183"/>
+</inline-formula>. Fourier coefficients are always denoted by a tilde <inline-formula id="epl17030ieqn21" name="TRS_ID_184"><tex-math name="TRS_ID_185"><?CDATA $(\,\tilde{}\,)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn21.gif" name="TRS_ID_186"/>
+</inline-formula>, asterisks <inline-formula id="epl17030ieqn22" name="TRS_ID_187"><tex-math name="TRS_ID_188"><?CDATA $(\,^{*})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn22.gif" name="TRS_ID_189"/>
+</inline-formula> denote complex conjugation. Equation<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_190">1</xref>) then yields
+<disp-formula id="epl17030eqn3" name="TRS_ID_191">
+<label name="TRS_ID_192">3</label><tex-math name="TRS_ID_193"><?CDATA \begin{eqnarray}
+&\sum_l A_{jl} \langle\tilde{x}_l\rangle = \tilde{f}_j,\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn3.gif" name="TRS_ID_194"/>
+</disp-formula>
+<disp-formula id="epl17030eqn4" name="TRS_ID_195">
+<label name="TRS_ID_196">4</label><tex-math name="TRS_ID_197"><?CDATA \begin{eqnarray}
+&A_{jl} \equiv (-\omega^2+ i\,\omega\, \gamma_j )\delta_{jl}+\kappa_{jl}+i\,\omega\,b_{jl}.
+\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn4.gif" name="TRS_ID_198"/>
+</disp-formula>
+Inversion of <bold name="TRS_ID_199">A</bold> yields the complex admittance
+<disp-formula id="epl17030eqn5" name="TRS_ID_200">
+<label name="TRS_ID_201">5</label><tex-math name="TRS_ID_202"><?CDATA \begin{equation}
+\bm{\chi} =\mathbf{A}^{-1},
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn5.gif" name="TRS_ID_203"/>
+</disp-formula>
+which determines the system<span class="unicode-char">&apos;</span>s response to the driving forces. When <inline-formula id="epl17030ieqn23" name="TRS_ID_204"><tex-math name="TRS_ID_205"><?CDATA $\mathbf{b} = \mathbf{0}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn23.gif" name="TRS_ID_206"/>
+</inline-formula>, the conservative forces are symmetric under time reversal and the complex admittance is symmetric <inline-formula id="epl17030ieqn24" name="TRS_ID_207"><tex-math name="TRS_ID_208"><?CDATA $\bm{\chi} = \bm{\chi}^{T}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn24.gif" name="TRS_ID_209"/>
+</inline-formula><span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib15" name="TRS_ID_210">15</xref>], which is usually referred to as Onsager symmetry.</p>
+</sec>
+<sec id="epl17030s3" name="TRS_ID_211">
+<title name="TRS_ID_212">Energy transfer</title>
+<p name="TRS_ID_213">The energetics in steady state are governed by average work rates at the actuated oscillators,
+<disp-formula id="epl17030eqn6" name="TRS_ID_214">
+<label name="TRS_ID_215">6</label><tex-math name="TRS_ID_216"><?CDATA \begin{equation}
+\dot{W}_{\{a,b\}} \equiv \frac{\omega}{2 \pi}\int_0^{\frac{2 \pi}{\omega}} f_{\{a,b\}}(t)\,\langle\dot{x}_{\{a,b\}}\rangle \,\mathrm{d} t.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn6.gif" name="TRS_ID_217"/>
+</disp-formula>
+A net energy transmission through the system occurs when the power at one of the driven oscillators becomes negative. However, the overall dissipation is necessarily positive semi-definite. It is given by the sum of the work rates
+<disp-formula id="epl17030eqn7" name="TRS_ID_218">
+<label name="TRS_ID_219">7</label><tex-math name="TRS_ID_220"><?CDATA \begin{equation}
+\dot{W}_{\text{diss}} \equiv \dot{W}_a+\dot{W}_b \geq 0.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn7.gif" name="TRS_ID_221"/>
+</disp-formula></p>
+<p name="TRS_ID_222">For broken Onsager symmetry, the direction of the energy flow and hence the choice of input and output oscillators generally matters. In the following, the index <italic name="TRS_ID_223">b</italic> will be used for the oscillator that provides energy output. Then, the efficiency of the energy transfer can be defined as
+<disp-formula id="epl17030eqn8" name="TRS_ID_224">
+<label name="TRS_ID_225">8</label><tex-math name="TRS_ID_226"><?CDATA \begin{equation}
+\eta \equiv -\dot{W}_b/\dot{W}_a = -\dot{W}_b/(-\dot{W}_b + \dot{W}_{\text{diss}}) \leq 1.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn8.gif" name="TRS_ID_227"/>
+</disp-formula>
+A key figure of merit is the efficiency at maximum power output, which is here defined for fixed frequencies as
+<disp-formula id="epl17030eqn9" name="TRS_ID_228">
+<label name="TRS_ID_229">9</label><tex-math name="TRS_ID_230"><?CDATA \begin{equation}
+\eta^{\prime} \equiv \eta(-\dot{W}_b |_{{\omega}} \rightarrow \max),
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn9.gif" name="TRS_ID_231"/>
+</disp-formula>
+where the maximum <inline-formula id="epl17030ieqn34" name="TRS_ID_232"><tex-math name="TRS_ID_233"><?CDATA $-\dot{W}_b |_{{\omega}} $ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn34.gif" name="TRS_ID_234"/>
+</inline-formula> of the power output is found by searching for an optimal phase difference <inline-formula id="epl17030ieqn35" name="TRS_ID_235"><tex-math name="TRS_ID_236"><?CDATA $\varphi_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn35.gif" name="TRS_ID_237"/>
+</inline-formula> and magnitude of the driving force <italic name="TRS_ID_238">f</italic><sub name="TRS_ID_239"><italic name="TRS_ID_238">b</italic></sub>. In linear systems with conserved Onsager symmetry efficiency at maximum power is generally expected to be smaller than <inline-formula id="epl17030ieqn36" name="TRS_ID_241"><tex-math name="TRS_ID_242"><?CDATA $1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn36.gif" name="TRS_ID_243"/>
+</inline-formula><span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib16" name="TRS_ID_244">16</xref>]. However, the following examples will demonstrate that networks of the type of eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_245">1</xref>) do not necessarily obey such an energetic constraint. Moreover, the interplay of network topology and local breaking of Onsager symmetry will allow further truly remarkable properties.</p>
+</sec>
+<sec id="epl17030s4" name="TRS_ID_246">
+<title name="TRS_ID_247">Example 1: a highly efficient diode</title>
+<p name="TRS_ID_248">Consider a network of three oscillators as depicted in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig1" name="TRS_ID_249">1</xref>(a). The dynamics is described by eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_250">1</xref>) where <inline-formula id="epl17030ieqn37" name="TRS_ID_251"><tex-math name="TRS_ID_252"><?CDATA $j=1\ldots3$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn37.gif" name="TRS_ID_253"/>
+</inline-formula>, thus we have
+<disp-formula id="epl17030ueqn1" name="TRS_ID_254"><tex-math name="TRS_ID_255"><?CDATA \begin{eqnarray*}
+\mathbf{A}=\begin{pmatrix}
+\kappa_{11}-\omega^2+i\omega\gamma_1 &\kappa_{12}+i\omega b_{12} & \kappa_{13}+i\omega b_{13} \\[1pt]
+\kappa_{12}-i\omega b_{12} & \kappa_{22}-\omega^2+i\omega\gamma_2 & \kappa_{23}+i\omega b_{23}\\[1pt]
+\kappa_{13}-i\omega b_{13} & \kappa_{23}-i\omega b_{23} & \kappa_{33}-\omega^2+i\omega\gamma_3
+\end{pmatrix},
+\end{eqnarray*} ?></tex-math>
+<graphic xlink:href="epl17030ueqn1.gif" name="TRS_ID_256"/>
+</disp-formula>
+which yields a lengthy expression for <bold name="TRS_ID_257"><italic name="TRS_ID_258"><span class="unicode-char">&chi;</span></italic></bold> on inversion. Broken Onsager symmetry now allows to choose coupling parameters in <bold name="TRS_ID_257">A</bold> such as to have <inline-formula id="epl17030ieqn39" name="TRS_ID_260"><tex-math name="TRS_ID_261"><?CDATA $\chi_{12}(\omega)=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn39.gif" name="TRS_ID_262"/>
+</inline-formula> for any frequency while <inline-formula id="epl17030ieqn40" name="TRS_ID_263"><tex-math name="TRS_ID_264"><?CDATA $\chi_{21}(\omega)\neq0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn40.gif" name="TRS_ID_265"/>
+</inline-formula>. This condition yields the parameters <inline-formula id="epl17030ieqn41" name="TRS_ID_266"><tex-math name="TRS_ID_267"><?CDATA $b_{12} = 0,\; b_{13} = -\kappa_{12}/b_{23},\; \kappa_{33} = \kappa_{13} \kappa_{23}/\kappa_{12}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn41.gif" name="TRS_ID_268"/>
+</inline-formula>, and <inline-formula id="epl17030ieqn42" name="TRS_ID_269"><tex-math name="TRS_ID_270"><?CDATA $\kappa_{12} = -(\kappa_{13} b_{23}^2)/(\kappa_{23} + b_{23} \gamma_3)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn42.gif" name="TRS_ID_271"/>
+</inline-formula>. Note that stability conditions on <bold name="TRS_ID_272"><italic name="TRS_ID_273"><span class="unicode-char">&kappa;</span></italic></bold> now impose a stronger constraint on the remaining free parameters. As illustrated in fig.&nbsp;<xref ref-type="fig" rid="epl17030fig1" name="TRS_ID_274">1</xref>(b), (c) the system is a dynamic, but genuine diode. Forcing with <italic name="TRS_ID_273">f</italic><sub name="TRS_ID_276">2</sub> always leads to an anti-phase effect of oscillators 2 and 3 on oscillator 1, which completely blocks the response of the latter. In contrast, forcing with <italic name="TRS_ID_273">f</italic><sub name="TRS_ID_276">1</sub> leads to no cancellation of 1 and 3, such that the energy can be carried around both sides of the structure.</p>
+<fig id="epl17030fig1" position="float" fig-type="figure" name="TRS_ID_279">
+<label name="TRS_ID_280">Fig. 1:</label>
+<caption id="epl17030fc1" name="TRS_ID_281">
+<p name="TRS_ID_282">(Colour on-line) (a) Three-oscillator system with variables <italic name="TRS_ID_283">x</italic><sub name="TRS_ID_284">1,2,3</sub> where oscillators 1 and 2 can be forced. Red and black lines symbolize coupling with <italic name="TRS_ID_283">b</italic>, <italic name="TRS_ID_283"><span class="unicode-char">&kappa;</span></italic>, respectively. (b) Working principle of the three-oscillator diode. (c) Exemplary diode response from a solution of eqs.&nbsp;(<xref ref-type="disp-formula" rid="epl17030eqn2" name="TRS_ID_287">2</xref>),&nbsp;(<xref ref-type="disp-formula" rid="epl17030eqn3" name="TRS_ID_288">3</xref>) with parameter conditions for example 1 and <inline-formula id="epl17030ieqn25" name="TRS_ID_289"><tex-math name="TRS_ID_290"><?CDATA $\gamma_1=0.2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn25.gif" name="TRS_ID_291"/>
+</inline-formula>, <inline-formula id="epl17030ieqn26" name="TRS_ID_292"><tex-math name="TRS_ID_293"><?CDATA $\gamma_2=0.1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn26.gif" name="TRS_ID_294"/>
+</inline-formula>. Left: blocking state; right: transmitting state. (d) Efficiency at maximum power <inline-formula id="epl17030ieqn27" name="TRS_ID_295"><tex-math name="TRS_ID_296"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn27.gif" name="TRS_ID_297"/>
+</inline-formula> of the diode approaches unity when <inline-formula id="epl17030ieqn28" name="TRS_ID_298"><tex-math name="TRS_ID_299"><?CDATA $\gamma_1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn28.gif" name="TRS_ID_300"/>
+</inline-formula> and <inline-formula id="epl17030ieqn29" name="TRS_ID_301"><tex-math name="TRS_ID_302"><?CDATA $\gamma_2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn29.gif" name="TRS_ID_303"/>
+</inline-formula> vanish. Parameters: <inline-formula id="epl17030ieqn30" name="TRS_ID_304"><tex-math name="TRS_ID_305"><?CDATA $\kappa_{11}=\kappa_{22}=2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn30.gif" name="TRS_ID_306"/>
+</inline-formula>, <inline-formula id="epl17030ieqn31" name="TRS_ID_307"><tex-math name="TRS_ID_308"><?CDATA $\kappa_{13}=\kappa_{23}=-1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn31.gif" name="TRS_ID_309"/>
+</inline-formula>, <inline-formula id="epl17030ieqn32" name="TRS_ID_310"><tex-math name="TRS_ID_311"><?CDATA $b_{23}=1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn32.gif" name="TRS_ID_312"/>
+</inline-formula>, <inline-formula id="epl17030ieqn33" name="TRS_ID_313"><tex-math name="TRS_ID_314"><?CDATA $\gamma_3 =2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn33.gif" name="TRS_ID_315"/>
+</inline-formula>.</p>
+</caption>
+<graphic id="epl17030f1_eps" content-type="print" xlink:href="epl17030f1_pr.eps" name="TRS_ID_316"/>
+<graphic id="epl17030f1_online" content-type="online" xlink:href="epl17030f1_online.jpg" name="TRS_ID_317"/>
+</fig>
+<p name="TRS_ID_318">In fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig1" name="TRS_ID_319">1</xref>(d) the efficiency at maximum power <inline-formula id="epl17030ieqn44" name="TRS_ID_320"><tex-math name="TRS_ID_321"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn44.gif" name="TRS_ID_322"/>
+</inline-formula> is displayed. Explicit expressions can be found in the following sections. For this diode <inline-formula id="epl17030ieqn45" name="TRS_ID_323"><tex-math name="TRS_ID_324"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn45.gif" name="TRS_ID_325"/>
+</inline-formula> generally has only one maximum located at <inline-formula id="epl17030ieqn46" name="TRS_ID_326"><tex-math name="TRS_ID_327"><?CDATA $\omega=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn46.gif" name="TRS_ID_328"/>
+</inline-formula>. As shown, the system can asymptotically reach a unit efficiency at maximum power, which is achieved when friction in oscillators 1 and 2 vanish since <inline-formula id="epl17030ieqn47" name="TRS_ID_329"><tex-math name="TRS_ID_330"><?CDATA $\lim_{(\gamma_1,\gamma_2) \rightarrow 0}\eta' = 1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn47.gif" name="TRS_ID_331"/>
+</inline-formula>. In contrast to systems with conserved Onsager symmetry, this diode can reach its upper bound of efficiency at almost arbitrary values of <inline-formula id="epl17030ieqn48" name="TRS_ID_332"><tex-math name="TRS_ID_333"><?CDATA $\gamma_3$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn48.gif" name="TRS_ID_334"/>
+</inline-formula>. Analytical calculations for <inline-formula id="epl17030ieqn49" name="TRS_ID_335"><tex-math name="TRS_ID_336"><?CDATA $\gamma_3 \rightarrow \infty$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn49.gif" name="TRS_ID_337"/>
+</inline-formula> show that the upper bound of <inline-formula id="epl17030ieqn50" name="TRS_ID_338"><tex-math name="TRS_ID_339"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn50.gif" name="TRS_ID_340"/>
+</inline-formula> is reached when <inline-formula id="epl17030ieqn51" name="TRS_ID_341"><tex-math name="TRS_ID_342"><?CDATA $\gamma_{1,2}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn51.gif" name="TRS_ID_343"/>
+</inline-formula> tend to zero as <inline-formula id="epl17030ieqn52" name="TRS_ID_344"><tex-math name="TRS_ID_345"><?CDATA $\gamma_3^{-h}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn52.gif" name="TRS_ID_346"/>
+</inline-formula> with <italic name="TRS_ID_347">h</italic><span class="unicode-char">&nbsp;</span>&gt;<span class="unicode-char">&nbsp;</span>1. In the limit <inline-formula id="epl17030ieqn53" name="TRS_ID_348"><tex-math name="TRS_ID_349"><?CDATA $\gamma_3 \rightarrow 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn53.gif" name="TRS_ID_350"/>
+</inline-formula>, the system always becomes unstable since <bold name="TRS_ID_351"><italic name="TRS_ID_352"><span class="unicode-char">&kappa;</span></italic></bold> is then no longer positive definite. It should be emphasized that the theoretical reachability of <inline-formula id="epl17030ieqn55" name="TRS_ID_353"><tex-math name="TRS_ID_354"><?CDATA $\eta'\approx 1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn55.gif" name="TRS_ID_355"/>
+</inline-formula> in a genuine linear-response steady state makes this new diode unique.</p>
+</sec>
+<sec id="epl17030s5" name="TRS_ID_356">
+<title name="TRS_ID_357">Example 2: isolated transmission chain</title>
+<p name="TRS_ID_358">The working principle of the diode in example 1 can also allow for isolation of energy transfer in spatially extended systems. Consider two chains as shown in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig2" name="TRS_ID_359">2</xref>(a), consisting of <italic name="TRS_ID_360">N</italic><span class="unicode-char">&nbsp;</span>+<span class="unicode-char">&nbsp;</span>1 and <italic name="TRS_ID_360">N</italic><span class="unicode-char">&nbsp;</span>&minus;<span class="unicode-char">&nbsp;</span>1 oscillators, respectively. The sought-for isolation mechanism should allow energy transfer in the lower chain without exciting the upper chain. The oscillating variables of upper and lower chains <inline-formula id="epl17030ieqn56" name="TRS_ID_362"><tex-math name="TRS_ID_363"><?CDATA $x^{\text{u}}_{j}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn56.gif" name="TRS_ID_364"/>
+</inline-formula>, <inline-formula id="epl17030ieqn57" name="TRS_ID_365"><tex-math name="TRS_ID_366"><?CDATA $x^{\text{l}}_{j}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn57.gif" name="TRS_ID_367"/>
+</inline-formula> are assumed to obey
+<disp-formula id="epl17030eqn10" name="TRS_ID_368">
+<label name="TRS_ID_369">10</label><tex-math name="TRS_ID_370"><?CDATA \begin{eqnarray}
+\ddot{x}^{\text{u}}_{j}&=\kappa \left[x^{\text{u}}_{j-1}+x^{\text{u}}_{j+1}-2 x^{\text{u}}_{j} \right] + d \left[x^{\text{l}}_{j}-x^{\text{u}}_{j}\right] -\gamma_{\text{u}} \dot{x}^{\text{u}}_j\nonumber\\
+&\quad +\, b\left[\dot{x}^{\text{l}}_{j-1}+\dot{x}^{\text{l}}_{j+1}\right],\nonumber\\
+\ddot{x}^{\text{l}}_{j}&=\kappa\left[x^{\text{l}}_{j-1}+x^{\text{l}}_{j+1}-2 x^{\text{l}}_{j}\right] + d \left[x^{\text{u}}_{j}-x^{\text{l}}_{j}\right]-\gamma_{\text{l}}\dot{x}^{\text{l}}_{j}\nonumber\\
+&\quad-\, b\left[\dot{x}^{\text{u}}_{j-1}+\dot{x}^{\text{u}}_{j+1}\right],\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn10.gif" name="TRS_ID_371"/>
+</disp-formula>
+where noise is dropped for simplicity and the constants of time-reversal symmetric couplings are denoted by <inline-formula id="epl17030ieqn58" name="TRS_ID_372"><tex-math name="TRS_ID_373"><?CDATA $\kappa, d$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn58.gif" name="TRS_ID_374"/>
+</inline-formula>. The boundary conditions at the ends of the chains are given below<xref ref-type="fn" rid="epl17030fn2" name="TRS_ID_375"><sup name="TRS_ID_376">2</sup></xref>
+<fn id="epl17030fn2" name="TRS_ID_377"><label name="TRS_ID_378">2</label>
+<p name="TRS_ID_379">The boundary conditions for the chains in example 2 read
+<disp-formula id="epl17030ueqn2" name="TRS_ID_380"><tex-math name="TRS_ID_381"><?CDATA \begin{eqnarray*}
+\ddot{x}^{\text{l}}_0&=\kappa [x^{\text{l}}_1- x^{\text{l}}_0] -\gamma_{\text{l}} \dot{x}^{\text{l}}_0 - b \dot{x}^{\text{u}}_1 + f_0,\\[2.5pt]
+\ddot{x}^{\text{l}}_N &=\kappa [x^{\text{l}}_{N-1}- x^{\text{l}}_N] -\gamma_{\text{l}} \dot{x}^{\text{l}}_N - b \dot{x}^{\text{u}}_{N-1} + f_N,\\[2.5pt]
+\ddot{x}^{\text{u}}_1 &=\kappa [x^{\text{u}}_2- x^{\text{u}}_1] + d [x^{\text{l}}_1-x^{\text{u}}_1] -\gamma_{\text{u}} \dot{x}^{\text{u}}_1 +b [\dot{x}^{\text{l}}_0+\dot{x}^{\text{l}}_2],\\[2.5pt]
+\ddot{x}^{\text{u}}_{N-1} &=\kappa [x^{\text{u}}_{N-2}- x^{\text{u}}_{N-1}] + d [x^{\text{l}}_{N-1}-x^{\text{u}}_{N-1}] -\gamma_{\text{u}} \dot{x}^{\text{u}}_{N-1}\\[2.5pt]
+&\quad+\,b [\dot{x}^{\text{l}}_{N}+\dot{x}^{\text{l}}_{N-2}]\\[-1.7pc]
+\end{eqnarray*} ?></tex-math>
+<graphic xlink:href="epl17030ueqn2.gif" name="TRS_ID_382"/>
+</disp-formula></p>
+</fn>. Isolated energy transfer requires a cancellation mechanism in the upper chain that holds for both forward- and backward-traveling waves. Therefore, the system is made left-right symmetric by giving the two magnetic couplings with <italic name="TRS_ID_383">b</italic> at each oscillator in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn10" name="TRS_ID_384">10</xref>) always the same sign. The wave mode ansatz <inline-formula id="epl17030ieqn59" name="TRS_ID_385"><tex-math name="TRS_ID_386"><?CDATA $(\tilde{x}^{\text{u}}_{\alpha},\tilde{x}^{\text{l}}_{\alpha})\,e^{i(\omega t - k_{\alpha}\,j)}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn59.gif" name="TRS_ID_387"/>
+</inline-formula> in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn10" name="TRS_ID_388">10</xref>) yields
+<disp-formula id="epl17030eqn11" name="TRS_ID_389">
+<label name="TRS_ID_390">11</label><tex-math name="TRS_ID_391"><?CDATA \begin{eqnarray}
+&\begin{pmatrix}
+w^2-2\kappa(1-\cos(k_{\alpha}))-d-i\omega \gamma_{\text{u}}\ d+i\omega 2b\cos(k_{\alpha})\\[4pt]
+d-i\omega 2b \cos(k_{\alpha})\ w^2-2\kappa(1-\cos(k_{\alpha}))-d-i\omega \gamma_{\text{l}}
+\end{pmatrix}\begin{pmatrix}
+\tilde{x}^{\text{u}}_{\alpha}\\[4pt]
+\tilde{x}^{\text{l}}_{\alpha}
+\end{pmatrix}\nonumber\\
+&=\,0.
+\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn11.gif" name="TRS_ID_392"/>
+</disp-formula>
+The asymmetry of the matrix in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn11" name="TRS_ID_393">11</xref>) allows <inline-formula id="epl17030ieqn60" name="TRS_ID_394"><tex-math name="TRS_ID_395"><?CDATA $\tilde{x}^{\text{u}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn60.gif" name="TRS_ID_396"/>
+</inline-formula> to be independent of <inline-formula id="epl17030ieqn61" name="TRS_ID_397"><tex-math name="TRS_ID_398"><?CDATA $\tilde{x}^{\text{l}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn61.gif" name="TRS_ID_399"/>
+</inline-formula> if the upper off-diagonal and the lower diagonal entries vanish. Such a state can be achieved if the parameters are chosen as <inline-formula id="epl17030ieqn62" name="TRS_ID_400"><tex-math name="TRS_ID_401"><?CDATA $b = \kappa/\sqrt{d + 2\kappa}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn62.gif" name="TRS_ID_402"/>
+</inline-formula>, <inline-formula id="epl17030ieqn63" name="TRS_ID_403"><tex-math name="TRS_ID_404"><?CDATA $\gamma_{l} = d/\sqrt{d + 2\kappa}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn63.gif" name="TRS_ID_405"/>
+</inline-formula> and the forcing frequency is <inline-formula id="epl17030ieqn64" name="TRS_ID_406"><tex-math name="TRS_ID_407"><?CDATA $\omega_I\equiv\sqrt{d + 2\kappa}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn64.gif" name="TRS_ID_408"/>
+</inline-formula>. Equation<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn11" name="TRS_ID_409">11</xref>) then yields the wave vectors <inline-formula id="epl17030ieqn65" name="TRS_ID_410"><tex-math name="TRS_ID_411"><?CDATA $k_{1,2} =\pm\arccos(i\,d/(2\kappa))+2\pi\,n$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn65.gif" name="TRS_ID_412"/>
+</inline-formula>, <inline-formula id="epl17030ieqn66" name="TRS_ID_413"><tex-math name="TRS_ID_414"><?CDATA $n\in \mathbb{Z}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn66.gif" name="TRS_ID_415"/>
+</inline-formula>. Given proper boundary conditions<xref ref-type="fn" rid="epl17030fn2" name="TRS_ID_416"><sup name="TRS_ID_417">2</sup></xref>, we now have a one-way isolation of the upper chain from the lower chain as illustrated by the responses <inline-formula id="epl17030ieqn67" name="TRS_ID_418"><tex-math name="TRS_ID_419"><?CDATA $x_j^{\{\text{u},\text{l}\}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn67.gif" name="TRS_ID_420"/>
+</inline-formula> in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig2" name="TRS_ID_421">2</xref>(b). Note that isolation is here independent of the phase between the forces <inline-formula id="epl17030ieqn68" name="TRS_ID_422"><tex-math name="TRS_ID_423"><?CDATA $\varphi_{0 N}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn68.gif" name="TRS_ID_424"/>
+</inline-formula> and force magnitudes <inline-formula id="epl17030ieqn69" name="TRS_ID_425"><tex-math name="TRS_ID_426"><?CDATA $F_{\{0,N\}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn69.gif" name="TRS_ID_427"/>
+</inline-formula>. Energy transmission is now also insensitive to spatial variations or friction in the upper chain.</p>
+<fig id="epl17030fig2" position="float" fig-type="figure" name="TRS_ID_428">
+<label name="TRS_ID_429">Fig. 2:</label>
+<caption id="epl17030fc2" name="TRS_ID_430">
+<p name="TRS_ID_431">(Colour on-line) (a) Oscillator system that allows mono-directional isolation of the upper chain from the lower chain. (b) Snapshots of the whole-chain responses <inline-formula id="epl17030ieqn70" name="TRS_ID_432"><tex-math name="TRS_ID_433"><?CDATA $x_{j}^{\{\text{u},\text{l}\}}(t)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn70.gif" name="TRS_ID_434"/>
+</inline-formula> for <inline-formula id="epl17030ieqn71" name="TRS_ID_435"><tex-math name="TRS_ID_436"><?CDATA ${t=0} \ (N=15)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn71.gif" name="TRS_ID_437"/>
+</inline-formula>. Top graph: when driven at the frequency <inline-formula id="epl17030ieqn72" name="TRS_ID_438"><tex-math name="TRS_ID_439"><?CDATA $\omega_I$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn72.gif" name="TRS_ID_440"/>
+</inline-formula>, the upper chain is not excited by the energy transfer in the isolated lower chain. Bottom graph: driving at any other frequency leads to excitations in both chains. (c) Efficiency at maximum power for isolated energy transfer through the lower chain at <inline-formula id="epl17030ieqn73" name="TRS_ID_441"><tex-math name="TRS_ID_442"><?CDATA $\omega_I$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn73.gif" name="TRS_ID_443"/>
+</inline-formula>. Here, time reversibility of couplings is conserved in the isolated state, thus <inline-formula id="epl17030ieqn74" name="TRS_ID_444"><tex-math name="TRS_ID_445"><?CDATA $\eta_I^{\prime}\leq1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn74.gif" name="TRS_ID_446"/>
+</inline-formula>. Parameters: <inline-formula id="epl17030ieqn75" name="TRS_ID_447"><tex-math name="TRS_ID_448"><?CDATA $F_0=1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn75.gif" name="TRS_ID_449"/>
+</inline-formula>, <inline-formula id="epl17030ieqn76" name="TRS_ID_450"><tex-math name="TRS_ID_451"><?CDATA $d=0.1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn76.gif" name="TRS_ID_452"/>
+</inline-formula>, <inline-formula id="epl17030ieqn77" name="TRS_ID_453"><tex-math name="TRS_ID_454"><?CDATA $\gamma_{\text{u}}=0.1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn77.gif" name="TRS_ID_455"/>
+</inline-formula>.</p>
+</caption>
+<graphic id="epl17030f2_eps" content-type="print" xlink:href="epl17030f2_pr.eps" name="TRS_ID_456"/>
+<graphic id="epl17030f2_online" content-type="online" xlink:href="epl17030f2_online.jpg" name="TRS_ID_457"/>
+</fig>
+</sec>
+<sec id="epl17030s6" name="TRS_ID_458">
+<title name="TRS_ID_459">General rules for mono-directional transport</title>
+<p name="TRS_ID_460">Diode-like directional links as in example 1 can emerge in any network with broken Onsager symmetry when off-diagonal elements of the complex admittance vanish asymmetrically. If excitations are to travel from oscillator <italic name="TRS_ID_461">j</italic> to <italic name="TRS_ID_461">l</italic> but not the reverse way, the following conditions must hold for any <italic name="TRS_ID_461"><span class="unicode-char">&omega;</span></italic>:
+<disp-formula id="epl17030eqn12" name="TRS_ID_464">
+<label name="TRS_ID_465">12</label><tex-math name="TRS_ID_466"><?CDATA \begin{equation}
+\chi_{jl} = (-1)^{i+j}\frac{\mathrm{det}\left(\mathbf{A}_{(lj)}\right)}{\mathrm{det}\left(\mathbf{A}\right)} = 0, \quad \chi_{lj} \neq 0.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn12.gif" name="TRS_ID_467"/>
+</disp-formula>
+Here, <inline-formula id="epl17030ieqn78" name="TRS_ID_468"><tex-math name="TRS_ID_469"><?CDATA $\chi_{jl}=(\mathbf{A})^{-1}_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn78.gif" name="TRS_ID_470"/>
+</inline-formula> is expressed with the submatrix <inline-formula id="epl17030ieqn79" name="TRS_ID_471"><tex-math name="TRS_ID_472"><?CDATA $\mathbf{A}_{(lj)}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn79.gif" name="TRS_ID_473"/>
+</inline-formula> that results on elimination of row <italic name="TRS_ID_474">l</italic> and column <italic name="TRS_ID_474">j</italic> from <bold name="TRS_ID_476">A</bold>. To design a network with mono-directional links, system parameters must be determined by solving an expansion of eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn12" name="TRS_ID_477">12</xref>) for all orders of <italic name="TRS_ID_474">&omega;</italic>, which can be tedious. However, inspection of the network topology already provides important insight about the feasibility of such links in systems of type<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_479">1</xref>). Three general rules are found to hold, and are illustrated in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig3" name="TRS_ID_480">3</xref>:</p>
+<list id="epl17030l1" list-type="arabic" name="TRS_ID_481">
+<list-item id="epl17030l1.1" name="TRS_ID_482">
+<label name="TRS_ID_483">1)</label>
+<p name="TRS_ID_484">Mono-directional links require network loops.</p>
+</list-item>
+<list-item id="epl17030l1.2" name="TRS_ID_485">
+<label name="TRS_ID_486">2)</label>
+<p name="TRS_ID_487">A mono-directional link between immediately coupled oscillators requires a loop of three oscillators.</p>
+</list-item>
+<list-item id="epl17030l1.3" name="TRS_ID_488">
+<label name="TRS_ID_489">3)</label>
+<p name="TRS_ID_490">No oscillator can be connected in a totally mono-directional way where all links are directed towards or away from it.</p>
+</list-item>
+</list>
+<fig id="epl17030fig3" position="float" fig-type="figure" name="TRS_ID_491">
+<label name="TRS_ID_492">Fig. 3:</label>
+<caption id="epl17030fc3" name="TRS_ID_493">
+<p name="TRS_ID_494">(Colour on-line) Illustration of the rules that constrain mono-directional transport in arbitrary networks. Black arrows are mono-directional links where excitations can only travel in one direction. Red/black lines indicate any coupling <inline-formula id="epl17030ieqn82" name="TRS_ID_495"><tex-math name="TRS_ID_496"><?CDATA $(b_{jl},\ \kappa_{jl})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn82.gif" name="TRS_ID_497"/>
+</inline-formula>.</p>
+</caption>
+<graphic id="epl17030f3_eps" content-type="print" xlink:href="epl17030f3_pr.eps" name="TRS_ID_498"/>
+<graphic id="epl17030f3_online" content-type="online" xlink:href="epl17030f3_online.jpg" name="TRS_ID_499"/>
+</fig>
+<p name="TRS_ID_500">Brief derivations are given in the last section of this letter. Rule 1) can be understood intuitively by thinking of mono-directional transport as intrinsic negative interference that occurs only in one direction. Since interference requires superposition of at least two signals, the necessity of loops is plausible. An extension of this argument provides physical understanding of the second rule. Rule 2) derives from matching of powers of <italic name="TRS_ID_501"><span class="unicode-char">&omega;</span></italic> for the high-frequency limit of eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17030eqn12" name="TRS_ID_502">12</xref>). Here, a direct connection between two oscillators picks up the same power of <italic name="TRS_ID_501"><span class="unicode-char">&omega;</span></italic> as an indirect, magnetic coupling via a third oscillator. In order to balance each other, both must be present. Note that rule 2) also holds when different oscillators in the system&nbsp;(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_504">1</xref>) are augmented with individual, but non-zero, &ldquo;mass&rdquo; factors at the second time derivatives.</p>
+<p name="TRS_ID_505">Rule 3) can be justified by an interesting thermodynamical interpretation: Consider for now a force-free situation <inline-formula id="epl17030ieqn80" name="TRS_ID_506"><tex-math name="TRS_ID_507"><?CDATA $f_j=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn80.gif" name="TRS_ID_508"/>
+</inline-formula> and assume that the oscillators are embedded in individual heat baths, keeping them at different temperatures. The resulting variation of noise levels leads to preferred dissipation at the <span class="unicode-char">&ldquo;</span>colder&rdquo; oscillators. Heat exchange is given by the deviations of the kinetic oscillator temperatures from the temperatures <italic name="TRS_ID_509">T</italic><sub name="TRS_ID_510"><italic name="TRS_ID_509">j</italic></sub> of the heat baths as <inline-formula id="epl17030ieqn81" name="TRS_ID_512"><tex-math name="TRS_ID_513"><?CDATA $\dot{Q}_j = \gamma_j(\langle \dot{x}_j^2\rangle - k_{\text{B}}\,T_j)$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn81.gif" name="TRS_ID_514"/>
+</inline-formula><span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib17" name="TRS_ID_515">17</xref>]. If it was now possible to connect one oscillator <italic name="TRS_ID_516">j</italic> in a totally mono-directional way to all the rest of the network, heat would always flow either towards <italic name="TRS_ID_516">j</italic> or away from <italic name="TRS_ID_516">j</italic>, regardless of the temperature difference. Such a network is physically impossible since it would allow the construction of a perpetuum mobile and violate the second law of thermodynamics.</p>
+</sec>
+<sec id="epl17030s7" name="TRS_ID_519">
+<title name="TRS_ID_520">Topology and efficiency at maximum power</title>
+<p name="TRS_ID_521">To substantiate the conclusions drawn from example 1 above, this section provides general formulae and limits for the efficiency at maximum power. We begin by rewriting the work rates conveniently in Fourier space with the complex admittance split into real <inline-formula id="epl17030ieqn83" name="TRS_ID_522"><tex-math name="TRS_ID_523"><?CDATA $\Re(\chi_{jl})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn83.gif" name="TRS_ID_524"/>
+</inline-formula> and imaginary <inline-formula id="epl17030ieqn84" name="TRS_ID_525"><tex-math name="TRS_ID_526"><?CDATA $\Im(\chi_{jl})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn84.gif" name="TRS_ID_527"/>
+</inline-formula> parts. Using <inline-formula id="epl17030ieqn85" name="TRS_ID_528"><tex-math name="TRS_ID_529"><?CDATA $j,l\in\{a,b\}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn85.gif" name="TRS_ID_530"/>
+</inline-formula> for the input and output, we have from eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn6" name="TRS_ID_531">6</xref>)
+<disp-formula id="epl17030eqn13" name="TRS_ID_532">
+<label name="TRS_ID_533">13</label><tex-math name="TRS_ID_534"><?CDATA \begin{eqnarray}\dot{W}_j &=i \omega \sum_l\left(\tilde{f}^{*}_j\chi_{jl}\tilde{f}_l - \tilde{f}^{ }_j\chi^{*}_{jl}\tilde{f}^{*}_l\right)
+\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn13.gif" name="TRS_ID_535"/>
+</disp-formula>
+<disp-formula id="epl17030eqn14" name="TRS_ID_536">
+<label name="TRS_ID_537">14</label><tex-math name="TRS_ID_538"><?CDATA \begin{eqnarray}
+&= -2\omega|\tilde{f}_j|^2 \Im(\chi_{jj})-2\omega \sum_{l\neq j} |\tilde{f}_j||\tilde{f}_l| \alpha_{jl},
+\end{eqnarray} ?></tex-math>
+<graphic xlink:href="epl17030eqn14.gif" name="TRS_ID_539"/>
+</disp-formula>
+where <inline-formula id="epl17030ieqn86" name="TRS_ID_540"><tex-math name="TRS_ID_541"><?CDATA $\alpha_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn86.gif" name="TRS_ID_542"/>
+</inline-formula> is a function of the phase difference <inline-formula id="epl17030ieqn87" name="TRS_ID_543"><tex-math name="TRS_ID_544"><?CDATA $\varphi_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn87.gif" name="TRS_ID_545"/>
+</inline-formula> as
+<disp-formula id="epl17030eqn15" name="TRS_ID_546">
+<label name="TRS_ID_547">15</label><tex-math name="TRS_ID_548"><?CDATA \begin{equation}
+\alpha_{jl} \equiv \Im(\chi_{jl})\cos(\varphi_{jl})-\Re(\chi_{jl})\sin(\varphi_{jl}).
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn15.gif" name="TRS_ID_549"/>
+</disp-formula>
+Inserting eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn13" name="TRS_ID_550">13</xref>) into the formula for overall dissipation<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn7" name="TRS_ID_551">7</xref>), the condition <inline-formula id="epl17030ieqn88" name="TRS_ID_552"><tex-math name="TRS_ID_553"><?CDATA $\dot{W}_{\text{diss}} \geq 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn88.gif" name="TRS_ID_554"/>
+</inline-formula> requires positive semi-definiteness of the matrix <inline-formula id="epl17030ieqn89" name="TRS_ID_555"><tex-math name="TRS_ID_556"><?CDATA $i(\chi_{jl}-\chi_{lj}^{*})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn89.gif" name="TRS_ID_557"/>
+</inline-formula>.</p>
+<p name="TRS_ID_558">To calculate efficiency at maximum power <inline-formula id="epl17030ieqn90" name="TRS_ID_559"><tex-math name="TRS_ID_560"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn90.gif" name="TRS_ID_561"/>
+</inline-formula>, we first maximize <inline-formula id="epl17030ieqn91" name="TRS_ID_562"><tex-math name="TRS_ID_563"><?CDATA $\dot{W}_b$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn91.gif" name="TRS_ID_564"/>
+</inline-formula> with respect to phase and force. Variables with values at maximum power are primed <inline-formula id="epl17030ieqn92" name="TRS_ID_565"><tex-math name="TRS_ID_566"><?CDATA $(')$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn92.gif" name="TRS_ID_567"/>
+</inline-formula>. On setting the <inline-formula id="epl17030ieqn93" name="TRS_ID_568"><tex-math name="TRS_ID_569"><?CDATA $\varphi_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn93.gif" name="TRS_ID_570"/>
+</inline-formula> and <inline-formula id="epl17030ieqn94" name="TRS_ID_571"><tex-math name="TRS_ID_572"><?CDATA $|\tilde{f}_b|$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn94.gif" name="TRS_ID_573"/>
+</inline-formula> derivatives of <inline-formula id="epl17030ieqn95" name="TRS_ID_574"><tex-math name="TRS_ID_575"><?CDATA $\dot{W}_b$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn95.gif" name="TRS_ID_576"/>
+</inline-formula> in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn14" name="TRS_ID_577">14</xref>) equal to zero we find <inline-formula id="epl17030ieqn96" name="TRS_ID_578"><tex-math name="TRS_ID_579"><?CDATA $\tan{\varphi'_{ba}} = -\Re{(\chi_{ba})}/\Im{(\chi_{ba})}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn96.gif" name="TRS_ID_580"/>
+</inline-formula> and <inline-formula id="epl17030ieqn97" name="TRS_ID_581"><tex-math name="TRS_ID_582"><?CDATA $|\tilde{f}'_a|/|\tilde{f}'_b| = -2 \Im{(\chi_{bb})}/{\alpha'_{ba}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn97.gif" name="TRS_ID_583"/>
+</inline-formula> with <inline-formula id="epl17030ieqn98" name="TRS_ID_584"><tex-math name="TRS_ID_585"><?CDATA ${\alpha'}^{2}_{ba}=\alpha_{ba}(\varphi_{ba}')^2 = |\chi_{ba}|^2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn98.gif" name="TRS_ID_586"/>
+</inline-formula>. Some care must be taken when selecting <inline-formula id="epl17030ieqn99" name="TRS_ID_587"><tex-math name="TRS_ID_588"><?CDATA $\varphi'_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn99.gif" name="TRS_ID_589"/>
+</inline-formula> since work is periodic in the phase. The maximum power output becomes
+<disp-formula id="epl17030eqn16" name="TRS_ID_590">
+<label name="TRS_ID_591">16</label><tex-math name="TRS_ID_592"><?CDATA \begin{equation}
+\dot{W}_b^{\prime} = \omega\,{\alpha'}^2_{ba}\,|\tilde{f}'_a|^2/(2\,\Im{(\chi_{bb})}).
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn16.gif" name="TRS_ID_593"/>
+</disp-formula>
+The above relations can be straightforwardly inserted into eqs.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn8" name="TRS_ID_594">8</xref>),<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn14" name="TRS_ID_595">14</xref>) to obtain for the efficiency at maximum power
+<disp-formula id="epl17030eqn17" name="TRS_ID_596">
+<label name="TRS_ID_597">17</label><tex-math name="TRS_ID_598"><?CDATA \begin{align}
+\eta' = \frac{{\alpha'}^2_{ba}}{2 \left( 2\Im(\chi_{bb})\Im(\chi_{aa}) - \alpha'_{ba} \alpha'_{ab}\right)} \leq 1.
+\end{align} ?></tex-math>
+<graphic xlink:href="epl17030eqn17.gif" name="TRS_ID_599"/>
+</disp-formula>
+As demonstrated in fig.<span class="unicode-char">&nbsp;</span><xref ref-type="fig" rid="epl17030fig1" name="TRS_ID_600">1</xref> for example 1, the bound <inline-formula id="epl17030ieqn100" name="TRS_ID_601"><tex-math name="TRS_ID_602"><?CDATA $\eta'=1$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn100.gif" name="TRS_ID_603"/>
+</inline-formula> can indeed be reached asymptotically when Lorentz-force<span class="unicode-char">&ndash;</span>like couplings are present. Note, however, that this high efficiency <inline-formula id="epl17030ieqn101" name="TRS_ID_604"><tex-math name="TRS_ID_605"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn101.gif" name="TRS_ID_606"/>
+</inline-formula> does not require in general mono-directional links.</p>
+<p name="TRS_ID_607">Next, we calculate the efficiency at maxium power when Onsager symmetry holds. Thus, we set <inline-formula id="epl17030ieqn102" name="TRS_ID_608"><tex-math name="TRS_ID_609"><?CDATA $\mathbf{b}=\mathbf{0}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn102.gif" name="TRS_ID_610"/>
+</inline-formula>. Using the symmetry of <bold name="TRS_ID_611"><italic name="TRS_ID_612"><span class="unicode-char">&chi;</span></italic></bold> together with the above conditions determining <inline-formula id="epl17030ieqn104" name="TRS_ID_613"><tex-math name="TRS_ID_614"><?CDATA $\varphi'_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn104.gif" name="TRS_ID_615"/>
+</inline-formula> and <inline-formula id="epl17030ieqn105" name="TRS_ID_616"><tex-math name="TRS_ID_617"><?CDATA $\alpha'_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn105.gif" name="TRS_ID_618"/>
+</inline-formula> we have here <inline-formula id="epl17030ieqn106" name="TRS_ID_619"><tex-math name="TRS_ID_620"><?CDATA ${\alpha'}_{ab}^{2} = -{\alpha'}_{ba}^{2}(\cos^2(\varphi_{ba}')-\sin^2(\varphi'_{ba}))^2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn106.gif" name="TRS_ID_621"/>
+</inline-formula>. The efficiency at maximum power for networks with Onsager symmetry results in
+<disp-formula id="epl17030eqn18" name="TRS_ID_622">
+<label name="TRS_ID_623">18</label><tex-math name="TRS_ID_624"><?CDATA \begin{equation}
+\eta'_{s} = \frac{1}{2\left([\frac{2\Im(\chi_{bb})\Im(\chi_{aa})}{\Im(\chi_{ba})^2}-1]\cos^2(\varphi'_{ba}) + \sin^2(\varphi'_{ba})\right)} \leq \frac{1}{2}.
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn18.gif" name="TRS_ID_625"/>
+</disp-formula>
+The last inequality follows from <inline-formula id="epl17030ieqn107" name="TRS_ID_626"><tex-math name="TRS_ID_627"><?CDATA $\Im(\chi_{bb})\Im(\chi_{aa})\geq\Im(\chi_{ab})^2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn107.gif" name="TRS_ID_628"/>
+</inline-formula>, which is for symmetric <bold name="TRS_ID_629"><italic name="TRS_ID_630"><span class="unicode-char">&chi;</span></italic></bold> equivalent to <inline-formula id="epl17030ieqn109" name="TRS_ID_631"><tex-math name="TRS_ID_632"><?CDATA $\dot{W}_{\text{diss}} \geq 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn109.gif" name="TRS_ID_633"/>
+</inline-formula>. The here-derived bound of <inline-formula id="epl17030ieqn110" name="TRS_ID_634"><tex-math name="TRS_ID_635"><?CDATA $1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn110.gif" name="TRS_ID_636"/>
+</inline-formula> is analogous to the Curzon-Ahlborn limit for heat machines<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib16" name="TRS_ID_637">16</xref>,<xref ref-type="bibr" rid="epl17030bib18" name="TRS_ID_638">18</xref>,<xref ref-type="bibr" rid="epl17030bib19" name="TRS_ID_639">19</xref>]. In the quasistatic limit of vanishing <italic name="TRS_ID_640">&omega;</italic> we have <inline-formula id="epl17030ieqn111" name="TRS_ID_641"><tex-math name="TRS_ID_642"><?CDATA $0\approx\Im{(\chi_{ba})} \approx \Im{(\chi_{bb})}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn111.gif" name="TRS_ID_643"/>
+</inline-formula>. Therefore, <inline-formula id="epl17030ieqn112" name="TRS_ID_644"><tex-math name="TRS_ID_645"><?CDATA $\cos{\varphi'_{ba}} \approx 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn112.gif" name="TRS_ID_646"/>
+</inline-formula> and <inline-formula id="epl17030ieqn113" name="TRS_ID_647"><tex-math name="TRS_ID_648"><?CDATA $|\tilde{f}'_a|/|\tilde{f}'_b| \approx 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn113.gif" name="TRS_ID_649"/>
+</inline-formula>. Consequently, for conserved Onsager symmetry, the efficiency at maximum power attains its absolute maximum at vanishing driving frequency <inline-formula id="epl17030ieqn114" name="TRS_ID_650"><tex-math name="TRS_ID_651"><?CDATA $\lim_{\omega\rightarrow 0}\eta' = 1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn114.gif" name="TRS_ID_652"/>
+</inline-formula> and the transmitted power vanishes here. On the other hand, it is possible to show with examples that the absolute maximum of <inline-formula id="epl17030ieqn115" name="TRS_ID_653"><tex-math name="TRS_ID_654"><?CDATA $\eta'$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn115.gif" name="TRS_ID_655"/>
+</inline-formula> need not be located at <inline-formula id="epl17030ieqn116" name="TRS_ID_656"><tex-math name="TRS_ID_657"><?CDATA $\omega=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn116.gif" name="TRS_ID_658"/>
+</inline-formula> when Lorentz-force<span class="unicode-char">&ndash;</span>like couplings are present.</p>
+<p name="TRS_ID_659">Finally, we investigate the case of broken Onsager symmetry for a network without loops. In such a system each connected pair of elements is connected via a unique path, which allows to express <bold name="TRS_ID_660"><italic name="TRS_ID_661"><span class="unicode-char">&chi;</span></italic></bold> as follows&nbsp;[<xref ref-type="bibr" rid="epl17030bib20" name="TRS_ID_662">20</xref>]. Consider a path from oscillator with index <italic name="TRS_ID_661">j</italic> to oscillator <italic name="TRS_ID_661">l</italic> and denote the overall number of oscillators on the path by <italic name="TRS_ID_661">n</italic><sub name="TRS_ID_666"><italic name="TRS_ID_661">p</italic></sub>. Since the sequence of indices on the path may be non-monotonic, we rename them by <inline-formula id="epl17030ieqn118" name="TRS_ID_668"><tex-math name="TRS_ID_669"><?CDATA $k_1\ldots k_{n_p}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn118.gif" name="TRS_ID_670"/>
+</inline-formula> where <inline-formula id="epl17030ieqn119" name="TRS_ID_671"><tex-math name="TRS_ID_672"><?CDATA $k_1=j$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn119.gif" name="TRS_ID_673"/>
+</inline-formula> and <inline-formula id="epl17030ieqn120" name="TRS_ID_674"><tex-math name="TRS_ID_675"><?CDATA $k_{n_p}=l$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn120.gif" name="TRS_ID_676"/>
+</inline-formula>. For <inline-formula id="epl17030ieqn121" name="TRS_ID_677"><tex-math name="TRS_ID_678"><?CDATA $j\neq l$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn121.gif" name="TRS_ID_679"/>
+</inline-formula> the inverse of the non-singular matrix <bold name="TRS_ID_680">A</bold> can then be written as
+<disp-formula id="epl17030eqn19" name="TRS_ID_681">
+<label name="TRS_ID_682">19</label><tex-math name="TRS_ID_683"><?CDATA \begin{equation}
+\chi_{jl} = \left[\frac{(-1)^{n_p-1}\mathrm{det}(\mathbf{A}_{(j-l)})}{\mathrm{det}(\mathbf{A})}\right]\left[\prod^{n_p -1}_{m=1} A_{k_m,k_{m+1}}\right] \equiv C\,K,
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn19.gif" name="TRS_ID_684"/>
+</disp-formula>
+where <inline-formula id="epl17030ieqn122" name="TRS_ID_685"><tex-math name="TRS_ID_686"><?CDATA $\mathbf{A}_{(j-l)}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn122.gif" name="TRS_ID_687"/>
+</inline-formula> denotes the submatrix from which all the rows and columns carrying indices corresponding to elements of the path are removed. When <inline-formula id="epl17030ieqn123" name="TRS_ID_688"><tex-math name="TRS_ID_689"><?CDATA $n_p = 2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn123.gif" name="TRS_ID_690"/>
+</inline-formula> we replace <inline-formula id="epl17030ieqn124" name="TRS_ID_691"><tex-math name="TRS_ID_692"><?CDATA $\det(\textbf{A}_{(j-1)})$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn124.gif" name="TRS_ID_693"/>
+</inline-formula> by unity. Only the factor <italic name="TRS_ID_694">K</italic>, representing the second bracket, depends on the direction of the path. For our systems<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_695">1</xref>), we have <inline-formula id="epl17030ieqn125" name="TRS_ID_696"><tex-math name="TRS_ID_697"><?CDATA $A_{k_m,k_{m+1}}=A_{k_{m+1},k_{m}}^{*}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn125.gif" name="TRS_ID_698"/>
+</inline-formula> and the reverse path thus yields <inline-formula id="epl17030ieqn126" name="TRS_ID_699"><tex-math name="TRS_ID_700"><?CDATA $\chi_{lj} = C\,K^{*}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn126.gif" name="TRS_ID_701"/>
+</inline-formula>. This relation is now used together with the maximum-power condition for <inline-formula id="epl17030ieqn127" name="TRS_ID_702"><tex-math name="TRS_ID_703"><?CDATA $\varphi'_{ba}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn127.gif" name="TRS_ID_704"/>
+</inline-formula> in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn15" name="TRS_ID_705">15</xref>) to give <inline-formula id="epl17030ieqn128" name="TRS_ID_706"><tex-math name="TRS_ID_707"><?CDATA $(\alpha'_{ba})^2 = |CK|^2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn128.gif" name="TRS_ID_708"/>
+</inline-formula> and <inline-formula id="epl17030ieqn129" name="TRS_ID_709"><tex-math name="TRS_ID_710"><?CDATA $\alpha'_{ab}\alpha'_{ab} = -[C^2+(C^*)^2]|K|^2/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn129.gif" name="TRS_ID_711"/>
+</inline-formula>. Inserting everything in eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn17" name="TRS_ID_712">17</xref>) yields for any loop-free system
+<disp-formula id="epl17030eqn20" name="TRS_ID_713">
+<label name="TRS_ID_714">20</label><tex-math name="TRS_ID_715"><?CDATA \begin{equation}
+\eta'_{l} = \frac{1}{2 + 4\left(\Im(\chi_{bb})\Im(\chi_{aa}) - |K|^2 \Im(C)^2\right)/(|C|^2 |K|^2)} \leq \frac{1}{2},
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn20.gif" name="TRS_ID_716"/>
+</disp-formula>
+where the bound follows from positivity of energy dissipation, eqs.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn7" name="TRS_ID_717">7</xref>),<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn14" name="TRS_ID_718">14</xref>). This equation shows that achieving an efficiency at maximum power larger than <inline-formula id="epl17030ieqn130" name="TRS_ID_719"><tex-math name="TRS_ID_720"><?CDATA $1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn130.gif" name="TRS_ID_721"/>
+</inline-formula> not only requires broken Onsager symmetry, but also network loops.</p>
+</sec>
+<sec id="epl17030s8" name="TRS_ID_722">
+<title name="TRS_ID_723">Tunable high-frequency efficiency</title>
+<p name="TRS_ID_724">A further energetic advantage of Lorentz-force<span class="unicode-char">&ndash;</span>like coupling occurs when a direct link <inline-formula id="epl17030ieqn131" name="TRS_ID_725"><tex-math name="TRS_ID_726"><?CDATA $b_{ab}\neq 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn131.gif" name="TRS_ID_727"/>
+</inline-formula> between input and output exists. An expansion of efficiency, eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn8" name="TRS_ID_728">8</xref>) with eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn14" name="TRS_ID_729">14</xref>), shows that systems of type<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_730">1</xref>) all have the same high-frequency limit
+<disp-formula id="epl17030eqn21" name="TRS_ID_731">
+<label name="TRS_ID_732">21</label><tex-math name="TRS_ID_733"><?CDATA \begin{equation}
+\lim\limits_{\omega \rightarrow \infty} \eta = \max\left(\frac{-|\tilde{f}_b|^2 \gamma_b + |\tilde{f}_a| |\tilde{f}_b| b_{ab} \cos{\varphi_{ab}}}{|\tilde{f}_a|^2 \gamma_a + |\tilde{f}_a||\tilde{f}_b| b_{ab} \cos{\varphi_{ab}}},0\right).
+\end{equation} ?></tex-math>
+<graphic xlink:href="epl17030eqn21.gif" name="TRS_ID_734"/>
+</disp-formula>
+Lorentz-force<span class="unicode-char">&ndash;</span>like coupling thus allows to extend the good efficiency to high frequencies.</p>
+</sec>
+<sec id="epl17030s9" name="TRS_ID_735">
+<title name="TRS_ID_736">Fluctuations and multiplicative noise</title>
+<p name="TRS_ID_737">The network equation<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn1" name="TRS_ID_738">1</xref>) contains a source of additive noise <inline-formula id="epl17030ieqn132" name="TRS_ID_739"><tex-math name="TRS_ID_740"><?CDATA $\xi_j$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn132.gif" name="TRS_ID_741"/>
+</inline-formula> for completeness. Such noise does not affect the results in this article. Mechanisms for mono-directional transport depend only on system parameters and apply to noise-driven excitations as much as to any other excitation. In contrast to other definitions of efficiency<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib21" name="TRS_ID_742">21</xref>], the here-defined efficiency <italic name="TRS_ID_743">&eta;</italic> does not fluctuate. Concerning the work rates, eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn6" name="TRS_ID_744">6</xref>), these contain expectation values <inline-formula id="epl17030ieqn133" name="TRS_ID_745"><tex-math name="TRS_ID_746"><?CDATA $\langle x_j\rangle$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn133.gif" name="TRS_ID_747"/>
+</inline-formula> and additive noise is thus averaged out.</p>
+<p name="TRS_ID_748">However, multiplicative noise resulting from parameter fluctuations, in particular from unsteady magnetic fields, could have a more pronounced effect. On using the Stratonowich interpretation it can be shown that white noise in <bold name="TRS_ID_749">b</bold> renormalizes the friction constants <inline-formula id="epl17030ieqn134" name="TRS_ID_750"><tex-math name="TRS_ID_751"><?CDATA $\gamma_j$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn134.gif" name="TRS_ID_752"/>
+</inline-formula> in the equation for the first moments of <italic name="TRS_ID_753">x</italic><sub name="TRS_ID_754"><italic name="TRS_ID_753">j</italic></sub><span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib22" name="TRS_ID_756">22</xref>]. Multiplicative noise in <bold name="TRS_ID_757">b</bold> increases the effective friction, but does not lead to instabilities. Therefore, the principles described in this letter continue to work for averages when the magnetic coupling fluctuates. Mono-directional transport remains possible on average.</p>
+</sec>
+<sec id="epl17030s10" name="TRS_ID_758">
+<title name="TRS_ID_759">Concluding perspectives</title>
+<p name="TRS_ID_760">Although linear oscillators are an established paradigm of physics, the energetics of oscillator networks with Lorentz-force<span class="unicode-char">&ndash;</span>like couplings has hardly been explored. Focussing on networks with only the most generic types of coupling, it has been shown here that unusual transport properties entail favorable energetics and result from the interplay of network topology and time-reversal symmetry breaking.</p>
+<p name="TRS_ID_761">Other types of couplings could also be studied with the present framework. Firstly, one could consider frictional/resistive interaction of the network elements via a symmetric matrix of coefficients <inline-formula id="epl17030ieqn135" name="TRS_ID_762"><tex-math name="TRS_ID_763"><?CDATA $\gamma_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn135.gif" name="TRS_ID_764"/>
+</inline-formula>. With such coupling the off-diagonal elements of <bold name="TRS_ID_765">A</bold> no longer form a Hermitian matrix and the above rules do not hold. Most notably, a diode-like device could be made in a system with only two elements. Combining here a magnetic coupling <italic name="TRS_ID_766">b</italic><sub name="TRS_ID_767">12</sub> with an equally strong frictional/resistive force <inline-formula id="epl17030ieqn136" name="TRS_ID_768"><tex-math name="TRS_ID_769"><?CDATA $\gamma_{12}=b_{12}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn136.gif" name="TRS_ID_770"/>
+</inline-formula> yields a diode since the off-diagonal elements become <inline-formula id="epl17030ieqn137" name="TRS_ID_771"><tex-math name="TRS_ID_772"><?CDATA $A_{21}=-i \omega b_{12}+i \omega \gamma_{12}=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn137.gif" name="TRS_ID_773"/>
+</inline-formula> and <inline-formula id="epl17030ieqn138" name="TRS_ID_774"><tex-math name="TRS_ID_775"><?CDATA $A_{12}=2 i \omega \gamma_{12}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn138.gif" name="TRS_ID_776"/>
+</inline-formula>, respectively. Such a device has been realized using a Hall element<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib11" name="TRS_ID_777">11</xref>,<xref ref-type="bibr" rid="epl17030bib23" name="TRS_ID_778">23</xref>]. However, frictional coupling causes extra dissipation and one might therefore expect that this article&apos;s mechanisms for mono-directional transport generally display a superior efficiency. Secondly, one could generalize the system through coupling of the second time derivatives. Such coupling is realized physically by shared moments of inertia or by mutual induction. It affects the high-<italic name="TRS_ID_779">&omega;</italic> regime and allows efficient energy transfer there. Finally, one could go beyond the assumption of network linearity. In this case, the efficiency at maximum power is generally not limited by <inline-formula id="epl17030ieqn139" name="TRS_ID_780"><tex-math name="TRS_ID_781"><?CDATA $1/2$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn139.gif" name="TRS_ID_782"/>
+</inline-formula>, even when Onsager symmetry is conserved<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib18" name="TRS_ID_783">18</xref>]. Besides energetic issues, it might also be interesting to study correlations or synchronization<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib24" name="TRS_ID_784">24</xref>&ndash;<xref ref-type="bibr" rid="epl17030bib26" name="TRS_ID_785">26</xref>] of non-linear oscillators in networks with Lorentz-force&ndash;like couplings.</p>
+<p name="TRS_ID_786">It is tempting to speculate about a few applications of the studied system. Periodic structures related to the oscillator chain in example 2 might allow for cloaking-inspired<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib27" name="TRS_ID_787">27</xref>] mono-directional shielding. Mechanical devices, such as a mono-directional vibration damper, are at least in principle conceivable. Realization of the suggested high efficiency in electric circuits hinges on the availability of low-resistance symmetry-breaking couplings<span class="unicode-char">&nbsp;</span>[<xref ref-type="bibr" rid="epl17030bib28" name="TRS_ID_788">28</xref>&ndash;<xref ref-type="bibr" rid="epl17030bib30" name="TRS_ID_789">30</xref>]. With these, efficient magnetic-field programmable networks could operate much like a transistor circuit, with the major distinction of being linear.</p>
+</sec>
+</body>
+<back name="TRS_ID_790">
+<ack name="TRS_ID_791">
+<title name="TRS_ID_792">Acknowledgments</title>
+<p name="TRS_ID_793">The author is indebted to Prof. <sc name="TRS_ID_794">U. Seifert</sc> for long-standing support and for discussions. Prof. <sc name="TRS_ID_794">H. A. Stone</sc> is thanked for comments on the manuscript. A postdoctoral fellowship from the DAAD is acknowledged.</p>
+</ack>
+<app-group id="epl17030app" name="TRS_ID_796">
+<app id="epl17030app1" name="TRS_ID_797">
+<label name="TRS_ID_798">Appendix:</label>
+<title name="TRS_ID_799">brief derivations of rules 1<span class="unicode-char">&ndash;</span>3</title>
+<p name="TRS_ID_800"><italic name="TRS_ID_801">Rule 1: Mono-directional links require network loops</italic>. This rule is shown most easily with eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn19" name="TRS_ID_802">19</xref>) by demonstrating that conditions<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn12" name="TRS_ID_803">12</xref>) cannot be satisfied in a connected, but acyclic system. Since the offdiagonal elements of <bold name="TRS_ID_804">A</bold> are Hermitian, <inline-formula id="epl17030ieqn140" name="TRS_ID_805"><tex-math name="TRS_ID_806"><?CDATA $\chi_{lj}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn140.gif" name="TRS_ID_807"/>
+</inline-formula> and <inline-formula id="epl17030ieqn141" name="TRS_ID_808"><tex-math name="TRS_ID_809"><?CDATA $\chi_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn141.gif" name="TRS_ID_810"/>
+</inline-formula> are here related to each other through complex conjugation of the terms <inline-formula id="epl17030ieqn142" name="TRS_ID_811"><tex-math name="TRS_ID_812"><?CDATA $\sim A_{k_m,k_{m+1}}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn142.gif" name="TRS_ID_813"/>
+</inline-formula> in the factor <italic name="TRS_ID_814">K</italic>. Thus, if <inline-formula id="epl17030ieqn143" name="TRS_ID_815"><tex-math name="TRS_ID_816"><?CDATA $\chi_{jl}=C\,K=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn143.gif" name="TRS_ID_817"/>
+</inline-formula>, also <inline-formula id="epl17030ieqn144" name="TRS_ID_818"><tex-math name="TRS_ID_819"><?CDATA $\chi_{lj}= C K^{*}=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn144.gif" name="TRS_ID_820"/>
+</inline-formula> and diode-like behavior is impossible.</p>
+<p name="TRS_ID_821"><italic name="TRS_ID_822">Rule 2: A mono-directional link between immediately coupled oscillators requires a loop of three oscillators</italic>. This rule demands a direct link between <italic name="TRS_ID_822">j</italic> and <italic name="TRS_ID_822">l</italic>, therefore we assume <inline-formula id="epl17030ieqn145" name="TRS_ID_825"><tex-math name="TRS_ID_826"><?CDATA $a_{jl}+i\omega b_{jl} \neq 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn145.gif" name="TRS_ID_827"/>
+</inline-formula>. On using the Leibniz formula for determinants it can be shown that
+<disp-formula id="epl17030ueqn3" name="TRS_ID_828"><tex-math name="TRS_ID_829"><?CDATA \begin{eqnarray*}
+\chi_{jl} &\sim \mathrm{det}\left(\mathbf{A}_{(lj)}\right) = i b_{jl}\omega^{2N_o-3} + b_{jl} \sum_{m,m\notin\{j,l\}}\gamma_m \omega^{2N_o-4}\\
+&\quad+\,\left[\kappa_{jl}-\sum_{m,m\notin\{j,l\}}b_{ml}b_{jm}\right] \omega^{2N_o-4} + O(\omega^{2N_o-5}),\label{eq_rule2_expansion}
+\end{eqnarray*} ?></tex-math>
+<graphic xlink:href="epl17030ueqn3.gif" name="TRS_ID_830"/>
+</disp-formula>
+where <italic name="TRS_ID_831">N</italic><sub name="TRS_ID_832"><italic name="TRS_ID_831">o</italic></sub> is the number of oscillators in the system. This expansion is to vanish for all <italic name="TRS_ID_831"><span class="unicode-char">&omega;</span></italic>. Hence, the first term requires <inline-formula id="epl17030ieqn146" name="TRS_ID_835"><tex-math name="TRS_ID_836"><?CDATA $b_{jl}=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn146.gif" name="TRS_ID_837"/>
+</inline-formula>. In the bracketed expression, <inline-formula id="epl17030ieqn147" name="TRS_ID_838"><tex-math name="TRS_ID_839"><?CDATA $\kappa_{jl}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn147.gif" name="TRS_ID_840"/>
+</inline-formula> can only be balanced by a non-zero last term <inline-formula id="epl17030ieqn148" name="TRS_ID_841"><tex-math name="TRS_ID_842"><?CDATA $\sim b_{ml}b_{jm}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn148.gif" name="TRS_ID_843"/>
+</inline-formula>. This last term requires oscillators with index <italic name="TRS_ID_844">m</italic> that are directly connected to both oscillators <italic name="TRS_ID_844">j</italic> and <italic name="TRS_ID_844">l</italic>, hence making a loop of three oscillators necessary.</p>
+<p name="TRS_ID_847"><italic name="TRS_ID_848">Rule 3: No oscillator can be connected in a totally mono-directional way</italic>. Assuming that an oscillator with index <italic name="TRS_ID_848">k</italic> has only mono-directional links, we show that such a system would have unphysical properties. According to eq.<span class="unicode-char">&nbsp;</span>(<xref ref-type="disp-formula" rid="epl17030eqn12" name="TRS_ID_850">12</xref>), we require for all <italic name="TRS_ID_848">j</italic> with <inline-formula id="epl17030ieqn149" name="TRS_ID_852"><tex-math name="TRS_ID_853"><?CDATA $j\neq k$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn149.gif" name="TRS_ID_854"/>
+</inline-formula> that <inline-formula id="epl17030ieqn150" name="TRS_ID_855"><tex-math name="TRS_ID_856"><?CDATA $\chi_{kj} \sim \mathrm{det}\left(\mathbf{A}_{(jk)}\right) = 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn150.gif" name="TRS_ID_857"/>
+</inline-formula>. On using this statement in Laplace<span class="unicode-char">&apos;</span>s formula the determinant of the system matrix becomes
+<disp-formula id="epl17030ueqn4" name="TRS_ID_858"><tex-math name="TRS_ID_859"><?CDATA \begin{equation*}
+\mathrm{det}\left(\mathbf{A}\right) = \sum_{j} A_{jk} (-1)^{k+j}\mathrm{det}\left(\mathbf{A}_{(jk)}\right) = A_{kk} \det\left(\mathbf{A}_{(kk)}\right).
+\end{equation*} ?></tex-math>
+<graphic xlink:href="epl17030ueqn4.gif" name="TRS_ID_860"/>
+</disp-formula>
+However, on writing out <inline-formula id="epl17030ieqn151" name="TRS_ID_861"><tex-math name="TRS_ID_862"><?CDATA $\mathrm{det}\left(\mathbf{A}_{(jk)}\right) = 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn151.gif" name="TRS_ID_863"/>
+</inline-formula> for all <italic name="TRS_ID_864">j</italic><span class="unicode-char">&apos;</span>s with <inline-formula id="epl17030ieqn152" name="TRS_ID_865"><tex-math name="TRS_ID_866"><?CDATA $j\neq k$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn152.gif" name="TRS_ID_867"/>
+</inline-formula> it becomes clear that also <inline-formula id="epl17030ieqn153" name="TRS_ID_868"><tex-math name="TRS_ID_869"><?CDATA $\mathrm{det}\left(\mathbf{A}_{(kk)}\right)=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn153.gif" name="TRS_ID_870"/>
+</inline-formula> since all rows in <inline-formula id="epl17030ieqn154" name="TRS_ID_871"><tex-math name="TRS_ID_872"><?CDATA $\mathbf{A}_{(kk)}$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn154.gif" name="TRS_ID_873"/>
+</inline-formula> are made linearly dependent on each other if <inline-formula id="epl17030ieqn155" name="TRS_ID_874"><tex-math name="TRS_ID_875"><?CDATA $A_{kj, j\neq k}\neq 0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn155.gif" name="TRS_ID_876"/>
+</inline-formula>. Therefore, we have <inline-formula id="epl17030ieqn156" name="TRS_ID_877"><tex-math name="TRS_ID_878"><?CDATA $\mathrm{det}\left(\mathbf{A}\right)=0$ ?></tex-math>
+<inline-graphic xlink:href="epl17030ieqn156.gif" name="TRS_ID_879"/>
+</inline-formula> and a totally mono-directional coupling of <italic name="TRS_ID_880">k</italic> would make the system singular, which is unphysical.</p>
+</app>
+</app-group>
+<ref-list content-type="numerical" name="TRS_ID_881">
+<title name="TRS_ID_882">References</title>
+<ref id="epl17030bib1" name="TRS_ID_883">
+<label name="TRS_ID_884">1</label>
+<element-citation publication-type="journal" name="TRS_ID_885">
+<person-group person-group-type="author" name="TRS_ID_886">
+<name name="TRS_ID_887"><surname name="TRS_ID_888">Benenti</surname><given-names name="TRS_ID_889">G.</given-names></name>
+<name name="TRS_ID_890"><surname name="TRS_ID_891">Saito</surname><given-names name="TRS_ID_892">K.</given-names></name>
+<name name="TRS_ID_893"><surname name="TRS_ID_894">Casati</surname><given-names name="TRS_ID_895">G.</given-names></name>
+</person-group>
+<year name="TRS_ID_896">2011</year>
+<source name="TRS_ID_897">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_898">106</volume>
+<elocation-id content-type="artnum" name="TRS_ID_899">230602</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib2" name="TRS_ID_900">
+<label name="TRS_ID_901">2</label>
+<element-citation publication-type="journal" name="TRS_ID_902">
+<person-group person-group-type="author" name="TRS_ID_903">
+<name name="TRS_ID_904"><surname name="TRS_ID_905">B<span class="unicode-char">&uuml;</span>ttiker</surname><given-names name="TRS_ID_906">M.</given-names></name>
+<name name="TRS_ID_907"><surname name="TRS_ID_908">Imry</surname><given-names name="TRS_ID_909">Y.</given-names></name>
+<name name="TRS_ID_910"><surname name="TRS_ID_911">Landauer</surname><given-names name="TRS_ID_912">R.</given-names></name>
+<name name="TRS_ID_913"><surname name="TRS_ID_914">Pinhas</surname><given-names name="TRS_ID_915">S.</given-names></name>
+</person-group>
+<year name="TRS_ID_916">1985</year>
+<source name="TRS_ID_917">Phys. Rev. B</source>
+<volume name="TRS_ID_918">31</volume>
+<fpage name="TRS_ID_919">6207</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib3" name="TRS_ID_920">
+<label name="TRS_ID_921">3</label>
+<element-citation publication-type="journal" name="TRS_ID_922">
+<person-group person-group-type="author" name="TRS_ID_923">
+<name name="TRS_ID_924"><surname name="TRS_ID_925">Brandner</surname><given-names name="TRS_ID_926">K.</given-names></name>
+<name name="TRS_ID_927"><surname name="TRS_ID_928">Saito</surname><given-names name="TRS_ID_929">K.</given-names></name>
+<name name="TRS_ID_930"><surname name="TRS_ID_931">Seifert</surname><given-names name="TRS_ID_932">U.</given-names></name>
+</person-group>
+<year name="TRS_ID_933">2013</year>
+<source name="TRS_ID_934">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_935">110</volume>
+<elocation-id content-type="artnum" name="TRS_ID_936">070603</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib4" name="TRS_ID_937">
+<label name="TRS_ID_938">4</label>
+<element-citation publication-type="journal" name="TRS_ID_939">
+<person-group person-group-type="author" name="TRS_ID_940">
+<name name="TRS_ID_941"><surname name="TRS_ID_942">Whitney</surname><given-names name="TRS_ID_943">R. S.</given-names></name>
+</person-group>
+<year name="TRS_ID_944">2014</year>
+<source name="TRS_ID_945">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_946">112</volume>
+<elocation-id content-type="artnum" name="TRS_ID_947">130601</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib5" name="TRS_ID_948">
+<label name="TRS_ID_949">5</label>
+<element-citation publication-type="journal" name="TRS_ID_950">
+<person-group person-group-type="author" name="TRS_ID_951">
+<name name="TRS_ID_952"><surname name="TRS_ID_953">Brandner</surname><given-names name="TRS_ID_954">K.</given-names></name>
+<name name="TRS_ID_955"><surname name="TRS_ID_956">Seifert</surname><given-names name="TRS_ID_957">U.</given-names></name>
+</person-group>
+<year name="TRS_ID_958">2015</year>
+<source name="TRS_ID_959">Phys. Rev. E</source>
+<volume name="TRS_ID_960">91</volume>
+<elocation-id content-type="artnum" name="TRS_ID_961">012121</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib6" name="TRS_ID_962">
+<label name="TRS_ID_963">6</label>
+<element-citation publication-type="journal" name="TRS_ID_964">
+<person-group person-group-type="author" name="TRS_ID_965">
+<name name="TRS_ID_966"><surname name="TRS_ID_967">Allahverdyan</surname><given-names name="TRS_ID_968">A. E.</given-names></name>
+<name name="TRS_ID_969"><surname name="TRS_ID_970">Hovhannisyan</surname><given-names name="TRS_ID_971">K. V.</given-names></name>
+<name name="TRS_ID_972"><surname name="TRS_ID_973">Melkikh</surname><given-names name="TRS_ID_974">A. V.</given-names></name>
+<name name="TRS_ID_975"><surname name="TRS_ID_976">Gevorkian</surname><given-names name="TRS_ID_977">S. G.</given-names></name>
+</person-group>
+<year name="TRS_ID_978">2013</year>
+<source name="TRS_ID_979">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_980">111</volume>
+<elocation-id content-type="artnum" name="TRS_ID_981">050601</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib7" name="TRS_ID_982">
+<label name="TRS_ID_983">7</label>
+<element-citation publication-type="journal" name="TRS_ID_984">
+<person-group person-group-type="author" name="TRS_ID_985">
+<name name="TRS_ID_986"><surname name="TRS_ID_987">Stark</surname><given-names name="TRS_ID_988">J.</given-names></name>
+<name name="TRS_ID_989"><surname name="TRS_ID_990">Brandner</surname><given-names name="TRS_ID_991">K.</given-names></name>
+<name name="TRS_ID_992"><surname name="TRS_ID_993">Saito</surname><given-names name="TRS_ID_994">K.</given-names></name>
+<name name="TRS_ID_995"><surname name="TRS_ID_996">Seifert</surname><given-names name="TRS_ID_997">U.</given-names></name>
+</person-group>
+<year name="TRS_ID_998">2014</year>
+<source name="TRS_ID_999">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_1000">112</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1001">140601</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib8" name="TRS_ID_1002">
+<label name="TRS_ID_1003">8</label>
+<element-citation publication-type="journal" name="TRS_ID_1004">
+<person-group person-group-type="author" name="TRS_ID_1005">
+<name name="TRS_ID_1006"><surname name="TRS_ID_1007">Carmi</surname><given-names name="TRS_ID_1008">S.</given-names></name>
+<name name="TRS_ID_1009"><surname name="TRS_ID_1010">Wu</surname><given-names name="TRS_ID_1011">Z.</given-names></name>
+<name name="TRS_ID_1012"><surname name="TRS_ID_1013">Havlin</surname><given-names name="TRS_ID_1014">S.</given-names></name>
+<name name="TRS_ID_1015"><surname name="TRS_ID_1016">Stanley</surname><given-names name="TRS_ID_1017">H. E.</given-names></name>
+</person-group>
+<year name="TRS_ID_1018">2008</year>
+<source name="TRS_ID_1019">EPL</source>
+<volume name="TRS_ID_1020">84</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1021">28005</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib9" name="TRS_ID_1022">
+<label name="TRS_ID_1023">9</label>
+<element-citation publication-type="journal" name="TRS_ID_1024">
+<person-group person-group-type="author" name="TRS_ID_1025">
+<name name="TRS_ID_1026"><surname name="TRS_ID_1027">Rohden</surname><given-names name="TRS_ID_1028">M.</given-names></name>
+<name name="TRS_ID_1029"><surname name="TRS_ID_1030">Sorge</surname><given-names name="TRS_ID_1031">A.</given-names></name>
+<name name="TRS_ID_1032"><surname name="TRS_ID_1033">Timme</surname><given-names name="TRS_ID_1034">M.</given-names></name>
+<name name="TRS_ID_1035"><surname name="TRS_ID_1036">Witthaut</surname><given-names name="TRS_ID_1037">D.</given-names></name>
+</person-group>
+<year name="TRS_ID_1038">2012</year>
+<source name="TRS_ID_1039">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_1040">109</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1041">064101</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib10" name="TRS_ID_1042">
+<label name="TRS_ID_1043">10</label>
+<element-citation publication-type="journal" name="TRS_ID_1044">
+<person-group person-group-type="author" name="TRS_ID_1045">
+<name name="TRS_ID_1046"><surname name="TRS_ID_1047">Tellegen</surname><given-names name="TRS_ID_1048">B. D.</given-names></name>
+</person-group>
+<year name="TRS_ID_1049">1948</year>
+<source name="TRS_ID_1050">Philips Res. Rep.</source>
+<volume name="TRS_ID_1051">3</volume>
+<fpage name="TRS_ID_1052">81</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib11" name="TRS_ID_1053">
+<label name="TRS_ID_1054">11</label>
+<element-citation publication-type="journal" name="TRS_ID_1055">
+<person-group person-group-type="author" name="TRS_ID_1056">
+<name name="TRS_ID_1057"><surname name="TRS_ID_1058">Wick</surname><given-names name="TRS_ID_1059">R. F.</given-names></name>
+</person-group>
+<year name="TRS_ID_1060">1954</year>
+<source name="TRS_ID_1061">J. Appl. Phys.</source>
+<volume name="TRS_ID_1062">25</volume>
+<fpage name="TRS_ID_1063">741</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib12" name="TRS_ID_1064">
+<label name="TRS_ID_1065">12</label>
+<element-citation publication-type="journal" name="TRS_ID_1066">
+<person-group person-group-type="author" name="TRS_ID_1067">
+<name name="TRS_ID_1068"><surname name="TRS_ID_1069">Grubbs</surname><given-names name="TRS_ID_1070">W.</given-names></name>
+</person-group>
+<year name="TRS_ID_1071">1959</year>
+<source name="TRS_ID_1072">Bell Syst. Tech. J.</source>
+<volume name="TRS_ID_1073">38</volume>
+<fpage name="TRS_ID_1074">853</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib13" name="TRS_ID_1075">
+<label name="TRS_ID_1076">13</label>
+<element-citation publication-type="journal" name="TRS_ID_1077">
+<person-group person-group-type="author" name="TRS_ID_1078">
+<name name="TRS_ID_1079"><surname name="TRS_ID_1080">Hogan</surname><given-names name="TRS_ID_1081">C. L.</given-names></name>
+</person-group>
+<year name="TRS_ID_1082">1953</year>
+<source name="TRS_ID_1083">Rev. Mod. Phys.</source>
+<volume name="TRS_ID_1084">25</volume>
+<fpage name="TRS_ID_1085">253</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib14" name="TRS_ID_1086">
+<label name="TRS_ID_1087">14</label>
+<element-citation publication-type="book" name="TRS_ID_1088">
+<person-group person-group-type="author" name="TRS_ID_1089">
+<name name="TRS_ID_1090"><surname name="TRS_ID_1091">Strogatz</surname><given-names name="TRS_ID_1092">S. H.</given-names></name>
+</person-group>
+<year name="TRS_ID_1093">1994</year>
+<source name="TRS_ID_1094">Nonlinear Dynamics and Chaos</source> 
+<publisher-name name="TRS_ID_1095">Perseus Publishing</publisher-name>
+</element-citation>
+</ref>
+<ref id="epl17030bib15" name="TRS_ID_1096">
+<label name="TRS_ID_1097">15</label>
+<element-citation publication-type="book" name="TRS_ID_1098">
+<person-group person-group-type="author" name="TRS_ID_1099">
+<name name="TRS_ID_1100"><surname name="TRS_ID_1101">Hashitsume</surname><given-names name="TRS_ID_1102">N.</given-names></name>
+<name name="TRS_ID_1103"><surname name="TRS_ID_1104">Toda</surname><given-names name="TRS_ID_1105">M.</given-names></name>
+<name name="TRS_ID_1106"><surname name="TRS_ID_1107">Kubo</surname><given-names name="TRS_ID_1108">R.</given-names></name>
+<name name="TRS_ID_1109"><surname name="TRS_ID_1110">Sait<span class="unicode-char">&omacr;</span></surname><given-names name="TRS_ID_1111">N.</given-names></name>
+</person-group>
+<year name="TRS_ID_1112">1992</year>
+<source name="TRS_ID_1113">Statistical Physics II</source> 
+<publisher-name name="TRS_ID_1114">Springer</publisher-name>
+</element-citation>
+</ref>
+<ref id="epl17030bib16" name="TRS_ID_1115">
+<label name="TRS_ID_1116">16</label>
+<element-citation publication-type="journal" name="TRS_ID_1117">
+<person-group person-group-type="author" name="TRS_ID_1118">
+<name name="TRS_ID_1119"><surname name="TRS_ID_1120">Curzon</surname><given-names name="TRS_ID_1121">F.</given-names></name>
+<name name="TRS_ID_1122"><surname name="TRS_ID_1123">Ahlborn</surname><given-names name="TRS_ID_1124">B.</given-names></name>
+</person-group>
+<year name="TRS_ID_1125">1975</year>
+<source name="TRS_ID_1126">Am. J. Phys.</source>
+<volume name="TRS_ID_1127">43</volume>
+<fpage name="TRS_ID_1128">22</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib17" name="TRS_ID_1129">
+<label name="TRS_ID_1130">17</label>
+<element-citation publication-type="journal" name="TRS_ID_1131">
+<person-group person-group-type="author" name="TRS_ID_1132">
+<name name="TRS_ID_1133"><surname name="TRS_ID_1134">Sekimoto</surname><given-names name="TRS_ID_1135">K.</given-names></name>
+</person-group>
+<year name="TRS_ID_1136">1998</year>
+<source name="TRS_ID_1137">Progr. Theor. Phys. Suppl.</source>
+<volume name="TRS_ID_1138">130</volume>
+<fpage name="TRS_ID_1139">17</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib18" name="TRS_ID_1140">
+<label name="TRS_ID_1141">18</label>
+<element-citation publication-type="journal" name="TRS_ID_1142">
+<person-group person-group-type="author" name="TRS_ID_1143">
+<name name="TRS_ID_1144"><surname name="TRS_ID_1145">Esposito</surname><given-names name="TRS_ID_1146">M.</given-names></name>
+<name name="TRS_ID_1147"><surname name="TRS_ID_1148">Lindenberg</surname><given-names name="TRS_ID_1149">K.</given-names></name>
+<name name="TRS_ID_1150"><surname name="TRS_ID_1151">Van den Broeck</surname><given-names name="TRS_ID_1152">C.</given-names></name>
+</person-group>
+<year name="TRS_ID_1153">2009</year>
+<source name="TRS_ID_1154">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_1155">102</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1156">130602</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib19" name="TRS_ID_1157">
+<label name="TRS_ID_1158">19</label>
+<element-citation publication-type="journal" name="TRS_ID_1159">
+<person-group person-group-type="author" name="TRS_ID_1160">
+<name name="TRS_ID_1161"><surname name="TRS_ID_1162">Van den Broeck</surname><given-names name="TRS_ID_1163">C.</given-names></name>
+<name name="TRS_ID_1164"><surname name="TRS_ID_1165">Kumar</surname><given-names name="TRS_ID_1166">N.</given-names></name>
+<name name="TRS_ID_1167"><surname name="TRS_ID_1168">Lindenberg</surname><given-names name="TRS_ID_1169">K.</given-names></name>
+</person-group>
+<year name="TRS_ID_1170">2012</year>
+<source name="TRS_ID_1171">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_1172">108</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1173">210602</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib20" name="TRS_ID_1174">
+<label name="TRS_ID_1175">20</label>
+<element-citation publication-type="journal" name="TRS_ID_1176">
+<person-group person-group-type="author" name="TRS_ID_1177">
+<name name="TRS_ID_1178"><surname name="TRS_ID_1179">Klein</surname><given-names name="TRS_ID_1180">D.</given-names></name>
+</person-group>
+<year name="TRS_ID_1181">1982</year>
+<source name="TRS_ID_1182">Linear Algebra Appl.</source>
+<volume name="TRS_ID_1183">42</volume>
+<fpage name="TRS_ID_1184">109</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib21" name="TRS_ID_1185">
+<label name="TRS_ID_1186">21</label>
+<element-citation publication-type="journal" name="TRS_ID_1187">
+<person-group person-group-type="author" name="TRS_ID_1188">
+<name name="TRS_ID_1189"><surname name="TRS_ID_1190">Verley</surname><given-names name="TRS_ID_1191">G.</given-names></name>
+<name name="TRS_ID_1192"><surname name="TRS_ID_1193">Esposito</surname><given-names name="TRS_ID_1194">M.</given-names></name>
+<name name="TRS_ID_1195"><surname name="TRS_ID_1196">Willaert</surname><given-names name="TRS_ID_1197">T.</given-names></name>
+<name name="TRS_ID_1198"><surname name="TRS_ID_1199">Van den Broeck</surname><given-names name="TRS_ID_1200">C.</given-names></name>
+</person-group>
+<year name="TRS_ID_1201">2014</year>
+<source name="TRS_ID_1202">Nat. Commun.</source>
+<volume name="TRS_ID_1203">5</volume>
+<fpage name="TRS_ID_1204">4721</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib22" name="TRS_ID_1205">
+<label name="TRS_ID_1206">22</label>
+<element-citation publication-type="preprint" name="TRS_ID_1207">
+<person-group person-group-type="author" name="TRS_ID_1208">
+<name name="TRS_ID_1209"><surname name="TRS_ID_1210">Sabass</surname><given-names name="TRS_ID_1211">B.</given-names></name>
+</person-group>
+<comment name="TRS_ID_1212">in preparation</comment>
+</element-citation>
+</ref>
+<ref id="epl17030bib23" name="TRS_ID_1213">
+<label name="TRS_ID_1214">23</label>
+<element-citation publication-type="journal" name="TRS_ID_1215">
+<person-group person-group-type="author" name="TRS_ID_1216">
+<name name="TRS_ID_1217"><surname name="TRS_ID_1218">Mason</surname><given-names name="TRS_ID_1219">W.</given-names></name>
+<name name="TRS_ID_1220"><surname name="TRS_ID_1221">Hewitt</surname><given-names name="TRS_ID_1222">W.</given-names></name>
+<name name="TRS_ID_1223"><surname name="TRS_ID_1224">Wick</surname><given-names name="TRS_ID_1225">R.</given-names></name>
+</person-group>
+<year name="TRS_ID_1226">1953</year>
+<source name="TRS_ID_1227">J. Appl. Phys.</source>
+<volume name="TRS_ID_1228">24</volume>
+<fpage name="TRS_ID_1229">166</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib24" name="TRS_ID_1230">
+<label name="TRS_ID_1231">24</label>
+<element-citation publication-type="journal" name="TRS_ID_1232">
+<person-group person-group-type="author" name="TRS_ID_1233">
+<name name="TRS_ID_1234"><surname name="TRS_ID_1235">J<span class="unicode-char">&uuml;</span>licher</surname><given-names name="TRS_ID_1236">F.</given-names></name>
+<name name="TRS_ID_1237"><surname name="TRS_ID_1238">Dierkes</surname><given-names name="TRS_ID_1239">K.</given-names></name>
+<name name="TRS_ID_1240"><surname name="TRS_ID_1241">Lindner</surname><given-names name="TRS_ID_1242">B.</given-names></name>
+<name name="TRS_ID_1243"><surname name="TRS_ID_1244">Prost</surname><given-names name="TRS_ID_1245">J.</given-names></name>
+<name name="TRS_ID_1246"><surname name="TRS_ID_1247">Martin</surname><given-names name="TRS_ID_1248">P.</given-names></name>
+</person-group>
+<year name="TRS_ID_1249">2009</year>
+<source name="TRS_ID_1250">Eur. Phys. J. E</source>
+<volume name="TRS_ID_1251">29</volume>
+<fpage name="TRS_ID_1252">449</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib25" name="TRS_ID_1253">
+<label name="TRS_ID_1254">25</label>
+<element-citation publication-type="journal" name="TRS_ID_1255">
+<person-group person-group-type="author" name="TRS_ID_1256">
+<name name="TRS_ID_1257"><surname name="TRS_ID_1258">Ren</surname><given-names name="TRS_ID_1259">J.</given-names></name>
+<name name="TRS_ID_1260"><surname name="TRS_ID_1261">Wang</surname><given-names name="TRS_ID_1262">W.<span class="unicode-char">&hyphen;</span>X.</given-names></name>
+<name name="TRS_ID_1263"><surname name="TRS_ID_1264">Li</surname><given-names name="TRS_ID_1265">B.</given-names></name>
+<name name="TRS_ID_1266"><surname name="TRS_ID_1267">Lai</surname><given-names name="TRS_ID_1268">Y.<span class="unicode-char">&hyphen;</span>C.</given-names></name>
+</person-group>
+<year name="TRS_ID_1269">2010</year>
+<source name="TRS_ID_1270">Phys. Rev. Lett.</source>
+<volume name="TRS_ID_1271">104</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1272">058701</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib26" name="TRS_ID_1273">
+<label name="TRS_ID_1274">26</label>
+<element-citation publication-type="journal" name="TRS_ID_1275">
+<person-group person-group-type="author" name="TRS_ID_1276">
+<name name="TRS_ID_1277"><surname name="TRS_ID_1278">Martens</surname><given-names name="TRS_ID_1279">E. A.</given-names></name>
+<name name="TRS_ID_1280"><surname name="TRS_ID_1281">Thutupalli</surname><given-names name="TRS_ID_1282">S.</given-names></name>
+<name name="TRS_ID_1283"><surname name="TRS_ID_1284">Fourri<span class="unicode-char">&egrave;</span>re</surname><given-names name="TRS_ID_1285">A.</given-names></name>
+<name name="TRS_ID_1286"><surname name="TRS_ID_1287">Hallatschek</surname><given-names name="TRS_ID_1288">O.</given-names></name>
+</person-group>
+<year name="TRS_ID_1289">2013</year>
+<source name="TRS_ID_1290">Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume name="TRS_ID_1291">110</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1292">10563</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib27" name="TRS_ID_1293">
+<label name="TRS_ID_1294">27</label>
+<element-citation publication-type="journal" name="TRS_ID_1295">
+<person-group person-group-type="author" name="TRS_ID_1296">
+<name name="TRS_ID_1297"><surname name="TRS_ID_1298">Pendry</surname><given-names name="TRS_ID_1299">J. B.</given-names></name>
+<name name="TRS_ID_1300"><surname name="TRS_ID_1301">Schurig</surname><given-names name="TRS_ID_1302">D.</given-names></name>
+<name name="TRS_ID_1303"><surname name="TRS_ID_1304">Smith</surname><given-names name="TRS_ID_1305">D. R.</given-names></name>
+</person-group>
+<year name="TRS_ID_1306">2006</year>
+<source name="TRS_ID_1307">Science</source>
+<volume name="TRS_ID_1308">312</volume>
+<fpage name="TRS_ID_1309">1780</fpage>
+</element-citation>
+</ref>
+<ref id="epl17030bib28" name="TRS_ID_1310">
+<label name="TRS_ID_1311">28</label>
+<element-citation publication-type="journal" name="TRS_ID_1312">
+<person-group person-group-type="author" name="TRS_ID_1313">
+<name name="TRS_ID_1314"><surname name="TRS_ID_1315">Zhai</surname><given-names name="TRS_ID_1316">J.</given-names></name>
+<name name="TRS_ID_1317"><surname name="TRS_ID_1318">Li</surname><given-names name="TRS_ID_1319">J.</given-names></name>
+<name name="TRS_ID_1320"><surname name="TRS_ID_1321">Dong</surname><given-names name="TRS_ID_1322">S.</given-names></name>
+<name name="TRS_ID_1323"><surname name="TRS_ID_1324">Viehland</surname><given-names name="TRS_ID_1325">D.</given-names></name>
+<name name="TRS_ID_1326"><surname name="TRS_ID_1327">Bichurin</surname><given-names name="TRS_ID_1328">M.</given-names></name>
+</person-group>
+<year name="TRS_ID_1329">2006</year>
+<source name="TRS_ID_1330">J. Appl. Phys.</source>
+<volume name="TRS_ID_1331">100</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1332">124509</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib29" name="TRS_ID_1333">
+<label name="TRS_ID_1334">29</label>
+<element-citation publication-type="journal" name="TRS_ID_1335">
+<person-group person-group-type="author" name="TRS_ID_1336">
+<name name="TRS_ID_1337"><surname name="TRS_ID_1338">Viola</surname><given-names name="TRS_ID_1339">G.</given-names></name>
+<name name="TRS_ID_1340"><surname name="TRS_ID_1341">DiVincenzo</surname><given-names name="TRS_ID_1342">D. P.</given-names></name>
+</person-group>
+<year name="TRS_ID_1343">2014</year>
+<source name="TRS_ID_1344">Phys. Rev. X</source>
+<volume name="TRS_ID_1345">4</volume>
+<elocation-id content-type="artnum" name="TRS_ID_1346">021019</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17030bib30" name="TRS_ID_1347">
+<label name="TRS_ID_1348">30</label>
+<element-citation publication-type="journal" name="TRS_ID_1349">
+<person-group person-group-type="author" name="TRS_ID_1350">
+<name name="TRS_ID_1351"><surname name="TRS_ID_1352">Estep</surname><given-names name="TRS_ID_1353">N. A.</given-names></name>
+<name name="TRS_ID_1354"><surname name="TRS_ID_1355">Sounas</surname><given-names name="TRS_ID_1356">D. L.</given-names></name>
+<name name="TRS_ID_1357"><surname name="TRS_ID_1358">Soric</surname><given-names name="TRS_ID_1359">J.</given-names></name>
+<name name="TRS_ID_1360"><surname name="TRS_ID_1361">Al<span class="unicode-char">&ugrave;</span></surname><given-names name="TRS_ID_1362">A.</given-names></name>
+</person-group>
+<year name="TRS_ID_1363">2014</year>
+<source name="TRS_ID_1364">Nat. Phys.</source>
+<volume name="TRS_ID_1365">10</volume>
+<fpage name="TRS_ID_1366">923</fpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

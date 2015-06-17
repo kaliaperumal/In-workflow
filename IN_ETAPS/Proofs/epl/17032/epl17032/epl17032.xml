@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article article-type="rapid-communication" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">epl</journal-id>
+<journal-id journal-id-type="coden">EULEEJ</journal-id>
+<journal-title-group>
+<journal-title>Europhysics Letters</journal-title>
+<abbrev-journal-title abbrev-type="IOP">EPL</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher">EPL</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0295-5075</issn>
+<issn pub-type="epub">1286-4854</issn>
+<publisher>
+<publisher-name>EDP Sciences, IOP Publishing and Societ&agrave; Italiana di Fisica</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">epl17032</article-id>
+<article-id pub-id-type="doi">10.1209/0295-5075/110/24001</article-id>
+<article-id pub-id-type="manuscript">17032</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Letter</subject>
+</subj-group>
+<subj-group subj-group-type="section">
+<subject>40 Electromagnetism, optics, acoustics, heat transfer, classical mechanics, and fluid dynamics</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Leidenfrost drops: Effect of gravity</article-title>
+<alt-title alt-title-type="ascii">Leidenfrost drops: Effect of gravity</alt-title>
+<alt-title alt-title-type="short">Leidenfrost drops: Effect of gravity</alt-title>
+<alt-title alt-title-type="short-ascii">Leidenfrost drops: Effect of gravity</alt-title>
+</title-group>
+<contrib-group content-type="all">
+<contrib contrib-type="author">
+<name><surname>Maquet</surname><given-names>L.</given-names></name>
+<xref ref-type="aff" rid="epl17032af1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Brandenbourger</surname><given-names>M.</given-names></name>
+<xref ref-type="aff" rid="epl17032af1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Sobac</surname><given-names>B.</given-names></name>
+<xref ref-type="aff" rid="epl17032af2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Biance</surname><given-names>A.-L.</given-names></name>
+<xref ref-type="aff" rid="epl17032af3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Colinet</surname><given-names>P.</given-names></name>
+<xref ref-type="aff" rid="epl17032af2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Dorbolo</surname><given-names>S.</given-names></name>
+<xref ref-type="aff" rid="epl17032af1">1</xref>
+</contrib>
+<aff id="epl17032af1"><label>1</label>GRASP, D&eacute;partement de Physique B5, <institution>Universit&eacute; de Li&egrave;ge</institution> - B-4000 Li&egrave;ge, <country>Belgium</country></aff>
+<aff id="epl17032af2"><label>2</label>TIPs, Fluid Physics Unit, <institution>Universit&eacute; Libre de Bruxelles</institution> - C.P. 165/67, B-1050 Bruxelles, <country>Belgium</country></aff>
+<aff id="epl17032af3"><label>3</label>Institut Lumi&egrave;re Mati&egrave;re, UMR5306 CNRS, <institution>Universit&eacute; Claude Bernard</institution> Lyon 1 F-69622 Villeurbanne CEDEX, <country>France</country></aff>
+<author-comment content-type="short-author-list"><p>L. Maquet <italic>et al</italic>.</p>
+</author-comment>
+</contrib-group>
+<pub-date pub-type="ppub"><month>4</month><year>2015</year></pub-date>
+<pub-date pub-type="epub"><day>29</day><month>4</month><year>2015</year></pub-date>
+<volume>110</volume>
+<issue>2</issue>
+<elocation-id content-type="artnum">24001</elocation-id>
+<history>
+<date date-type="received"><day>24</day><month>12</month><year>2014</year></date>
+<date date-type="accepted"><day>7</day><month>4</month><year>2015</year></date>
+</history>
+<permissions>
+<copyright-statement>Copyright &copy; EPLA, 2015</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<self-uri xlink:href="http://stacks.iop.org/EPL/110/24001"/>
+<abstract>
+<title>Abstract</title>
+<p>A specific experimental set-up has been installed in a large centrifuge facility in order to study different aspects of Leidenfrost drops under high-gravity conditions (5, 10, 15 and 20 times the Earth gravity). In particular, the drop lifetime and more precisely the variations of drop diameter <italic>vs.</italic> time have shown to be in good agreement with previous experiments and scaling analysis (<sc>Biance A.-L.</sc>&nbsp;<italic>et al.</italic>, <italic>Phys. Fluids</italic>, <bold>15</bold> (2003) 1632). Moreover, so-called <italic>chimneys</italic> are expectedly observed in the large puddles, the distance between two chimneys depending linearly on the capillary length. Finally, the Leidenfrost point, <italic>i.e.</italic> the temperature above which the Leidenfrost effect takes place, was unexpectedly found to increase slightly with gravity. A qualitative explanation based on a refined model (<sc>Sobac B.</sc>&nbsp;<italic>et al.</italic>, <italic>Phys. Rev. E</italic>, <bold>90</bold> (2014) 053011) recognizing the non-trivial shape of the vapor film under the drop is proposed to explain this observation.</p>
+</abstract>
+<kwd-group kwd-group-type="author-pacs">
+<kwd>47.55.D-</kwd>
+<kwd>47.55.dp</kwd>
+<kwd>47.15.gm</kwd>
+</kwd-group>
+<counts>
+<page-count count="6"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>ccc</meta-name>
+<meta-value></meta-value>
+</custom-meta>
+<custom-meta><meta-name>printed</meta-name>
+<meta-value>Printed in France</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="epl17032s1">
+<title>Introduction</title>
+<p>Cooling down a hot body is generally possible by immersing it into a high-heat-capacity liquid such as water. However, if its temperature is too high, the cooling efficiency is dramatically reduced by the instantaneous generation of an insulating vapor layer between the liquid and the hot body&nbsp;[<xref ref-type="bibr" rid="epl17032bib1">1</xref>]. On a small scale, this phenomenon can rather be taken as an advantage. When a drop is released on a plate heated well above the boiling temperature of the liquid, the drop may levitate on its own vapor. This phenomenon, named Leidenfrost effect after the name of its discoverer&nbsp;[<xref ref-type="bibr" rid="epl17032bib2">2</xref>], prevents the drop from touching the substrate, mimicking a non-wetting situation when static effects are considered and a frictionless one when dynamics is investigated. A classical work highlighting the main scaling laws applying to Leidenfrost droplets has been published by Biance <italic>et al.</italic>&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>].</p>
+<p>In static situations, the shape of the drop and the evaporation dynamics have been recently revisited&nbsp;[<xref ref-type="bibr" rid="epl17032bib4">4</xref>&ndash;<xref ref-type="bibr" rid="epl17032bib8">8</xref>], highlighting a pocket-like geometry of the vapor film underneath the evaporating drop. Accurate interferometric measurements of the vapor film thickness profile&nbsp;[<xref ref-type="bibr" rid="epl17032bib9">9</xref>] indeed turn out to be in very good agreement with a theoretical modeling coupling vapor flow, capillarity and hydrostatic pressure effects&nbsp;[<xref ref-type="bibr" rid="epl17032bib8">8</xref>]. For large drops, a critical radius above which the vapor pocket bursts at the upper part of these drops can be determined&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>,<xref ref-type="bibr" rid="epl17032bib4">4</xref>,<xref ref-type="bibr" rid="epl17032bib8">8</xref>], very similarly to what happens in the related situation of a drop levitating over blown air&nbsp;[<xref ref-type="bibr" rid="epl17032bib4">4</xref>,<xref ref-type="bibr" rid="epl17032bib10">10</xref>,<xref ref-type="bibr" rid="epl17032bib11">11</xref>]. In dynamic situations, properties of Leidenfrost drops have also been tested by impacting drops on a hot plate&nbsp;[<xref ref-type="bibr" rid="epl17032bib12">12</xref>&ndash;<xref ref-type="bibr" rid="epl17032bib15">15</xref>]. Finally, the nearly frictionless motion of Leidenfrost droplets can also lead to the self-propulsion of drops on patterned substrates&nbsp;[<xref ref-type="bibr" rid="epl17032bib16">16</xref>,<xref ref-type="bibr" rid="epl17032bib17">17</xref>] which enables rapid transport of small objects&nbsp;[<xref ref-type="bibr" rid="epl17032bib18">18</xref>]. Despite this large amount of work devoted to describe and use Leidenfrost drops, the threshold temperature above which the Leidenfrost effect takes place remains poorly understood&nbsp;[<xref ref-type="bibr" rid="epl17032bib19">19</xref>]. In particular, experimental data on the different factors influencing this effect are still lacking, even though surface roughness and wetting properties are recognized to affect this threshold temperature significantly&nbsp;[<xref ref-type="bibr" rid="epl17032bib20">20</xref>&ndash;<xref ref-type="bibr" rid="epl17032bib25">25</xref>].</p>
+<p>In this work, we have investigated the effect of gravity on different properties of Leidenfrost drops, such as drop geometry and lifetime or chimney appearance. The results obtained are in good agreement with classical scalings of Biance <italic>et al.</italic>&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>], based on the assumption of a flat bottom surface of the drop. However, we also observe an unexpected effect of gravity on the Leidenfrost point, which is tentatively interpreted as a subtle consequence of the non-trivial shape of the vapor film underneath the droplet.</p>
+<p>Experiments were performed at the Large Diameter Centrifuge (LDC) facility of ESA, in order to reach 20 times the Earth gravity. The main effect of gravity is to modify the apparent weight of the drop, <italic>i.e.</italic> to affect the capillary length <italic>a</italic>. Indeed, the capillary length is obtained by comparing capillary and gravity forces: <inline-formula id="epl17032ieqn1"><tex-math><?CDATA $a=\sqrt{\gamma/\rho g \Gamma}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn1.gif"/>
+</inline-formula>, where <italic>&gamma;</italic> and <italic>&rho;</italic> are the surface tension and the density of the liquid, <italic>g</italic> the Earth gravity acceleration and &Gamma; the reduced gravity, <italic>i.e.</italic> the ratio between the apparent gravity and the Earth gravity. In zero-<italic>g</italic> environment, the capillary effects are enhanced and the capillary length <italic>a</italic> diverges. On the other hand, high-gravity conditions augment the gravity effect and the capillary length decreases. This situation is particularly interesting regarding the Leidenfrost effect because, during the evaporation, the drop successively experiences three regimes: very large drop <inline-formula id="epl17032ieqn2"><tex-math><?CDATA $(R > R_c)$ ?>
+</tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn2.gif"/>
+</inline-formula>, large drop <inline-formula id="epl17032ieqn3"><tex-math><?CDATA $(a < R < R_c)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn3.gif"/>
+</inline-formula>, and small drop <inline-formula id="epl17032ieqn4"><tex-math><?CDATA $(R < a)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn4.gif"/>
+</inline-formula>&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>], where <italic>R</italic><sub><italic>c</italic></sub> is the critical radius for chimney formation. Importantly, increasing the gravity level is not fully equivalent to working with larger droplets under normal gravity. Even though the Bond number <inline-formula id="epl17032ieqn5"><tex-math><?CDATA $(R/a)^2$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn5.gif"/>
+</inline-formula> can reach the same value in both cases, gravity is also expected to modify in a non-trivial way the relative role of evaporation in the vapor film underneath the drop, hence its thickness&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>,<xref ref-type="bibr" rid="epl17032bib8">8</xref>]. How these local modifications affect evaporation rate and film boiling state stability (<italic>i.e.</italic> Leidenfrost point) remains an issue that deserves to be tackled. Thus, the aim of the campaign was to investigate the influence of gravity on: i) the lifetime of the Leidenfrost drop, ii) the formation and the size of chimneys in the very large-drop regime and iii) the Leidenfrost point (the temperature beyond which the drop levitates). These measurements allow to test existing scaling laws and more detailed theories indirectly by changing only the gravity, other physical properties remaining identical.</p>
+</sec>
+<sec id="epl17032s2">
+<title>Experimental details</title>
+<p>Figure&nbsp;<xref ref-type="fig" rid="epl17032fig1">1</xref>(a) represents schematically the Large Diameter Centrifuge (LDC). The LDC is a centrifuge with four-meter&ndash;long spinning horizontal arms. At the end of each arm, gondolas are attached. The experiment is placed in one of the gondolas, inclined due to spinning, and which experiences the apparent gravity, <inline-formula id="epl17032ieqn6"><tex-math><?CDATA ${\vec{g}}^{*}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn6.gif"/>
+</inline-formula> equal to
+<disp-formula id="epl17032eqn1">
+<label>1</label><tex-math><?CDATA \begin{equation}
+\vec{g}^{\ *} = \vec{g} + \omega^{2} R_{g} {\vec{e}}_r, \end{equation} ?></tex-math>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032eqn1.gif"/>
+</disp-formula>
+where <italic>&omega;</italic> is the angular velocity of the centrifuge, <italic>R</italic><sub><italic>g</italic></sub> the distance between the axis of rotation and the point of interest in the gondola, <inline-formula id="epl17032ieqn7"><tex-math><?CDATA $\vec{g}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn7.gif"/>
+</inline-formula> the Earth gravity and <inline-formula id="epl17032ieqn8"><tex-math><?CDATA $\vec{e}_r$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn8.gif"/>
+</inline-formula> the unit vector radial to the movement of the gondola. Hence the reduced gravity is given by <inline-formula id="epl17032ieqn9"><tex-math><?CDATA $\Gamma = g^*/g$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn9.gif"/>
+</inline-formula>.</p>
+<fig id="epl17032fig1" position="float" fig-type="figure">
+<label>Fig. 1:</label>
+<caption id="epl17032fc1">
+<p>(Colour on-line) (a) Schematic illustration of the experimental setup. (b) Typical image (top view). The injector is on the left side. The Leidenfrost drop is on the right side of the annulus. The scale bar represents 2 cm.</p>
+</caption>
+<graphic id="epl17032f1_eps" content-type="print" xlink:href="epl17032f1_pr.eps"/>
+<graphic id="epl17032f1_online" content-type="online" xlink:href="epl17032f1_online.jpg"/>
+</fig>
+<p>A hot plate whose temperature is controlled was embarked in one of the gondolas of the LDC. The plate was composed of two heat pipes horizontally placed inside an aluminum plate <inline-formula id="epl17032ieqn10"><tex-math><?CDATA $(130\ \text{mm} \times 130\ \text{mm} \times 20\ \text{mm})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn10.gif"/>
+</inline-formula>. A thermocouple was screwed on the bottom side of the plate. A heating regulator was used to stabilize the temperature of the plate between <inline-formula id="epl17032ieqn11"><tex-math><?CDATA $50\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn11.gif"/>
+</inline-formula> and <inline-formula id="epl17032ieqn12"><tex-math><?CDATA $400\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn12.gif"/>
+</inline-formula> with a precision of about <inline-formula id="epl17032ieqn13"><tex-math><?CDATA $1\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn13.gif"/>
+</inline-formula>. A thick aluminum annulus (<inline-formula id="epl17032ieqn14"><tex-math><?CDATA $75\ \text{mm}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn14.gif"/>
+</inline-formula> of internal diameter, 20 mm of thickness and 30 mm of height) was fixed on the plate (to prevent the drops from escaping). Drops of controlled volume were produced remotely inside the annulus via a syringe pump. Finally, a camera (Thorlabs, DCU223M) was used to record the drop from the top of the plate at 3 frames per second. All the devices were remotely controlled from the control room of the LDC.</p>
+<p>The experimental procedure was the following. The temperature of the plate <italic>T</italic> and the reduced gravity &Gamma; were set to the desired values. After stabilization of both parameters, a water drop with a volume of <inline-formula id="epl17032ieqn15"><tex-math><?CDATA $0.153 \pm 0.005\ \text{ml}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn15.gif"/>
+</inline-formula> was released on the plate from a height of <inline-formula id="epl17032ieqn16"><tex-math><?CDATA $\sim 5\ \text{cm}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn16.gif"/>
+</inline-formula>. The pictures were taken from the top in order to measure the lifetime <italic>&tau;</italic> and the radius <italic>R</italic> of the drop. This operation was performed 3 times for each set of control parameters (<italic>T</italic> and &Gamma;). A typical image obtained is shown in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig1">1</xref>(b). Note that due to the frictionless movement of these drops, they are very sensitive to any angle of the substrate and thus unavoidably tend to stabilize at the lowest point.</p>
+<p>A second kind of experiments consists in pouring a large quantity of liquid in the annulus in order to completely fill it. In doing so, we meet conditions to obtain chimneys. Their interdistance <italic>D</italic><sub><italic>ch</italic></sub> can be measured by image analysis.</p>
+</sec>
+<sec id="epl17032s3">
+<title>Results and discussion</title>
+<sec id="epl17032s3-1">
+<title>Lifetime vs. gravity</title>
+<p>In fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>, the measured lifetime of the 0.153 ml water drop has been reported as a function of the difference of temperature between the plate and the drop interface assumed at saturation&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>], <italic>i.e.</italic>&nbsp;<inline-formula id="epl17032ieqn17"><tex-math><?CDATA $\Delta T=T-T_{\textit{sat}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn17.gif"/>
+</inline-formula>, where <inline-formula id="epl17032ieqn18"><tex-math><?CDATA $T_{\textit{sat}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn18.gif"/>
+</inline-formula> is the saturation (boiling) temperature (<inline-formula id="epl17032ieqn19"><tex-math><?CDATA $100\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn19.gif"/>
+</inline-formula> for water). This procedure has been performed for 5 gravity levels.</p>
+<fig id="epl17032fig2" position="float" fig-type="figure">
+<label>Fig. 2:</label>
+<caption id="epl17032fc2">
+<p>(Colour on-line) Lifetime of a Leidenfrost drop (of an initial volume <inline-formula id="epl17032ieqn27"><tex-math><?CDATA $V=0.153\ \text{ml}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn27.gif"/>
+</inline-formula>) as a function of the superheat <inline-formula id="epl17032ieqn28"><tex-math><?CDATA $\Delta T$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn28.gif"/>
+</inline-formula> for five different apparent gravities <inline-formula id="epl17032ieqn29"><tex-math><?CDATA $\Gamma g$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn29.gif"/>
+</inline-formula> (see legend). Points are experimental data. Solid lines are power law fits with exponent <inline-formula id="epl17032ieqn30"><tex-math><?CDATA $-3/4$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn30.gif"/>
+</inline-formula>.</p>
+</caption>
+<graphic id="epl17032f2_eps" content-type="print" xlink:href="epl17032f2_pr.eps"/>
+<graphic id="epl17032f2_online" content-type="online" xlink:href="epl17032f2_online.jpg"/>
+</fig>
+<p>Let us start by describing the <inline-formula id="epl17032ieqn20"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn20.gif"/>
+</inline-formula> data. As the temperature of the plate is around <inline-formula id="epl17032ieqn21"><tex-math><?CDATA $200\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn21.gif"/>
+</inline-formula>, <italic>i.e.</italic>&nbsp;<inline-formula id="epl17032ieqn22"><tex-math><?CDATA $\Delta T = 100\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn22.gif"/>
+</inline-formula>, very short lifetimes are found (of the order of one second&nbsp;&mdash;not recorded). The lifetime dramatically increases above <inline-formula id="epl17032ieqn23"><tex-math><?CDATA $\Delta T = 115\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn23.gif"/>
+</inline-formula> as the drop starts levitating. A maximum is reached at <inline-formula id="epl17032ieqn24"><tex-math><?CDATA $\Delta T = 125\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn24.gif"/>
+</inline-formula>. The Leidenfrost point is defined as the maximum of the drop lifetime as a function of the plate temperature&nbsp;[<xref ref-type="bibr" rid="epl17032bib1">1</xref>]. Beyond this maximum, the lifetime decreases for higher temperatures. Note that for <inline-formula id="epl17032ieqn25"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn25.gif"/>
+</inline-formula>, the uncertainties on the evaporation time are the largest. When the drop is released, it tends to break up in smaller drops which coalesce back in a time that is decreased when the gravity is increased. For <inline-formula id="epl17032ieqn26"><tex-math><?CDATA $\Gamma = 1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn26.gif"/>
+</inline-formula>, this time was typically of a few seconds with a standard deviation of the same order of magnitude. The probabilistic behavior of the coalescence makes it impossible to draw any conclusion on this particular phenomenon with our experiments.</p>
+<p>When gravity is increased, the lifetimes are observed to be shorter. However, a decrease with temperature is still observed, the larger the gravity the slighter the decrease.</p>
+<p>The radius of the drop <italic>R</italic> was recorded over time for <inline-formula id="epl17032ieqn37"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn37.gif"/>
+</inline-formula>, 5, 10, 15 and 20 and <inline-formula id="epl17032ieqn38"><tex-math><?CDATA $\Delta T=200\ ^{\circ} \text {C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn38.gif"/>
+</inline-formula> in order to capture the dynamics of evaporation. The data are shown in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref>. Note that only 20&percnt; of the data are presented in order to enable a better visualization of the results. First of all, it turns out that the initial radius <italic>R</italic>(0) increases with gravity, as expected. Indeed, in a perfect non-wetting situation, the shape of a drop above the capillary length <italic>a</italic> defined above is the one of a flattened puddle, whose thickness <italic>h</italic> is set by a balance of gravity and surface tension and is nearly equal to 2<italic>a</italic>&nbsp;[<xref ref-type="bibr" rid="epl17032bib26">26</xref>]. By assuming that the droplet has a shape of a flat pancake, the volume conservation sets the radius of the droplet to <inline-formula id="epl17032ieqn39"><tex-math><?CDATA $R(0)=\sqrt{V/2 a \pi} \propto \Gamma^{1/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn39.gif"/>
+</inline-formula>. To be more accurate, the shape of a droplet &ldquo;levitating&rdquo; on a thin layer of its own vapor has been modeled in more detail&nbsp;[<xref ref-type="bibr" rid="epl17032bib8">8</xref>], revealing a more complex shape. The effect of gravity on this shape is presented in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig4">4</xref> (at constant volume), showing that the drop is more and more flattened by the increase of the gravity level, changing from a quasi-spherical to a puddle-like shape. As far as the evaporation dynamics is concerned, the radius decreases with time (see fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref>), with a largest rate when the gravity is larger. This effect is attributed to the droplet shape, as when it is squeezed, a larger surface is available for heat transfer, closer to the hot plate in the neck region, thus leading to faster evaporation.</p>
+<fig id="epl17032fig3" position="float" fig-type="figure">
+<label>Fig. 3:</label>
+<caption id="epl17032fc3">
+<p>(Colour on-line) Evolution of the drop radius <italic>R</italic> as a function of time for five different reduced gravities: <inline-formula id="epl17032ieqn31"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn31.gif"/>
+</inline-formula>, 5, 10, 15 and 20. The temperature of the substrate is <inline-formula id="epl17032ieqn32"><tex-math><?CDATA $300\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn32.gif"/>
+</inline-formula>. The legend is identical to the one provided in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>. The solid lines are fits using eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn2">2</xref>) with the evaporation time <inline-formula id="epl17032ieqn33"><tex-math><?CDATA $\tau_{0}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn33.gif"/>
+</inline-formula> as fit parameter. The inset presents <inline-formula id="epl17032ieqn34"><tex-math><?CDATA $\tau_{0}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn34.gif"/>
+</inline-formula> as a function of the reduced gravity &Gamma;. The dashed line is a power law fit with exponent <inline-formula id="epl17032ieqn35"><tex-math><?CDATA $-1/2$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn35.gif"/>
+</inline-formula>, <italic>i.e.</italic>&nbsp;<inline-formula id="epl17032ieqn36"><tex-math><?CDATA $\tau_0 \propto \Gamma^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn36.gif"/>
+</inline-formula>.</p>
+</caption>
+<graphic id="epl17032f3_eps" content-type="print" xlink:href="epl17032f3_pr.eps"/>
+<graphic id="epl17032f3_online" content-type="online" xlink:href="epl17032f3_online.jpg"/>
+</fig>
+<fig id="epl17032fig4" position="float" fig-type="figure">
+<label>Fig. 4:</label>
+<caption id="epl17032fc4">
+<p>(Colour on-line) Theoretical shapes of a <inline-formula id="epl17032ieqn40"><tex-math><?CDATA $10\ \mu \text{L}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn40.gif"/>
+</inline-formula> Leidenfrost drop for five different reduced gravities: <inline-formula id="epl17032ieqn41"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn41.gif"/>
+</inline-formula>, 5, 10, 15 and 20. The temperature of the substrate is <inline-formula id="epl17032ieqn42"><tex-math><?CDATA $300\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn42.gif"/>
+</inline-formula>. These shapes are numerically determined using the theoretical modeling presented in ref.&nbsp;[<xref ref-type="bibr" rid="epl17032bib8">8</xref>]. The inset represents the thickness of the vapor film at the location where it is thinnest, <inline-formula id="epl17032ieqn43"><tex-math><?CDATA $h_{\textit{neck}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn43.gif"/>
+</inline-formula>, as a function of the reduced gravity &Gamma;, using the same model. The dashed line is a guide to the eye.</p>
+</caption>
+<graphic id="epl17032f4_eps" content-type="print" xlink:href="epl17032f4_pr.eps"/>
+<graphic id="epl17032f4_online" content-type="online" xlink:href="epl17032f4_online.jpg"/>
+</fig>
+<p>In the case of a drop larger than the capillary length, variations of the radius with time can be captured by a simple modeling&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>], assuming that the drop is cylindrical and that the vapor layer underneath has an homogenous thickness. The conductive heat flux through the vapor film generates an evaporation rate balanced by the vapor flux in the lubrication film. This determines both film thickness and evaporation rate of the droplet, and leads to
+<disp-formula id="epl17032eqn2">
+<label>2</label><tex-math><?CDATA \begin{equation}
+R(t)=R(0)\left(1-\frac{t}{\tau_0}\right)^2, \end{equation} ?></tex-math>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032eqn2.gif"/>
+</disp-formula>
+where <italic>R</italic>(0) is the initial radius and <inline-formula id="epl17032ieqn44"><tex-math><?CDATA $\tau_0$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn44.gif"/>
+</inline-formula> is the evaporation time defined as
+<disp-formula id="epl17032eqn3">
+<label>3</label><tex-math><?CDATA \begin{equation}
+\tau_0=2\left(\frac{4\rho aL}{\kappa_v\Delta T}\right)^{3/4}\left(\frac{3\eta_v}{\rho_v \Gamma}\right)^{1/4}{R(0)}^{1/2}={A\ \Delta T^{-3/4}}, \end{equation} ?></tex-math>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032eqn3.gif"/>
+</disp-formula>
+where <italic>L</italic> is the latent heat of vaporization of water, <inline-formula id="epl17032ieqn45"><tex-math><?CDATA $\eta_v$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn45.gif"/>
+</inline-formula>, <inline-formula id="epl17032ieqn46"><tex-math><?CDATA $\kappa_v$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn46.gif"/>
+</inline-formula>, and <inline-formula id="epl17032ieqn47"><tex-math><?CDATA $\rho_v$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn47.gif"/>
+</inline-formula> are the dynamic viscosity, the thermal conductivity and the density of the vapor, respectively (hereafter, all vapor properties are evaluated at its mean temperature <inline-formula id="epl17032ieqn48"><tex-math><?CDATA $(T+T_{\textit{sat}})/2$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn48.gif"/>
+</inline-formula>). The parameter <italic>A</italic> gathers the dependence on the initial size of the drop, on the reduced gravity, and on physical properties of the liquid and of the vapor. Note that even though the scaling <inline-formula id="epl17032ieqn49"><tex-math><?CDATA $\Delta T^{-3/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn49.gif"/>
+</inline-formula> is indeed coherent with the data of fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>, the same can be said about the slightly different scaling <inline-formula id="epl17032ieqn50"><tex-math><?CDATA $\Delta T^{-5/6}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn50.gif"/>
+</inline-formula> found by&nbsp;[<xref ref-type="bibr" rid="epl17032bib8">8</xref>], given the limited range of values of <inline-formula id="epl17032ieqn51"><tex-math><?CDATA $\Delta T$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn51.gif"/>
+</inline-formula> available here.</p>
+<p>Fits using eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn2">2</xref>) are presented as solid curves in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref> and also show a good agreement with experimental data. The parameter <inline-formula id="epl17032ieqn52"><tex-math><?CDATA $\tau_{0}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn52.gif"/>
+</inline-formula> is derived from this fit and reported in the inset of fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref>. It turns out that <inline-formula id="epl17032ieqn53"><tex-math><?CDATA $\tau_{0}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn53.gif"/>
+</inline-formula> scales as <inline-formula id="epl17032ieqn54"><tex-math><?CDATA $\Gamma^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn54.gif"/>
+</inline-formula>, as also predicted by eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn3">3</xref>) in which <inline-formula id="epl17032ieqn55"><tex-math><?CDATA $R(0) \propto \Gamma^{1/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn55.gif"/>
+</inline-formula>.</p>
+<p>Let us now examine further the experimental measurements of drop lifetime <italic>vs.</italic> temperature under different gravity conditions. In the large-drop regime, the evaporation time scales as <inline-formula id="epl17032ieqn56"><tex-math><?CDATA $\Delta T^{-3/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn56.gif"/>
+</inline-formula>, corresponding to the fit represented in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>. However, eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn2">2</xref>) does not represent the entire lifetime of the droplet as it applies only to the puddle regime. It indeed takes a time <inline-formula id="epl17032ieqn57"><tex-math><?CDATA ${\tau_L=\tau_0 (1-\sqrt{a/R(0)})}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn57.gif"/>
+</inline-formula> for a drop of initial radius <italic>R</italic>(0) to reach <italic>R</italic>&nbsp;=&nbsp;<italic>a</italic>. Afterwards, the drop eventually enters in the small-drop regime, in which the evaporation time is rather given by <inline-formula id="epl17032ieqn58"><tex-math><?CDATA $\tau_S \propto \frac{\rho L}{\kappa_v \Delta T} a^2$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn58.gif"/>
+</inline-formula>&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>]. In general, there is thus no scaling for the drop lifetime <italic>vs.</italic> the plate superheat <inline-formula id="epl17032ieqn59"><tex-math><?CDATA $\Delta T$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn59.gif"/>
+</inline-formula>, as its complete expression involves two contributions with different dependence upon <inline-formula id="epl17032ieqn60"><tex-math><?CDATA $\Delta T$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn60.gif"/>
+</inline-formula>. Yet, we experimentally found (see fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>) that the drop lifetime can be fitted by a power law <inline-formula id="epl17032ieqn61"><tex-math><?CDATA $A\ \Delta T^{-3/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn61.gif"/>
+</inline-formula> as if the large-drop regime was dominating. This can be interpreted as follows: the capillary length <italic>a</italic> decreases as <inline-formula id="epl17032ieqn62"><tex-math><?CDATA $\Gamma^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn62.gif"/>
+</inline-formula>. More precisely, one finds that <inline-formula id="epl17032ieqn63"><tex-math><?CDATA $a=2.4\ \text{mm}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn63.gif"/>
+</inline-formula> at <inline-formula id="epl17032ieqn64"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn64.gif"/>
+</inline-formula> and 1.1 mm at <inline-formula id="epl17032ieqn65"><tex-math><?CDATA $\Gamma=5$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn65.gif"/>
+</inline-formula> (with <inline-formula id="epl17032ieqn66"><tex-math><?CDATA $\gamma=59\ \text{mN/m}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn66.gif"/>
+</inline-formula> at <inline-formula id="epl17032ieqn67"><tex-math><?CDATA $100\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn67.gif"/>
+</inline-formula>); the volume of the drop, as the radius reaches <italic>a</italic>, is divided by 10 from the case <inline-formula id="epl17032ieqn68"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn68.gif"/>
+</inline-formula> to the case <inline-formula id="epl17032ieqn69"><tex-math><?CDATA $\Gamma=5$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn69.gif"/>
+</inline-formula>. We see in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref> that the duration from the moment when the drop reaches <italic>a</italic> to the end of the evaporation is about 90 s when <inline-formula id="epl17032ieqn70"><tex-math><?CDATA $\Gamma = 1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn70.gif"/>
+</inline-formula>, about 23 s when <inline-formula id="epl17032ieqn71"><tex-math><?CDATA $\Gamma = 5$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn71.gif"/>
+</inline-formula> and about 4 s when <inline-formula id="epl17032ieqn72"><tex-math><?CDATA $\Gamma = 20$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn72.gif"/>
+</inline-formula> (representing about 50&percnt;, 15&percnt; and 5&percnt; of the drop lifetime, respectively). In other words, the small-drop regime is short compared to the total lifetime of the drop <italic>&tau;</italic> as soon as <inline-formula id="epl17032ieqn73"><tex-math><?CDATA $\Gamma = 5$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn73.gif"/>
+</inline-formula> and the duration of this regime becomes less and less important in the total lifetime as the gravity is increased. Hence, from eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn3">3</xref>) we have
+<disp-formula id="epl17032eqn4">
+<label>4</label><tex-math><?CDATA \begin{equation}
+\tau\approx\tau_0\propto\Delta T^{-3/4}\Gamma^{-1/2}. \end{equation} ?></tex-math>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032eqn4.gif"/>
+</disp-formula></p>
+<p>Fits of the lifetime data of fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref> with a power law, <italic>i.e.</italic>&nbsp;<inline-formula id="epl17032ieqn79"><tex-math><?CDATA $A_{\textit{exp}}\Delta T^{-3/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn79.gif"/>
+</inline-formula>, allow to test this hypothesis. The theoretical value of <inline-formula id="epl17032ieqn80"><tex-math><?CDATA $A(\Gamma=1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn80.gif"/>
+</inline-formula> is <inline-formula id="epl17032ieqn81"><tex-math><?CDATA $46256\ \text{s}\cdot \text {K}^{3/4}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn81.gif"/>
+</inline-formula>. The values of <inline-formula id="epl17032ieqn82"><tex-math><?CDATA $A_{\textit{exp}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn82.gif"/>
+</inline-formula> normalized by <inline-formula id="epl17032ieqn83"><tex-math><?CDATA $A(\Gamma=1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn83.gif"/>
+</inline-formula> are reported as a function of the reduced gravity in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig5">5</xref> (red circles-left scale). The plain red line indicates the slope <inline-formula id="epl17032ieqn84"><tex-math><?CDATA $\Gamma^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn84.gif"/>
+</inline-formula>, in very good agreement with experiments. The prefactor of the theory seems to be slightly overestimated, however. The good agreement between the theory and the experiments is also illustrated by the values of <inline-formula id="epl17032ieqn85"><tex-math><?CDATA $\tau_{0,\textit{exp}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn85.gif"/>
+</inline-formula> obtained by fitting the evolution of the radius with time for drops on a substrate at <inline-formula id="epl17032ieqn86"><tex-math><?CDATA $300\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn86.gif"/>
+</inline-formula> by eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn2">2</xref>) (blue triangles-right scale). These values are normalized by the theoretical value of <inline-formula id="epl17032ieqn87"><tex-math><?CDATA $\tau_0$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn87.gif"/>
+</inline-formula> at 1<italic>g</italic> which is equal to 870 s. According to eq.&nbsp;(<xref ref-type="disp-formula" rid="epl17032eqn4">4</xref>), all the data should collapse on the same <inline-formula id="epl17032ieqn88"><tex-math><?CDATA $\Gamma^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn88.gif"/>
+</inline-formula> curve, in good agreement with observations.</p>
+<fig id="epl17032fig5" position="float" fig-type="figure">
+<label>Fig. 5:</label>
+<caption id="epl17032fc5">
+<p>(Colour on-line) Fitting parameters <inline-formula id="epl17032ieqn74"><tex-math><?CDATA $A_{\textit{exp}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn74.gif"/>
+</inline-formula> and <inline-formula id="epl17032ieqn75"><tex-math><?CDATA $\tau_{0,\textit{exp}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn75.gif"/>
+</inline-formula> normalized by the theoretical value of <italic>A</italic> and <inline-formula id="epl17032ieqn76"><tex-math><?CDATA $\tau_0$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn76.gif"/>
+</inline-formula> when <inline-formula id="epl17032ieqn77"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn77.gif"/>
+</inline-formula> as a function of the reduced gravity &Gamma;. We present the data coming from the fit of the lifetime as a function of the temperature (fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>, red circles-left scale) and the data coming from the fit of the evolution of the radius with time for drops on a substrate at <inline-formula id="epl17032ieqn78"><tex-math><?CDATA $300\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn78.gif"/>
+</inline-formula>, where <italic>A</italic> varies only through &Gamma; (fig.&nbsp;<xref ref-type="fig" rid="epl17032fig3">3</xref>, blue triangles-right scale).</p>
+</caption>
+<graphic id="epl17032f5_eps" content-type="print" xlink:href="epl17032f5_pr.eps"/>
+<graphic id="epl17032f5_online" content-type="online" xlink:href="epl17032f5_online.jpg"/>
+</fig>
+</sec>
+<sec id="epl17032s3-2">
+<title>Chimneys</title>
+<p>Large puddles were also investigated under high-gravity conditions. The annulus located on the hot plate was completely filled with water. Many chimneys appear in these Leidenfrost puddles. By imaging, we measured <italic>D</italic><sub><italic>ch</italic></sub>, the distance between two adjacent chimneys from center to center, as a function of the gravity. This was done by measuring this distance for around a hundred pairs of chimneys. The cumulative distribution function of these measurements is typical of a Gaussian distribution of the distances. This enabled us defining a mean distance and a standard deviation. The results are reported in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig6">6</xref>. The continuous line is a fit with a power law <inline-formula id="epl17032ieqn89"><tex-math><?CDATA $D_{ch}=7.89\ a \propto \Gamma ^{-1/2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn89.gif"/>
+</inline-formula>.</p>
+<fig id="epl17032fig6" position="float" fig-type="figure">
+<label>Fig. 6:</label>
+<caption id="epl17032fc6">
+<p>(Colour on-line) Distance between adjacent chimneys <italic>D</italic><sub><italic>ch</italic></sub> as a function of the reduced gravity &Gamma;. The temperature of the substrate is <inline-formula id="epl17032ieqn90"><tex-math><?CDATA $300\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn90.gif"/>
+</inline-formula>. The dashed line is a power law fit with exponent <inline-formula id="epl17032ieqn91"><tex-math><?CDATA $-1/2$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn91.gif"/>
+</inline-formula>. The inset represents the CDF of <italic>D</italic><sub><italic>ch</italic></sub> for each reduced gravity.</p>
+</caption>
+<graphic id="epl17032f6_eps" content-type="print" xlink:href="epl17032f6_pr.eps"/>
+<graphic id="epl17032f6_online" content-type="online" xlink:href="epl17032f6_online.jpg"/>
+</fig>
+<p>This behaviour can be explained on the basis of the arguments developed in ref.&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>]. The chimneys are due to a Rayleigh-Taylor&ndash;like instability of the vapor film. The instability characteristic length can be determined by triggering the instability with a small sinusoidal perturbation. In doing so, the critical radius above which chimneys are observed, <italic>R</italic><sub><italic>c</italic></sub>, is found to be linked with the height of the puddle <inline-formula id="epl17032ieqn92"><tex-math><?CDATA $h=2\ a$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn92.gif"/>
+</inline-formula>, namely <inline-formula id="epl17032ieqn93"><tex-math><?CDATA $R_c=3.84\ a$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn93.gif"/>
+</inline-formula>&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>]. In their study of a drop levitating over blown air, Snoeijer <italic>et al.</italic> find a maximum stable radius <inline-formula id="epl17032ieqn94"><tex-math><?CDATA $R_c \simeq 3.95\ a$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn94.gif"/>
+</inline-formula>.&nbsp;[<xref ref-type="bibr" rid="epl17032bib4">4</xref>], a close value indeed. The distance between adjacent chimneys is not the same quantity as <italic>R</italic><sub><italic>c</italic></sub>, but appears to be slightly above twice the critical radius found in experiments and theory&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>,<xref ref-type="bibr" rid="epl17032bib4">4</xref>,<xref ref-type="bibr" rid="epl17032bib8">8</xref>].</p>
+</sec>
+<sec id="epl17032s3-3">
+<title>Leidenfrost point</title>
+<p>Despite the fact that the Leidenfrost effect has been studied extensively for some time, the description of the physical mechanisms that determine the Leidenfrost point is not complete. It is commonly defined as the temperature of the substrate at which the total evaporation time of a drop on a substrate above the boiling point is the longest&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>,<xref ref-type="bibr" rid="epl17032bib19">19</xref>,<xref ref-type="bibr" rid="epl17032bib20">20</xref>,<xref ref-type="bibr" rid="epl17032bib23">23</xref>,<xref ref-type="bibr" rid="epl17032bib27">27</xref>]. However, its dependence on parameters such as the thermal properties of the substrate, the nature of the liquid or the relative humidity is still unclear. In particular, the disruption of the film occur at higher temperature on rough substrates&nbsp;[<xref ref-type="bibr" rid="epl17032bib20">20</xref>&ndash;<xref ref-type="bibr" rid="epl17032bib23">23</xref>], but superhydrophobic substrates that are rough <italic>per se</italic> are characterized by a lower Leidenfrost point&nbsp;[<xref ref-type="bibr" rid="epl17032bib24">24</xref>], just as for rough hydrophobic substrates&nbsp;[<xref ref-type="bibr" rid="epl17032bib25">25</xref>].</p>
+<p>From there we decided to take advantage of the LDC to study the influence of the gravity on the Leidenfrost point. A small but systematic shift of the Leidenfrost point is observed when the gravity is increased, <italic>i.e.</italic> from <inline-formula id="epl17032ieqn95"><tex-math><?CDATA $225\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn95.gif"/>
+</inline-formula> at <inline-formula id="epl17032ieqn96"><tex-math><?CDATA $\Gamma=1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn96.gif"/>
+</inline-formula> to <inline-formula id="epl17032ieqn97"><tex-math><?CDATA $240\ ^{\circ} \text{C}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn97.gif"/>
+</inline-formula> at <inline-formula id="epl17032ieqn98"><tex-math><?CDATA $\Gamma=20$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn98.gif"/>
+</inline-formula>, as illustrated in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig7">7</xref>.</p>
+<fig id="epl17032fig7" position="float" fig-type="figure">
+<label>Fig. 7:</label>
+<caption id="epl17032fc7">
+<p>(Colour on-line) The Leidenfrost point with respect to the reduced gravity &Gamma;.</p>
+</caption>
+<graphic id="epl17032f7_eps" content-type="print" xlink:href="epl17032f7_pr.eps"/>
+<graphic id="epl17032f7_online" content-type="online" xlink:href="epl17032f7_online.jpg"/>
+</fig>
+<p>The large uncertainties originate from the temperature step between two points in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig2">2</xref>. However, smaller steps would not have decreased the uncertainties drastically because, at these scales, the cooling of the substrate between the Leidenfrost drops may become significant and difficult to estimate.</p>
+<p>Even though it is not possible to extract some scaling, a qualitative reasoning is possible. It can intuitively be expected that the Leidenfrost effect takes place when the vapor film is thick enough to prevent any contact between the liquid drop and the substrate. Under the hypothesis of a flat drop bottom, the thickness of the vapor film under a puddle&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>] reads
+<disp-formula id="epl17032eqn5">
+<label>5</label><tex-math><?CDATA \begin{equation}
+h=\left(\frac{3\kappa_v\Delta T\eta_v}{4L\rho_v\rho\Gamma ga}\right)^{1/4}R^{1/2}.
+\end{equation} ?></tex-math>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032eqn5.gif"/>
+</disp-formula></p>
+<p>Focusing on the role of gravity and temperature one can then find, for a given volume of liquid <inline-formula id="epl17032ieqn99"><tex-math><?CDATA $V \simeq2\pi R^2a$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn99.gif"/>
+</inline-formula>, that the thickness of the vapor film depends indeed on the plate temperature <inline-formula id="epl17032ieqn100"><tex-math><?CDATA $h\sim\Delta T^{1/4} $ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn100.gif"/>
+</inline-formula>, but not anymore on the reduced gravity. Then, if it is assumed that this thickness needs to be higher than some threshold value for the film not to be disrupted, no effect of gravity on the Leidenfrost point is expected.</p>
+<p>Figure&nbsp;<xref ref-type="fig" rid="epl17032fig7">7</xref> indicates however that the critical temperature does slightly increase with the gravity level, pointing to a need for a more accurate description of the vapor layer.</p>
+<p>Considering the model of Sobac <italic>et al.</italic>&nbsp;[<xref ref-type="bibr" rid="epl17032bib8">8</xref>], we see indeed that the film is not flat and that the minimum thickness of the vapor film, at the so-called neck, does decrease significantly (25&percnt;) with the reduced gravity (inset of fig.&nbsp;<xref ref-type="fig" rid="epl17032fig4">4</xref>). This would imply a larger temperature to maintain <inline-formula id="epl17032ieqn101"><tex-math><?CDATA $h_{\textit{neck}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn101.gif"/>
+</inline-formula> above a threshold value and avoid contact between the drop and the plate, and thus a larger Leidenfrost point. This refined model is thus qualitatively consistent with the observations in fig.&nbsp;<xref ref-type="fig" rid="epl17032fig7">7</xref>. Note however that this aspect needs to be studied further. In particular, it appears that the rate of decrease of <inline-formula id="epl17032ieqn102"><tex-math><?CDATA $h_{\textit{neck}}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17032ieqn102.gif"/>
+</inline-formula> with &Gamma; is strongly dependent upon the volume of the droplet, which, moreover, continuously decreases during the evaporation process. It is therefore impossible to characterize it by a single scaling law, and the prediction of the Leidenfrost point might therefore require more advanced models to be developed.</p>
+</sec>
+</sec>
+<sec id="epl17032s4">
+<title>Conclusion</title>
+<p>Leidenfrost drops were studied in a variable-gravity environment between 1 and 20 times the Earth gravity. The evaporation dynamics was studied by imaging the apparent radius of the drop with time, and by measuring the lifetime of a drop <italic>vs.</italic> temperature. Simple modeling in terms of classical scalings&nbsp;[<xref ref-type="bibr" rid="epl17032bib3">3</xref>] satisfactorily rationalizes experiments, <italic>e.g.</italic> in terms of drop lifetime and shape modification. More surprisingly, we found that the Leidenfrost point is slightly shifted towards larger temperatures as the gravity is increased. Even though this effect is not fully understood, it appears that explaining it might require the detailed thickness profile of the vapor film to be taken into account.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>SD, PC, and MB thank F.R.S.-FNRS for financial support (the first two for their Senior Research Associate position, and MB for his FRIA fellowship). This research has been funded by the Interuniversity Attraction Pole Programme (IAP 7/38 MicroMAST) initiated by the Belgian Science Policy Office, and by the ODILE FRFC 2.4623 project initiated by F.R.S.-FNRS. The authors thank ESA and ELGRA for allowing the access to the LDC facility throughout the project. The authors thank the &ldquo;Spin Your Thesis&rdquo; program. A-LB thanks the ANR through <italic>Freeflow</italic> project for financial support. The authors would also like to warmly thank M. <sc>M&eacute;lard</sc> and <sc>S. Rondia</sc> for the experimental setup.</p>
+</ack>
+<ref-list content-type="numerical">
+<title>References</title>
+<ref id="epl17032bib1">
+<label>1</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gottfried</surname><given-names>B.</given-names></name>
+<name><surname>Lee</surname><given-names>C.</given-names></name>
+<name><surname>Bell</surname><given-names>K.</given-names></name>
+</person-group>
+<year>1966</year>
+<source>Int. J. Heat Mass Transfer</source>
+<volume>9</volume>
+<fpage>1167</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib2">
+<label>2</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Leidenfrost</surname><given-names>J. G.</given-names></name>
+</person-group>
+<year>1756</year>
+<source>De Aquae Communis Nonnullis Qualitatibus Tractatus</source> 
+<publisher-loc>Duisburg</publisher-loc>
+</element-citation>
+</ref>
+<ref id="epl17032bib3">
+<label>3</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Biance</surname><given-names>A.&hyphen;L.</given-names></name>
+<name><surname>Clanet</surname><given-names>C.</given-names></name>
+<name><surname>Qu&eacute;r&eacute;</surname><given-names>D.</given-names></name>
+</person-group>
+<year>2003</year>
+<source>Phys. Fluids</source>
+<volume>15</volume>
+<fpage>1632</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib4">
+<label>4</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Snoeijer</surname><given-names>J. H.</given-names></name>
+<name><surname>Brunet</surname><given-names>P.</given-names></name>
+<name><surname>Eggers</surname><given-names>J.</given-names></name>
+</person-group>
+<year>2009</year>
+<source>Phys. Rev. E</source>
+<volume>79</volume>
+<elocation-id content-type="artnum">036307</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib5">
+<label>5</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Myers</surname><given-names>T. G.</given-names></name>
+<name><surname>Charpin</surname><given-names>J. P. F.</given-names></name>
+</person-group>
+<year>2009</year>
+<source>Phys. Fluids</source>
+<volume>21</volume>
+<elocation-id content-type="artnum">063101</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib6">
+<label>6</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Pomeau</surname><given-names>Y.</given-names></name>
+<name><surname>Le Berre</surname><given-names>M.</given-names></name>
+<name><surname>Celestini</surname><given-names>F.</given-names></name>
+<name><surname>Frisch</surname><given-names>T.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>C. R. Mec.</source>
+<volume>340</volume>
+<fpage>867</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib7">
+<label>7</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Xu</surname><given-names>X.</given-names></name>
+<name><surname>Qian</surname><given-names>T.</given-names></name>
+</person-group>
+<year>2013</year>
+<source>Phys. Rev. E</source>
+<volume>87</volume>
+<elocation-id content-type="artnum">043013</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib8">
+<label>8</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sobac</surname><given-names>B.</given-names></name>
+<name><surname>Rednikov</surname><given-names>A.</given-names></name>
+<name><surname>Dorbolo</surname><given-names>S.</given-names></name>
+<name><surname>Colinet</surname><given-names>P.</given-names></name>
+</person-group>
+<year>2014</year>
+<source>Phys. Rev. E</source>
+<volume>90</volume>
+<elocation-id content-type="artnum">053011</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib9">
+<label>9</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Burton</surname><given-names>J. C.</given-names></name>
+<name><surname>Sharpe</surname><given-names>A. L.</given-names></name>
+<name><surname>van der Veen</surname><given-names>R. C. A.</given-names></name>
+<name><surname>Franco</surname><given-names>A.</given-names></name>
+<name><surname>Nagel</surname><given-names>S. R.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>Phys. Rev. Lett.</source>
+<volume>109</volume>
+<elocation-id content-type="artnum">074301</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib10">
+<label>10</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Duchemin</surname><given-names>L.</given-names></name>
+<name><surname>Lister</surname><given-names>J. R.</given-names></name>
+<name><surname>Lange</surname><given-names>U.</given-names></name>
+</person-group>
+<year>2005</year>
+<source>J. Fluid Mech.</source>
+<volume>533</volume>
+<fpage>161</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib11">
+<label>11</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lister</surname><given-names>J. R.</given-names></name>
+<name><surname>Thompson</surname><given-names>A. B.</given-names></name>
+<name><surname>Perriot</surname><given-names>A.</given-names></name>
+<name><surname>Duchemin</surname><given-names>L.</given-names></name>
+</person-group>
+<year>2008</year>
+<source>J. Fluid Mech.</source>
+<volume>617</volume>
+<fpage>167</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib12">
+<label>12</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Eggers</surname><given-names>J.</given-names></name>
+<name><surname>Fontelos</surname><given-names>M. A.</given-names></name>
+<name><surname>Josserand</surname><given-names>C.</given-names></name>
+<name><surname>Zaleski</surname><given-names>S.</given-names></name>
+</person-group>
+<year>2010</year>
+<source>Phys. Fluids</source>
+<volume>22</volume>
+<elocation-id content-type="artnum">062101</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib13">
+<label>13</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Biance</surname><given-names>A.&hyphen;L.</given-names></name>
+<name><surname>Pirat</surname><given-names>C.</given-names></name>
+<name><surname>Ybert</surname><given-names>C.</given-names></name>
+</person-group>
+<year>2011</year>
+<source>Phys. Fluids</source>
+<volume>23</volume>
+<elocation-id content-type="artnum">022104</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib14">
+<label>14</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tran</surname><given-names>T.</given-names></name>
+<name><surname>Staat</surname><given-names>H. J. J.</given-names></name>
+<name><surname>Prosperetti</surname><given-names>A.</given-names></name>
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+<name><surname>Lohse</surname><given-names>D.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>Phys. Rev. Lett.</source>
+<volume>108</volume>
+<elocation-id content-type="artnum">036101</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib15">
+<label>15</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lastakowski</surname><given-names>H.</given-names></name>
+<name><surname>Boyer</surname><given-names>F.</given-names></name>
+<name><surname>Biance</surname><given-names>A.&hyphen;L.</given-names></name>
+<name><surname>Pirat</surname><given-names>C.</given-names></name>
+<name><surname>Ybert</surname><given-names>C.</given-names></name>
+</person-group>
+<year>2014</year>
+<source>J. Fluid Mech.</source>
+<volume>747</volume>
+<fpage>103</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib16">
+<label>16</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Linke</surname><given-names>H.</given-names></name>
+<name><surname>Alem&aacute;n</surname><given-names>B. J.</given-names></name>
+<name><surname>Melling</surname><given-names>L. D.</given-names></name>
+<name><surname>Taormina</surname><given-names>M. J.</given-names></name>
+<name><surname>Francis</surname><given-names>M. J.</given-names></name>
+<name><surname>Dow&hyphen;Hygelund</surname><given-names>C. C.</given-names></name>
+<name><surname>Narayanan</surname><given-names>V.</given-names></name>
+<name><surname>Taylor</surname><given-names>R. P.</given-names></name>
+<name><surname>Stout</surname><given-names>A.</given-names></name>
+</person-group>
+<year>2006</year>
+<source>Phys. Rev. Lett.</source>
+<volume>96</volume>
+<elocation-id content-type="artnum">154502</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib17">
+<label>17</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Dupeux</surname><given-names>G.</given-names></name>
+<name><surname>Le Merrer</surname><given-names>M.</given-names></name>
+<name><surname>Lagubeau</surname><given-names>G.</given-names></name>
+<name><surname>Clanet</surname><given-names>C.</given-names></name>
+<name><surname>Hardt</surname><given-names>S.</given-names></name>
+<name><surname>Qu&eacute;r&eacute;</surname><given-names>D.</given-names></name>
+</person-group>
+<year>2011</year>
+<source>EPL</source>
+<volume>96</volume>
+<elocation-id content-type="artnum">58001</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib18">
+<label>18</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hashmi</surname><given-names>A.</given-names></name>
+<name><surname>Xu</surname><given-names>Y.</given-names></name>
+<name><surname>Coder</surname><given-names>B.</given-names></name>
+<name><surname>Osborne</surname><given-names>P. A.</given-names></name>
+<name><surname>Spafford</surname><given-names>J.</given-names></name>
+<name><surname>Michael</surname><given-names>G. E.</given-names></name>
+<name><surname>Yu</surname><given-names>G.</given-names></name>
+<name><surname>Xu</surname><given-names>J.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>Sci. Rep.</source>
+<volume>2</volume>
+<fpage>797</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib19">
+<label>19</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bernardin</surname><given-names>J. D.</given-names></name>
+<name><surname>Mudawar</surname><given-names>I.</given-names></name>
+</person-group>
+<year>1999</year>
+<source>Trans. ASME</source>
+<volume>121</volume>
+<fpage>894</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib20">
+<label>20</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>H.</given-names></name>
+<name><surname>Truong</surname><given-names>B.</given-names></name>
+<name><surname>Buongiorno</surname><given-names>J.</given-names></name>
+<name><surname>Hu</surname><given-names>L.&hyphen;W.</given-names></name>
+</person-group>
+<year>2011</year>
+<source>Appl. Phys. Lett.</source>
+<volume>98</volume>
+<elocation-id content-type="artnum">083121</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib21">
+<label>21</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kim</surname><given-names>S. H.</given-names></name>
+<name><surname>Ahn</surname><given-names>H. S.</given-names></name>
+<name><surname>Kim</surname><given-names>J.</given-names></name>
+<name><surname>Kaviany</surname><given-names>M.</given-names></name>
+<name><surname>Kim</surname><given-names>M. H.</given-names></name>
+</person-group>
+<year>2013</year>
+<source>Appl. Phys. Lett.</source>
+<volume>102</volume>
+<elocation-id content-type="artnum">233901</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib22">
+<label>22</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Tran</surname><given-names>T.</given-names></name>
+<name><surname>Staat</surname><given-names>H. J. J.</given-names></name>
+<name><surname>Susarrey&hyphen;Arce</surname><given-names>A.</given-names></name>
+<name><surname>Foertsch</surname><given-names>T. C.</given-names></name>
+<name><surname>van Houselt</surname><given-names>A.</given-names></name>
+<name><surname>Gardeniers</surname><given-names>H. J. G. E.</given-names></name>
+<name><surname>Prosperetti</surname><given-names>A.</given-names></name>
+<name><surname>Lohse</surname><given-names>D.</given-names></name>
+<name><surname>Sun</surname><given-names>C.</given-names></name>
+</person-group>
+<year>2013</year>
+<source>Soft Matter</source>
+<volume>9</volume>
+<fpage>3272</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib23">
+<label>23</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kruse</surname><given-names>C.</given-names></name>
+<name><surname>Anderson</surname><given-names>T.</given-names></name>
+<name><surname>Wilson</surname><given-names>C.</given-names></name>
+<name><surname>Zuhlke</surname><given-names>C.</given-names></name>
+<name><surname>Alexander</surname><given-names>D.</given-names></name>
+<name><surname>Gogos</surname><given-names>G.</given-names></name>
+<name><surname>Ndao</surname><given-names>S.</given-names></name>
+</person-group>
+<year>2013</year>
+<source>Langmuir</source>
+<volume>29</volume>
+<fpage>9798</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib24">
+<label>24</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vakarelski</surname><given-names>I. U.</given-names></name>
+<name><surname>Patankar</surname><given-names>N. A.</given-names></name>
+<name><surname>Marston</surname><given-names>J. O.</given-names></name>
+<name><surname>Chan</surname><given-names>D. Y. C.</given-names></name>
+<name><surname>Thoroddsen</surname><given-names>S. T.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>Nature</source>
+<volume>489</volume>
+<fpage>274</fpage>
+</element-citation>
+</ref>
+<ref id="epl17032bib25">
+<label>25</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Arnaldo del Cerro</surname><given-names>D.</given-names></name>
+<name><surname>Mar&iacute;n</surname><given-names>A. G.</given-names></name>
+<name><surname>R&ouml;mer</surname><given-names>G. R. B. E.</given-names></name>
+<name><surname>Pathiraj</surname><given-names>B.</given-names></name>
+<name><surname>Lohse</surname><given-names>D.</given-names></name>
+<name><surname>in &rsquo;t Veld</surname><given-names>A. H.</given-names></name>
+</person-group>
+<year>2012</year>
+<source>Langmuir</source>
+<volume>28</volume>
+<elocation-id content-type="artnum">15106</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17032bib26">
+<label>26</label>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>de Gennes</surname><given-names>P.&hyphen;G.</given-names></name>
+<name><surname>Brochard&hyphen;Wyart</surname><given-names>F.</given-names></name>
+<name><surname>Qu&eacute;r&eacute;</surname><given-names>D.</given-names></name>
+</person-group>
+<year>2002</year>
+<source>Gouttes, bulles, perles et ondes</source> 
+<publisher-loc>Belin Paris</publisher-loc>
+</element-citation>
+</ref>
+<ref id="epl17032bib27">
+<label>27</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>A.&hyphen;B.</given-names></name>
+<name><surname>Lin</surname><given-names>C.&hyphen;H.</given-names></name>
+<name><surname>Chen</surname><given-names>C.&hyphen;C.</given-names></name>
+</person-group>
+<year>2000</year>
+<source>Phys. Fluids</source>
+<volume>12</volume>
+<fpage>1622</fpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

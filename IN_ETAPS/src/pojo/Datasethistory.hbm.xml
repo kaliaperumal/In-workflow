@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 8 May, 2015 9:54:40 AM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="pojo.Datasethistory" table="datasethistory" catalog="etaps1">
+        <id name="sno" type="java.lang.Integer">
+            <column name="sno" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="datasetstatus" class="pojo.Datasetstatus" fetch="select">
+            <column name="DatasetStatusID" not-null="true"  />
+        </many-to-one>        
+        
+        <property name="Datasetid" type="string">
+        	<column name="Datasetid" length="30"/>
+        </property>
+        
+         <property name="stage" type="string">
+        	<column name="Stage" length="50"/>
+        </property>
+        
+        <property name="message" type="string">
+            <column name="Message" length="400" />
+        </property>
+        <property name="processTime" type="timestamp">
+            <column name="ProcessTime" length="19" />
+        </property>
+    </class>
+</hibernate-mapping>

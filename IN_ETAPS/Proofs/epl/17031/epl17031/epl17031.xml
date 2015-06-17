@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article article-type="rapid-communication" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">epl</journal-id>
+<journal-id journal-id-type="coden">EULEEJ</journal-id>
+<journal-title-group>
+<journal-title>Europhysics Letters</journal-title>
+<abbrev-journal-title abbrev-type="IOP">EPL</abbrev-journal-title>
+<abbrev-journal-title abbrev-type="publisher">EPL</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0295-5075</issn>
+<issn pub-type="epub">1286-4854</issn>
+<publisher>
+<publisher-name>EDP Sciences, IOP Publishing and Societ&agrave; Italiana di Fisica</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">epl17031</article-id>
+<article-id pub-id-type="doi">10.1209/0295-5075/110/27001</article-id>
+<article-id pub-id-type="manuscript">17031</article-id>
+<article-categories>
+<subj-group subj-group-type="article-type">
+<subject>Letter</subject>
+</subj-group>
+<subj-group subj-group-type="section">
+<subject>70 Condensed matter: electronic structure, electrical, magnetic, and optical properties</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Long-lived spin coherence of indirect excitons in GaAs coupled quantum wells</article-title>
+<alt-title alt-title-type="ascii">Long-lived spin coherence of indirect excitons in GaAs coupled quantum wells</alt-title>
+<alt-title alt-title-type="short">Long-lived spin coherence of indirect excitons in GaAs coupled quantum wells</alt-title>
+<alt-title alt-title-type="short-ascii">Long-lived spin coherence of indirect excitons in GaAs coupled quantum wells</alt-title>
+</title-group>
+<contrib-group content-type="all">
+<contrib contrib-type="author">
+<name><surname>Beian</surname><given-names>Mussie</given-names></name>
+<xref ref-type="aff" rid="epl17031af1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Alloing</surname><given-names>Mathieu</given-names></name>
+<xref ref-type="aff" rid="epl17031af1">1</xref>
+<xref ref-type="aff" rid="epl17031af3">3</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Cambril</surname><given-names>Edmond</given-names></name>
+<xref ref-type="aff" rid="epl17031af2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Carbonell</surname><given-names>Carmen Gomez</given-names></name>
+<xref ref-type="aff" rid="epl17031af2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Osmond</surname><given-names>Johann</given-names></name>
+<xref ref-type="aff" rid="epl17031af1">1</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Lema&icirc;tre</surname><given-names>Aristide</given-names></name>
+<xref ref-type="aff" rid="epl17031af2">2</xref>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Dubin</surname><given-names>Fran&ccedil;ois</given-names></name>
+<xref ref-type="aff" rid="epl17031af1">1</xref>
+<xref ref-type="aff" rid="epl17031af3">3</xref>
+<xref ref-type="aff" rid="epl17031em1">(a)</xref>
+</contrib>
+<aff id="epl17031af1"><label>1</label><institution>ICFO-The Institute of Photonic Sciences</institution> - Av. Carl Friedrich Gauss, num. 3, 08860 Castelldefels, <country>Spain</country></aff>
+<aff id="epl17031af2"><label>2</label><institution>Laboratoire de Photonique et Nanostructures, LPN/CNRS</institution> - Route de Nozay, 91460 Marcoussis, <country>France</country></aff>
+<aff id="epl17031af3"><label>3</label><institution>Institut des Nanosciences de Paris</institution>, CNRS and UPMC - 4 pl. Jussieu, 75005 Paris, <country>France</country></aff>
+<ext-link ext-link-type="email" id="epl17031em1">francois.dubin@insp.jussieu.fr</ext-link>
+<author-comment content-type="short-author-list"><p>Mussie Beian <italic>et al</italic>.</p>
+</author-comment>
+</contrib-group>
+<pub-date pub-type="ppub"><month>4</month><year>2015</year></pub-date>
+<pub-date pub-type="epub"><day>30</day><month>4</month><year>2015</year></pub-date>
+<volume>110</volume>
+<issue>2</issue>
+<elocation-id content-type="artnum">27001</elocation-id>
+<history>
+<date date-type="received"><day>30</day><month>1</month><year>2015</year></date>
+<date date-type="accepted"><day>7</day><month>4</month><year>2015</year></date>
+</history>
+<permissions>
+<copyright-statement>Copyright &copy; EPLA, 2015</copyright-statement>
+<copyright-year>2015</copyright-year>
+</permissions>
+<self-uri xlink:href="http://stacks.iop.org/EPL/110/27001"/>
+<abstract>
+<title>Abstract</title>
+<p>We study spatially indirect excitons confined in a symmetric GaAs double quantum well. We show that the spin polarisation of very dilute gases can be optically imprinted, in both pure and superposition states. In the regime where indirect excitons can be localized, we observe at 350 mK that the excitons spin degree of freedom is frozen with a relaxation time comparable to the coherence time and to the radiative lifetime <inline-formula id="epl17031ieqn1"><tex-math><?CDATA $(\sim 30\ \text{ns})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn1.gif"/>
+</inline-formula>.</p>
+</abstract>
+<kwd-group kwd-group-type="author-pacs">
+<kwd>73.63.Hs</kwd>
+<kwd>78.47.jd</kwd>
+</kwd-group>
+<counts>
+<page-count count="5"/>
+</counts>
+<custom-meta-group>
+<custom-meta>
+<meta-name>ccc</meta-name>
+<meta-value></meta-value>
+</custom-meta>
+<custom-meta><meta-name>printed</meta-name>
+<meta-value>Printed in France</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body>
+<sec id="epl17031s1">
+<title></title>
+<p>Over the last decade, the spin degree of freedom of semiconductor excitons has been intensively studied, both experimentally and theoretically. The mechanisms responsible for excitons spin flips have first been identified in the regime where excitons are delocalised. These include momentum scatterings to flip electron spins, energy relaxation in the valence bands to flip hole spins as well as inter-band Coulomb (exchange) scatterings&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib4">4</xref>]. Usually, they lead to short <inline-formula id="epl17031ieqn2"><tex-math><?CDATA $(\sim 100\ \text{ps})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn2.gif"/>
+</inline-formula> exciton spin relaxation times&nbsp;[<xref ref-type="bibr" rid="epl17031bib5">5</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib7">7</xref>]. By contrast, in the regime where excitons are confined in every direction, <italic>e.g.</italic> in a quantum dot, the spin relaxation is damped by the quantisation of the excitons momentum and its resulting distribution of accessible energy states. Excitonic spins can then be &ldquo;frozen&rdquo; with a relaxation time increased to about 10 ns&nbsp;[<xref ref-type="bibr" rid="epl17031bib8">8</xref>], <italic>i.e.</italic> an order of magnitude longer than the excitons radiative lifetime <inline-formula id="epl17031ieqn3"><tex-math><?CDATA $(\sim1\ \text{ns})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn3.gif"/>
+</inline-formula>, which actually sets an upper bound for spin manipulations. Localized excitons with a long radiative lifetime are in fact among the most promising candidates to develop semiconductor architectures for quantum information science&nbsp;[<xref ref-type="bibr" rid="epl17031bib9">9</xref>].</p>
+<p>The lifetime of semiconductor excitons may be directly tuned through the spatial overlap between the excitons constituents. This is notably achieved in electrically biased coupled quantum wells where one enforces a spatial separation between electrons and holes. Thus, spatially indirect excitons are engineered. Here, we show that indirect excitons have a long-lived spin coherence, of the order of the radiative lifetime <inline-formula id="epl17031ieqn4"><tex-math><?CDATA $(\sim 30\ \text{ns})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn4.gif"/>
+</inline-formula>. This is achieved below a few kelvins in a very dilute regime where indirect excitons can be localized. Thus, we observe that photo-injected electrons and holes have a frozen spin. This allows us to program all-optically arbitrary spin polarizations for indirect excitons, <italic>e.g.</italic> pure or superposition states. Let us then note that our experiments are performed on a spin ensemble distributed over <inline-formula id="epl17031ieqn5"><tex-math><?CDATA $\approx 5\ \mu \text{m}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn5.gif"/>
+</inline-formula>. The average spin polarisation is then manipulated at an efficiency <italic>a priori</italic> limited by inhomogeneous broadening, <italic>i.e.</italic> by the spatial variations of the effective magnetic field acting on individual spins. We therefore expect our degree of control to be significantly enhanced at the single-exciton level using the appropriate technology&nbsp;[<xref ref-type="bibr" rid="epl17031bib10">10</xref>].</p>
+<p>To probe the excitons spin degree of freedom, polarisation-resolved photoluminescence provides a direct and handful approach&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib3">3</xref>]: Photoluminescence results from the recombination of optically active states <inline-formula id="epl17031ieqn6"><tex-math><?CDATA $(|\pm1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn6.gif"/>
+</inline-formula>, <italic>i.e.</italic> with a total &ldquo;spin&rdquo;&nbsp;<inline-formula id="epl17031ieqn7"><tex-math><?CDATA $(\pm 1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn7.gif"/>
+</inline-formula>. A spin flip of either of the exciton constituents, <inline-formula id="epl17031ieqn8"><tex-math><?CDATA $(\mp 1/2)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn8.gif"/>
+</inline-formula> electron or <inline-formula id="epl17031ieqn9"><tex-math><?CDATA $(\pm 3/2)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn9.gif"/>
+</inline-formula> hole, converts these bright excitons into optically inactive (dark) ones, <italic>i.e.</italic> with a total spin <inline-formula id="epl17031ieqn10"><tex-math><?CDATA $(\pm 2)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn10.gif"/>
+</inline-formula>. This yields a loss of photoluminescence. By contrast electron-hole exchange, <italic>i.e.</italic> a simultaneous spin flip of both electron and hole, turns a bright exciton with a spin <inline-formula id="epl17031ieqn11"><tex-math><?CDATA $(+1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn11.gif"/>
+</inline-formula> into a bright exciton with, however, a spin <inline-formula id="epl17031ieqn12"><tex-math><?CDATA $(-1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn12.gif"/>
+</inline-formula>, or vice versa. Individual carrier spin flips as well as electron-hole exchange then control the dynamics of polarisation-resolved photoluminescence&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>], <italic>i.e.</italic> of the, <inline-formula id="epl17031ieqn13"><tex-math><?CDATA $|+1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn13.gif"/>
+</inline-formula> and <inline-formula id="epl17031ieqn14"><tex-math><?CDATA $|-1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn14.gif"/>
+</inline-formula>, populations of bright excitons.</p>
+<p>The dynamics of exciton spins have been well highlighted in GaAs quantum wells through time-resolved photoluminescence. It has revealed electronic spin flips through a multi-component decay in polarisation-resolved spectroscopy (characteristic timescales are in the range of tens to hundreds of picoseconds&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib3">3</xref>,<xref ref-type="bibr" rid="epl17031bib5">5</xref>]). In coupled quantum wells (CQWs) where electrons and holes are spatially separated, the spin relaxation of indirect excitons has been found very different&nbsp;[<xref ref-type="bibr" rid="epl17031bib11">11</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib13">13</xref>]. Experiments have shown that when prepared in a pure state <inline-formula id="epl17031ieqn15"><tex-math><?CDATA $(|\pm1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn15.gif"/>
+</inline-formula>, indirect excitons exhibit a very long-lived polarisation&nbsp;[<xref ref-type="bibr" rid="epl17031bib14">14</xref>] with a time decay that can even exceed the radiative lifetime <inline-formula id="epl17031ieqn16"><tex-math><?CDATA $(\approx 100\ \text{ns})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn16.gif"/>
+</inline-formula>, <italic>i.e.</italic> orders of magnitude more than direct excitons or free electrons&nbsp;[<xref ref-type="bibr" rid="epl17031bib15">15</xref>]. In this letter, we extend this degree of control. We show that the spin of indirect excitons can be prepared in coherent superpositions, <italic>i.e.</italic> with a linear polarisation such as <inline-formula id="epl17031ieqn17"><tex-math><?CDATA $|H\rangle\equiv (|1\rangle+|-1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn17.gif"/>
+</inline-formula> or <inline-formula id="epl17031ieqn18"><tex-math><?CDATA $|V\rangle\equiv (|1\rangle-|-1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn18.gif"/>
+</inline-formula>. Thus, we evidence a regime where the spin degree of freedom of photo-injected electronic carriers is frozen and the excitons spin coherence protected.</p>
+<p>Figure&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(a), (b) provides a sketch of our experiments: We study indirect excitons confined in a <inline-formula id="epl17031ieqn23"><tex-math><?CDATA $50\ \mu \text{m}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn23.gif"/>
+</inline-formula> wide disk-shaped electrostatic trap of a symmetric GaAs CQW (the CQW consists of two 8 nm wide GaAs quantum wells separated by a 4 nm <inline-formula id="epl17031ieqn24"><tex-math><?CDATA $\mathrm{Al}_{.33}\ \mathrm{Ga}_{.67}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn24.gif"/>
+</inline-formula>As barrier). It is placed 100 nm above a n-doped GaAs substrate serving as ground electrode whereas the strength of the electric field in the plane of the CQW is controlled by the static bias <inline-formula id="epl17031ieqn25"><tex-math><?CDATA $(V_g)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn25.gif"/>
+</inline-formula> applied on the surface semi-transparent electrode located 900 nm above the CQW. In our experiments, electronic carriers are directly injected in the trap using 50 ns long laser pulses (at 4 MHz repetition rate). This pump laser is slightly red-detuned from the resonance of the direct excitonic transition of each quantum well. It is focussed down to <inline-formula id="epl17031ieqn26"><tex-math><?CDATA $\sim 4\ \mu \text{m}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn26.gif"/>
+</inline-formula> and in most of the following experiments the mean optical power is set to 100 nW such that we restrict our studies to very dilute gases. Varying the polarisation of the pump laser we control the spin polarisation of direct excitons injected in the two quantum wells. Energy relaxation then leads to the formation of indirect excitons (fig.&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(b)) with a spin polarisation that can reflect the initial laser polarisation.</p>
+<fig id="epl17031fig1" position="float" fig-type="figure">
+<label>Fig. 1:</label>
+<caption id="epl17031fc1">
+<p>(Colour on-line) (a), (b): schematic representation of our experiments. Direct excitons (DX) are quasi-resonantly excited by a pump pulse which leads to indirect excitons (IX) once electronic carriers have tunnelled towards minimum energy states. Photoluminescence (PL) emitted by indirect excitons is then analysed. (c) Degree of spin polarisation <inline-formula id="epl17031ieqn19"><tex-math><?CDATA $(\eta_{+})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn19.gif"/>
+</inline-formula>&nbsp;<italic>vs.</italic> the applied gate voltage <italic>V</italic><sub><italic>g</italic></sub> together with the energy of the <inline-formula id="epl17031ieqn20"><tex-math><?CDATA $\sigma^{+}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn20.gif"/>
+</inline-formula> and <inline-formula id="epl17031ieqn21"><tex-math><?CDATA $\sigma^{-}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn21.gif"/>
+</inline-formula> polarised photoluminescence, black and blue, respectively. (d)&ndash;(f): photoluminescence spectra emitted for <inline-formula id="epl17031ieqn22"><tex-math><?CDATA $V_g= \{-2.3,-1.7,-1.4\}\ \mathrm{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn22.gif"/>
+</inline-formula> (from left to right). Measurements have been realised at 350 mK and acquired in the illuminated region, in a 10 ns time interval starting 10 ns after extinction of the laser excitation.</p>
+</caption>
+<graphic id="epl17031f1_eps" content-type="print" xlink:href="epl17031f1_pr.eps"/>
+<graphic id="epl17031f1_online" content-type="online" xlink:href="epl17031f1_online.jpg"/>
+</fig>
+<p>Figure&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(c) shows the efficiency at which <inline-formula id="epl17031ieqn27"><tex-math><?CDATA $(+1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn27.gif"/>
+</inline-formula> spin-polarised indirect excitons are created after a <inline-formula id="epl17031ieqn28"><tex-math><?CDATA $\sigma^+$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn28.gif"/>
+</inline-formula> polarized pump pulse, as a function of <italic>V</italic><sub><italic>g</italic></sub>. The degree of polarisation, <inline-formula id="epl17031ieqn29"><tex-math><?CDATA $\eta_{+}= (I_{\sigma^+}-I_{\sigma^-})/(I_{\sigma^+}+I_{\sigma^-})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn29.gif"/>
+</inline-formula> with <inline-formula id="epl17031ieqn30"><tex-math><?CDATA $I_{(\sigma^+,\sigma^-)}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn30.gif"/>
+</inline-formula> being the integrated intensity of the <inline-formula id="epl17031ieqn31"><tex-math><?CDATA $(\sigma^+,\sigma^-)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn31.gif"/>
+</inline-formula> polarised photoluminescence, is measured only in the illuminated region and 10 ns after extinction of the pump laser, as for most of our experiments. Overall <inline-formula id="epl17031ieqn32"><tex-math><?CDATA $\eta_{+}\geq 15{\%}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn32.gif"/>
+</inline-formula> reveals that the spin polarization is significant and long-lived. In addition, we note that <inline-formula id="epl17031ieqn33"><tex-math><?CDATA $\eta_{+}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn33.gif"/>
+</inline-formula> exhibits a non-monotonic dependence with <inline-formula id="epl17031ieqn34"><tex-math><?CDATA $|V_g|$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn34.gif"/>
+</inline-formula>: it first increases to reach its <inline-formula id="epl17031ieqn35"><tex-math><?CDATA $\approx 32{\%}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn35.gif"/>
+</inline-formula> maximum at <inline-formula id="epl17031ieqn36"><tex-math><?CDATA $V_g = -1.7\ \text{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn36.gif"/>
+</inline-formula>, before it decreases for larger gate voltages. This behaviour may first be related to the dependence of the electron and hole inter-well tunnelling with the applied gate voltage: Varying <italic>V</italic><sub><italic>g</italic></sub> one modifies the tunnelling rate of electrons and holes between the two quantum wells of our heterostructure&nbsp;[<xref ref-type="bibr" rid="epl17031bib16">16</xref>]. The spin polarisation of indirect excitons being only established when the carriers tunnelling time is fast compared to their spin relaxation time, one cannot exclude that the variation of <inline-formula id="epl17031ieqn37"><tex-math><?CDATA $\eta_+$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn37.gif"/>
+</inline-formula> with <italic>V</italic><sub><italic>g</italic></sub> results from modified electrons and holes tunnelling rates between the two quantum wells. At the same time, the electron (hole) spin relaxation also depends on <italic>V</italic><sub><italic>g</italic></sub>&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>] which hinders the mechanisms ruling the excitons spin polarisation.</p>
+<p>To further study the excitons spin polarisation, we analysed the photoluminescence spectra for particular gate voltages, <inline-formula id="epl17031ieqn38"><tex-math><?CDATA $V_g= \{-1.4,-1.7,-2.3\}\ \text{volts}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn38.gif"/>
+</inline-formula>. As shown in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(d)&ndash;(f), these display two components: A high-energy emission due to the recombination of indirect excitons, and a second contribution at lower energy reflecting the interaction between indirect excitons and excess carriers&nbsp;[<xref ref-type="bibr" rid="epl17031bib17">17</xref>]. The latter emission is usually referred to as charged exciton line and for our field-effect device excess carriers are most probably electrons from the leakage current (&sim; nA). Interestingly, fig.&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(d)&ndash;(f) signals that the relative weight between the two components of the spectrum varies strongly in the range of <italic>V</italic><sub><italic>g</italic></sub> that we explored. Precisely, increasing <inline-formula id="epl17031ieqn40"><tex-math><?CDATA $|V_g|$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn40.gif"/>
+</inline-formula> the amplitude of the low-energy emission is continuously reduced. This manifests the decrease of the concentration of excess electrons interacting with indirect excitons, <italic>i.e.</italic> that electro-neutrality is better fulfilled in the CQW. The spin polarisation being best imprinted for <inline-formula id="epl17031ieqn41"><tex-math><?CDATA $V_{g}= -1.7\ \text{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn41.gif"/>
+</inline-formula>, <italic>i.e.</italic> somewhat in the middle of this range, we may conclude, as for two-dimensional electron gases&nbsp;[<xref ref-type="bibr" rid="epl17031bib18">18</xref>], that at this particular setting excess electrons contribute to the damping of spin relaxation channels. This may be achieved through localisation of indirect excitons. In such a case, electric-field&ndash;induced modifications of spin-orbit interactions&nbsp;[<xref ref-type="bibr" rid="epl17031bib4">4</xref>,<xref ref-type="bibr" rid="epl17031bib19">19</xref>] would not be dominant. This conclusion is further supported by the weak variation (within our instrumental precision of <inline-formula id="epl17031ieqn42"><tex-math><?CDATA $\sim 100\ \mu \text{eV}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn42.gif"/>
+</inline-formula>) of the energy splitting between <inline-formula id="epl17031ieqn43"><tex-math><?CDATA $|+1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn43.gif"/>
+</inline-formula> and <inline-formula id="epl17031ieqn44"><tex-math><?CDATA $|-1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn44.gif"/>
+</inline-formula> energy levels (fig.&nbsp;<xref ref-type="fig" rid="epl17031fig1">1</xref>(c)).</p>
+<p>In a subsequent experiment, we measured <inline-formula id="epl17031ieqn49"><tex-math><?CDATA $\eta_{+}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn49.gif"/>
+</inline-formula> while increasing the bath temperature which we used to promote exciton delocalisation. The results are displayed in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig2">2</xref>(a) and show that the degree of spin polarisation drops rapidly above <inline-formula id="epl17031ieqn50"><tex-math><?CDATA $\sim 2\ \text{K}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn50.gif"/>
+</inline-formula>, <italic>i.e.</italic> when the thermal activation energy is about <inline-formula id="epl17031ieqn51"><tex-math><?CDATA $150\ \mu \text{eV}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn51.gif"/>
+</inline-formula>. This value well compares to the amplitude of structural disorder that we can estimate from the line width of the direct exciton emission <inline-formula id="epl17031ieqn52"><tex-math><?CDATA $(\sim 400\ \mu \text{eV})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn52.gif"/>
+</inline-formula>. We then performed a control experiment by keeping our device at the lowest bath temperature (350 mK) while the exciton density is increased with the power of our laser excitation. Hence, we increase the strength of repulsive dipolar interactions between excitons yielding a screening of intrinsic disorder (structural or electrostatic) and a triggering of the spatial extension (delocalisation) of the exciton gas&nbsp;[<xref ref-type="bibr" rid="epl17031bib20">20</xref>&ndash;<xref ref-type="bibr" rid="epl17031bib22">22</xref>]. As for an increase of the bath temperature, fig.&nbsp;<xref ref-type="fig" rid="epl17031fig2">2</xref>(b) signals that enhancing the exciton density also leads to a rapid decrease of the degree of spin polarisation. Precisely, the spin polarisation almost vanishes, at the position of the laser excitation, when the strength of the drift-diffusion induced by dipolar interactions suffices to initiate the expansion of the cold gas. Our observations are then in striking contrast with recent experiments reporting the transport of spin-polarised indirect excitons&nbsp;[<xref ref-type="bibr" rid="epl17031bib23">23</xref>]. In agreement with recent works&nbsp;[<xref ref-type="bibr" rid="epl17031bib13">13</xref>], here the spin polarisation is best established when excitons are efficiently isolated, <italic>i.e.</italic> at the lowest density and bath temperature. In this regime we estimate that the density does not exceed <inline-formula id="epl17031ieqn53"><tex-math><?CDATA $\sim 10^9\ \text{cm}^{-2}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn53.gif"/>
+</inline-formula> since we do not resolve any blue-shift of the photoluminescence while the density is increased. Weak intrinsic disorder <inline-formula id="epl17031ieqn54"><tex-math><?CDATA $(\sim 100\ \mu \text{eV})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn54.gif"/>
+</inline-formula> then prevents excitons from following a continuous bi-dimensional density of states&nbsp;[<xref ref-type="bibr" rid="epl17031bib20">20</xref>,<xref ref-type="bibr" rid="epl17031bib21">21</xref>] and excitons are effectively localised.</p>
+<fig id="epl17031fig2" position="float" fig-type="figure">
+<label>Fig. 2:</label>
+<caption id="epl17031fc2">
+<p>(Colour on-line) (a) Variation of the degree of circular polarisation (<inline-formula id="epl17031ieqn45"><tex-math><?CDATA $\eta_{+}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn45.gif"/>
+</inline-formula>, solid black line) and linear polarisation (<inline-formula id="epl17031ieqn46"><tex-math><?CDATA $\eta_{H}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn46.gif"/>
+</inline-formula>, dashed red line) as a function of the bath temperature. (b) Variation of <inline-formula id="epl17031ieqn47"><tex-math><?CDATA $\eta_{+}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn47.gif"/>
+</inline-formula> as a function of the excitation mean power (solid black line) together with the spatial full width at half-maximum (FWHM) of the exciton gas (dashed red line). Measurements were performed at <inline-formula id="epl17031ieqn48"><tex-math><?CDATA $V_g= -1.7\ \text{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn48.gif"/>
+</inline-formula> and at 350 mK. They were recorded in the illuminated region, 10 ns after extinction of the pump laser. In (a) the mean optical was set to 100 nW.</p>
+</caption>
+<graphic id="epl17031f2_eps" content-type="print" xlink:href="epl17031f2_pr.eps"/>
+<graphic id="epl17031f2_online" content-type="online" xlink:href="epl17031f2_online.jpg"/>
+</fig>
+<p>Above, we have shown that indirect excitons can be prepared in a pure spin state, <italic>i.e.</italic>&nbsp;<inline-formula id="epl17031ieqn55"><tex-math><?CDATA $|\pm1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn55.gif"/>
+</inline-formula>. Creating superposition states is more demanding since these require a well-defined phase relation between the two <inline-formula id="epl17031ieqn56"><tex-math><?CDATA $|\pm1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn56.gif"/>
+</inline-formula> spin components, <italic>e.g.</italic> horizontal and vertical polarisations <inline-formula id="epl17031ieqn57"><tex-math><?CDATA $|H\rangle\equiv (|1\rangle+ |-1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn57.gif"/>
+</inline-formula> and <inline-formula id="epl17031ieqn58"><tex-math><?CDATA $|V\rangle\equiv(|1\rangle-|-1\rangle)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn58.gif"/>
+</inline-formula>, respectively. Their successful programmation first implies that a linearly polarised pump pulse allows us to set a linear spin polarisation for direct excitons. While this prerequisite shall be fulfilled&nbsp;[<xref ref-type="bibr" rid="epl17031bib7">7</xref>], electronic carriers will have to maintain the phase of their spin degree of freedom while tunnelling between the two quantum wells. Thus, indirect excitons can be prepared in a superposition spin state. In fig.&nbsp;<xref ref-type="fig" rid="epl17031fig3">3</xref> we show that this control is achievable: By setting the appropriate linear polarisation for the pump laser, we create horizontally or vertically spin-polarised indirect excitons. Let us note that the programmed linear polarisation does not depend on the crystallographic axis, we actually verified that linear spin polarisations can be imprinted along arbitrary directions solely by tuning the polarisation of the pump laser. Furthermore, the spin polarisation is long-lived since the data in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig3">3</xref> was recorded 10 ns after extinction of the excitation. In these experiments, we reached a fidelity, <inline-formula id="epl17031ieqn59"><tex-math><?CDATA $\eta_H\sim\eta_V= 6{\%}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn59.gif"/>
+</inline-formula>, that directly follows from the efficiency at which we created pure states since <inline-formula id="epl17031ieqn60"><tex-math><?CDATA $\eta_H=\eta_\mathrm{\sigma^+}\eta_{\sigma^-}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn60.gif"/>
+</inline-formula>&nbsp;(<inline-formula id="epl17031ieqn60a"><tex-math><?CDATA $\eta_+\sim \eta_- \sim 0.25$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn60a.gif"/>
+</inline-formula> for these measurements, see fig.&nbsp;<xref ref-type="fig" rid="epl17031fig3">3</xref>(a), (b)). In fact, we observed that the efficiency of our optical programation is bound to <inline-formula id="epl17031ieqn61"><tex-math><?CDATA $\sim 10{\%}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn61.gif"/>
+</inline-formula> for superposition states (<italic>e.g.</italic> in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig2">2</xref>). The experiments displayed in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig3">3</xref>(c), (d) nevertheless underline a coherent electron (hole) inter-well tunnelling where spin coherence is preserved, otherwise we could not create horizontal or vertical spin polarisations. Interestingly, we note that coherent inter-well tunnelling has recently been reported for electrically polarised exciton-polaritons&nbsp;[<xref ref-type="bibr" rid="epl17031bib24">24</xref>].</p>
+<fig id="epl17031fig3" position="float" fig-type="figure">
+<label>Fig. 3:</label>
+<caption id="epl17031fc3">
+<p>(Colour on-line) Photoluminescence spectra with circular right and circular left polarisations (solid red and dashed blue lines, respectively) for a <inline-formula id="epl17031ieqn65"><tex-math><?CDATA $\sigma^+$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn65.gif"/>
+</inline-formula> polarised laser excitation (a) and for a <inline-formula id="epl17031ieqn66"><tex-math><?CDATA $\sigma^-$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn66.gif"/>
+</inline-formula> polarised excitation (b). Photoluminescence spectra with horizontal and vertical polarisations (solid red and dashed blue lines, respectively) for horizontally (c) or vertically polarised (d) excitations. The measurements have been realised at <inline-formula id="epl17031ieqn67"><tex-math><?CDATA $V_g =-1.7\ \text{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn67.gif"/>
+</inline-formula> at 350 mK and acquired in the illuminated region 10 ns after termination of the laser excitation.</p>
+</caption>
+<graphic id="epl17031f3_eps" content-type="print" xlink:href="epl17031f3_pr.eps"/>
+<graphic id="epl17031f3_online" content-type="online" xlink:href="epl17031f3_online.jpg"/>
+</fig>
+<p>We assessed the relaxation and coherence times of exciton spins in a last experiment where we monitored the dynamics of the photoluminescence emitted by a <inline-formula id="epl17031ieqn62"><tex-math><?CDATA $(\pm 1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn62.gif"/>
+</inline-formula> spin-polarised gas, or by a gas with linear (<italic>H</italic> or <italic>V</italic>) spin polarisation, in order to infer both the spin relaxation and diffusion, respectively. We performed these measurements in the very dilute regime where we program excitonic spins with highest fidelities. Figure&nbsp;<xref ref-type="fig" rid="epl17031fig4">4</xref> displays our experimental results. We quantify these using the theoretical framework introduced by Sham and co-workers&nbsp;[<xref ref-type="bibr" rid="epl17031bib1">1</xref>]. It is based on a set of rate equations ruling the dynamics of populations in each of the four magnetic levels (the two <inline-formula id="epl17031ieqn63"><tex-math><?CDATA $|\pm1\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn63.gif"/>
+</inline-formula> bright excitons and the dark ones <inline-formula id="epl17031ieqn64"><tex-math><?CDATA $|\pm2\rangle$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn64.gif"/>
+</inline-formula>). These are linearly coupled by individual carrier spin flips as well as electron-hole exchange, at rates ruling the dynamics of the photoluminescence polarisation.</p>
+<fig id="epl17031fig4" position="float" fig-type="figure">
+<label>Fig. 4:</label>
+<caption id="epl17031fc4">
+<p>(Colour on-line) (a) Dynamics of populations with <inline-formula id="epl17031ieqn68"><tex-math><?CDATA $(+1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn68.gif"/>
+</inline-formula> and <inline-formula id="epl17031ieqn69"><tex-math><?CDATA $(-1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn69.gif"/>
+</inline-formula> spins (blue and red, respectively). The inset displays the decay of the spin polarisation, fitted by a single exponential with a 30 ns <inline-formula id="epl17031ieqn70"><tex-math><?CDATA $(T_1)$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn70.gif"/>
+</inline-formula> decay time. (b) Dynamics of the transverse spin populations with <italic>H</italic> and <italic>V</italic> polarisations (blue and red, respectively). The degree of linear spin polarisation is displayed in the inset together with mono-exponential decays with decay times <italic>T</italic><sub>1</sub> and 2<italic>T</italic><sub>1</sub>. In (a) and (b) lines correspond to the best fit for the experimental data. Measurements were realised at 350 mK for <inline-formula id="epl17031ieqn71"><tex-math><?CDATA $V_g= -1.7\ \text{V}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn71.gif"/>
+</inline-formula>, restricted to the illuminated region, with a 2 ns time resolution while laser pulses were terminated at time 0.</p>
+</caption>
+<graphic id="epl17031f4_eps" content-type="print" xlink:href="epl17031f4_pr.eps"/>
+<graphic id="epl17031f4_online" content-type="online" xlink:href="epl17031f4_online.jpg"/>
+</fig>
+<p>As shown in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig4">4</xref>, the excitons dynamics is best fitted with two dominant time decays, namely <italic>T</italic><sub>1</sub> and <italic>T</italic><sub>2</sub> for the relaxation of pure and transverse (coherent) spin polarisations, respectively. For our experiments, we deduce <inline-formula id="epl17031ieqn72"><tex-math><?CDATA $T_1 \sim T_2 \sim 30\ \text{ns} \ \sim\tau_R$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn72.gif"/>
+</inline-formula>, <inline-formula id="epl17031ieqn73"><tex-math><?CDATA $\tau_R$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn73.gif"/>
+</inline-formula> being the radiative lifetime. Within the precision of our fitting routine, we cannot distinguish these parameters with good confidence. Figure&nbsp;<xref ref-type="fig" rid="epl17031fig4">4</xref>(a) then confirms that indirect excitons have a long-lived longitudinal spin relaxation&nbsp;[<xref ref-type="bibr" rid="epl17031bib14">14</xref>,<xref ref-type="bibr" rid="epl17031bib15">15</xref>], but more interestingly fig.&nbsp;<xref ref-type="fig" rid="epl17031fig4">4</xref>(b) shows that they also exhibit a long-lived spin coherence. The latter property implies that individual carrier spin flips are frozen otherwise coherence would be lost&nbsp;[<xref ref-type="bibr" rid="epl17031bib4">4</xref>]. In fact, we estimate that electron or hole spin flips only occur on a slow timescale <inline-formula id="epl17031ieqn74"><tex-math><?CDATA $(\gg 100\ \text{ns})$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn74.gif"/>
+</inline-formula> which cannot be extracted more precisely from our numerical analysis. To the best of our knowledge, such extended relaxation times had not been expected theoretically&nbsp;[<xref ref-type="bibr" rid="epl17031bib25">25</xref>]. Finally, let us stress that the weak degree of linear polarisation does not allow us to extract accurately the excitons spin coherence time (see inset in fig.&nbsp;<xref ref-type="fig" rid="epl17031fig4">4</xref>(b)). We observe that <inline-formula id="epl17031ieqn75"><tex-math><?CDATA $T_1\leq T_2\leq 2T_1$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn75.gif"/>
+</inline-formula> such that we can hardly discuss quantitatively the role of pure dephasing.</p>
+<p>To conclude we have shown, in the regime where localisation is important and at sub-kelvin temperatures, that indirect excitons have a spin degree of freedom which is frozen. It can then serve for coherent memory applications, the storage decay time reaching <inline-formula id="epl17031ieqn76"><tex-math><?CDATA $\sim 30\ \text{ns}$ ?></tex-math>
+<inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="epl17031ieqn76.gif"/>
+</inline-formula> in our experiments limited by inhomogeneous broadening. At the single-exciton level, <italic>e.g.</italic> in a sub-micron wide electrostatic trap&nbsp;[<xref ref-type="bibr" rid="epl17031bib10">10</xref>], spin coherence shall then be increased. Combined to more efficient initialisations, this approach could pave the way towards interesting applications in quantum information science.</p>
+</sec>
+</body>
+<back>
+<ack>
+<title>Acknowledgments</title>
+<p>This work has been supported by the EU-ITN INDEX and EU-CIG X-BEC. The authors thank <sc>B. Eble</sc> for a critical reading of the manuscript.</p>
+</ack>
+<ref-list content-type="numerical">
+<title>References</title>
+<ref id="epl17031bib1">
+<label>1</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mazaille</surname><given-names>M. Z.</given-names></name>
+<name><surname>de Andreada e Silva</surname><given-names>E. A.</given-names></name>
+<name><surname>Sham</surname><given-names>L. J.</given-names></name>
+</person-group>
+<year>1993</year>
+<source>Phys. Rev. B</source>
+<volume>47</volume>
+<elocation-id content-type="artnum">15776</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib2">
+<label>2</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vinattieri</surname><given-names>A.</given-names></name><etal/>
+</person-group>
+<year>1994</year>
+<source>Phys. Rev. B</source>
+<volume>50</volume>
+<elocation-id content-type="artnum">10868</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib3">
+<label>3</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Vina</surname><given-names>L.</given-names></name>
+</person-group>
+<year>1999</year>
+<source>J. Phys.: Condens. Matter</source>
+<volume>11</volume>
+<fpage>5929</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib4">
+<label>4</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wu</surname><given-names>M. W.</given-names></name>
+<name><surname>Jiang</surname><given-names>J. H.</given-names></name>
+<name><surname>Weng</surname><given-names>M. Q.</given-names></name>
+</person-group>
+<year>2010</year>
+<source>Phys. Rep.</source>
+<volume>493</volume>
+<fpage>236</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib5">
+<label>5</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Bar&hyphen;Ad</surname><given-names>S.</given-names></name>
+<name><surname>Bar&hyphen;Joseph</surname><given-names>I.</given-names></name>
+</person-group>
+<year>1992</year>
+<source>Phys. Rev. Lett.</source>
+<volume>68</volume>
+<fpage>349</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib6">
+<label>6</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Damen</surname><given-names>T. C.</given-names></name>
+<name><surname>Vina</surname><given-names>L.</given-names></name>
+<name><surname>Cunningham</surname><given-names>J. E.</given-names></name>
+<name><surname>Shah</surname><given-names>J.</given-names></name>
+<name><surname>Sham</surname><given-names>L. J.</given-names></name>
+</person-group>
+<year>1991</year>
+<source>Phys. Rev. Lett.</source>
+<volume>67</volume>
+<fpage>3432</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib7">
+<label>7</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Marie</surname><given-names>X.</given-names></name><etal/>
+</person-group>
+<year>1997</year>
+<source>Phys. Rev. Lett.</source>
+<volume>79</volume>
+<fpage>3222</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib8">
+<label>8</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Paillard</surname><given-names>M.</given-names></name><etal/>
+</person-group>
+<year>2001</year>
+<source>Phys. Rev. Lett.</source>
+<volume>86</volume>
+<fpage>1634</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib9">
+<label>9</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Poem</surname><given-names>E.</given-names></name><etal/>
+</person-group>
+<year>2010</year>
+<source>Nat. Phys.</source>
+<volume>6</volume>
+<fpage>993</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib10">
+<label>10</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Schinner</surname><given-names>G.</given-names></name><etal/>
+</person-group>
+<year>2013</year>
+<source>Phys. Rev. Lett.</source>
+<volume>110</volume>
+<elocation-id content-type="artnum">127403</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib11">
+<label>11</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Aichmayr</surname><given-names>G.</given-names></name><etal/>
+</person-group>
+<year>1999</year>
+<source>Phys. Rev. Lett.</source>
+<volume>83</volume>
+<fpage>2433</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib12">
+<label>12</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Larionov</surname><given-names>A. V.</given-names></name>
+</person-group>
+<year>2006</year>
+<source>Phys. Rev. B</source>
+<volume>73</volume>
+<elocation-id content-type="artnum">235329</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib13">
+<label>13</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Leonard</surname><given-names>J. R.</given-names></name><etal/>
+</person-group>
+<year>2009</year>
+<source>Nano Lett.</source>
+<volume>9</volume>
+<fpage>4204</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib14">
+<label>14</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kowalik&hyphen;Seidl</surname><given-names>K.</given-names></name><etal/>
+</person-group>
+<year>2010</year>
+<source>Appl. Phys. Lett.</source>
+<volume>97</volume>
+<elocation-id content-type="artnum">011104</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib15">
+<label>15</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Andreakou</surname><given-names>P.</given-names></name><etal/>
+</person-group>
+<year>2015</year>
+<source>Phys. Rev. B</source>
+<volume>91</volume>
+<elocation-id content-type="artnum">125437</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib16">
+<label>16</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Poggio</surname><given-names>M.</given-names></name><etal/>
+</person-group>
+<year>2004</year>
+<source>Phys. Rev. B</source>
+<volume>70</volume>
+<elocation-id content-type="artnum">121305&lpar;R&rpar;</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib17">
+<label>17</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Alloing</surname><given-names>M.</given-names></name><etal/>
+</person-group>
+<year>2014</year>
+<source>EPL</source>
+<volume>107</volume>
+<elocation-id content-type="artnum">10012</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib18">
+<label>18</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Chen</surname><given-names>Z.</given-names></name><etal/>
+</person-group>
+<year>2007</year>
+<source>Nat. Phys.</source>
+<volume>3</volume>
+<fpage>265</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib19">
+<label>19</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Balocchi</surname><given-names>A.</given-names></name><etal/>
+</person-group>
+<year>2011</year>
+<source>Phys. Rev. Lett.</source>
+<volume>107</volume>
+<elocation-id content-type="artnum">136604</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib20">
+<label>20</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Alloing</surname><given-names>M.</given-names></name>
+<name><surname>Lema&icirc;tre</surname><given-names>A.</given-names></name>
+<name><surname>Dubin</surname><given-names>F.</given-names></name>
+</person-group>
+<year>2011</year>
+<source>EPL</source>
+<volume>93</volume>
+<elocation-id content-type="artnum">17007</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib21">
+<label>21</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ivanov</surname><given-names>A. L.</given-names></name>
+</person-group>
+<year>2004</year>
+<source>J. Phys.: Condens. Matter</source>
+<volume>16</volume>
+<fpage>S3639</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib22">
+<label>22</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>High</surname><given-names>A. A.</given-names></name><etal/>
+</person-group>
+<year>2009</year>
+<source>Nano Lett.</source>
+<volume>9</volume>
+<fpage>2094</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib23">
+<label>23</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Violante</surname><given-names>A.</given-names></name>
+<name><surname>Hey</surname><given-names>R.</given-names></name>
+<name><surname>Santos</surname><given-names>P. V.</given-names></name>
+</person-group>
+<year>2015</year>
+<source>Phys. Rev. B</source>
+<volume>91</volume>
+<elocation-id content-type="artnum">125302</elocation-id>
+</element-citation>
+</ref>
+<ref id="epl17031bib24">
+<label>24</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cristofolini</surname><given-names>P.</given-names></name><etal/>
+</person-group>
+<year>2012</year>
+<source>Science</source>
+<volume>336</volume>
+<fpage>704</fpage>
+</element-citation>
+</ref>
+<ref id="epl17031bib25">
+<label>25</label>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>de Andreada e Silva</surname><given-names>E. A.</given-names></name>
+<name><surname>La Roca</surname><given-names>G. C.</given-names></name>
+</person-group>
+<year>1997</year>
+<source>Phys. Rev. B</source>
+<volume>56</volume>
+<fpage>9259</fpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>
